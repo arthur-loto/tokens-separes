@@ -585,11 +585,6 @@
       "type": "sizing",
       "description": " "
     },
-    "390": {
-      "value": "390",
-      "type": "sizing",
-      "description": " "
-    },
     "470": {
       "value": "470",
       "type": "sizing",
@@ -597,6 +592,16 @@
     },
     "568": {
       "value": "568",
+      "type": "sizing",
+      "description": " "
+    },
+    "40%": {
+      "value": "{brk-opt-size.40}%",
+      "type": "sizing",
+      "description": " "
+    },
+    "50%": {
+      "value": "{brk-opt-size.50}%",
       "type": "sizing",
       "description": " "
     }
@@ -750,6 +755,18 @@
       "type": "boxShadow",
       "description": " "
     },
+    "solid-standard-alt-sm": {
+      "value": {
+        "x": "2",
+        "y": "2",
+        "blur": "0",
+        "spread": "0",
+        "color": "{brk-opt-color-lq-main.728}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": " "
+    },
     "solid-standard-md": {
       "value": {
         "x": "3",
@@ -757,6 +774,18 @@
         "blur": "0",
         "spread": "0",
         "color": "{brk-opt-color-neutral.1000}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": " "
+    },
+    "solid-standard-alt-md": {
+      "value": {
+        "x": "3",
+        "y": "3",
+        "blur": "0",
+        "spread": "0",
+        "color": "{brk-opt-color-lq-main.728}",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -774,6 +803,18 @@
       "type": "boxShadow",
       "description": " "
     },
+    "solid-inverted-alt-sm": {
+      "value": {
+        "x": "2",
+        "y": "2",
+        "blur": "0",
+        "spread": "0",
+        "color": "{brk-opt-color-jel.main}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": " "
+    },
     "solid-inverted-md": {
       "value": {
         "x": "3",
@@ -781,6 +822,18 @@
         "blur": "0",
         "spread": "0",
         "color": "{brk-opt-color-neutral.0}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": " "
+    },
+    "solid-inverted-alt-md": {
+      "value": {
+        "x": "3",
+        "y": "3",
+        "blur": "0",
+        "spread": "0",
+        "color": "{brk-opt-color-jel.main}",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -947,30 +1000,31 @@
     "main": {
       "value": "#7B61FF",
       "type": "color",
-      "description": "NOTE :  couleur principale utilisée pour la documentation."
+      "description": "NOTE :  couleur accent principale utilisée pour la documentation."
     },
-    "main-lightest": {
+    "lightest": {
       "value": "#eeebff",
-      "type": "color"
+      "type": "color",
+      "description": "NOTE :  couleur de base utilisée pour la documentation."
     },
     "baraka-main": {
-      "value": "#000B28",
+      "value": "#000b28",
       "type": "color"
     },
     "baraka-second": {
-      "value": "#233A59",
+      "value": "#233a59",
       "type": "color"
     },
     "baraka-third": {
-      "value": "#34C5D4",
+      "value": "#34c5d4",
       "type": "color"
     },
     "baraka-fourth": {
-      "value": "#6CEEE1",
+      "value": "#6ceee1",
       "type": "color"
     },
     "baraka-accent": {
-      "value": "#FFB648",
+      "value": "#ffb648",
       "type": "color"
     }
   }
