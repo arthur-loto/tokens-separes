@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "98c9d605958a2d2ddd380673ad09ea1bb9e30b0a",
+    "name": "Main",
+    "selectedTokenSets": {
+      "options": "source",
+      "decisions-jel": "enabled",
+      "decisions-lq": "disabled",
+      "decisions-moj": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
