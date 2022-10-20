@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
     "options",
-    "boutons-et-liens-jel",
-    "boutons-et-liens-lq",
-    "boutons-et-liens-moj"
+    "buttons-links-jel",
+    "buttons-links-lq",
+    "buttons-links-moj"
   ]
 }
