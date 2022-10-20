@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "id": "ac7acb877a0c3f4c4fc9e080e1be1c066bf7de26",
+    "name": "JEL",
+    "selectedTokenSets": {
+      "options": "enabled",
+      "buttons-links-jel": "enabled",
+      "buttons-links-lq": "disabled",
+      "buttons-links-moj": "disabled",
+      "cards-promos-jel": "enabled",
+      "cards-promos-lq": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "5ef267e97e3c9c989535ca77c1673f048571661b",
+    "name": "LQ",
+    "selectedTokenSets": {
+      "options": "enabled",
+      "buttons-links-jel": "disabled",
+      "buttons-links-lq": "enabled",
+      "buttons-links-moj": "disabled",
+      "cards-promos-jel": "disabled",
+      "cards-promos-lq": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "60593858f62ef4dd49196f5203d36cdcc70bd1cb",
+    "name": "MOJ",
+    "selectedTokenSets": {
+      "options": "enabled",
+      "buttons-links-jel": "disabled",
+      "buttons-links-lq": "disabled",
+      "buttons-links-moj": "enabled",
+      "cards-promos-jel": "disabled",
+      "cards-promos-lq": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
