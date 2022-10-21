@@ -2067,6 +2067,78 @@
     "border-color": {
       "value": "{brk-opt-color-neutral.100}",
       "type": "color"
+    },
+    "sm": {
+      "padding-vertical": {
+        "value": "{brk-opt-space.15}",
+        "type": "spacing"
+      },
+      "padding-horizontal": {
+        "value": "{brk-opt-space.15}",
+        "type": "spacing"
+      },
+      "line-padding-left": {
+        "value": "50",
+        "type": "spacing"
+      },
+      "line-padding-vertical": {
+        "value": "{brk-opt-space.10}",
+        "type": "spacing"
+      }
+    },
+    "md": {
+      "padding-vertical": {
+        "value": "{brk-opt-space.20}",
+        "type": "spacing"
+      },
+      "padding-horizontal": {
+        "value": "{brk-opt-space.20}",
+        "type": "spacing"
+      },
+      "line-padding-left": {
+        "value": "99",
+        "type": "spacing"
+      },
+      "line-padding-vertical": {
+        "value": "{brk-opt-space.15}",
+        "type": "spacing"
+      }
+    },
+    "lg": {
+      "padding-vertical": {
+        "value": "{brk-opt-space.20}",
+        "type": "spacing"
+      },
+      "padding-horizontal": {
+        "value": "{brk-opt-space.25}",
+        "type": "spacing"
+      },
+      "line-padding-left": {
+        "value": "115",
+        "type": "spacing"
+      },
+      "line-padding-vertical": {
+        "value": "{brk-opt-space.15}",
+        "type": "spacing"
+      }
+    },
+    "xl": {
+      "padding-vertical": {
+        "value": "{brk-opt-space.32}",
+        "type": "spacing"
+      },
+      "padding-horizontal": {
+        "value": "35",
+        "type": "spacing"
+      },
+      "line-padding-left": {
+        "value": "143",
+        "type": "spacing"
+      },
+      "line-padding-vertical": {
+        "value": "{brk-opt-space.15}",
+        "type": "spacing"
+      }
     }
   }
 }
