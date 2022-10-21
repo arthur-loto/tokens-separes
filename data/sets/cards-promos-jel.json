@@ -1828,6 +1828,63 @@
         },
         "type": "typography"
       }
+    },
+    "md": {
+      "image-height": {
+        "value": "79",
+        "type": "sizing"
+      },
+      "card-height": {
+        "value": "79",
+        "type": "sizing"
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.20}",
+        "type": "spacing"
+      },
+      "image-corner-radius": {
+        "value": "20",
+        "type": "borderRadius"
+      },
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.bold}",
+          "lineHeight": "{brk-opt-line-height.110%}",
+          "fontSize": "{brk-opt-font-size.20}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "{brk-opt-paragraph-spacing.0%}",
+          "textDecoration": "{brk-opt-text-decoration.none}",
+          "textCase": "{brk-opt-text-transform.none}"
+        },
+        "type": "typography"
+      },
+      "jackpot": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.bold}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.16}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "{brk-opt-paragraph-spacing.0%}",
+          "textDecoration": "{brk-opt-text-decoration.none}",
+          "textCase": "{brk-opt-text-transform.none}"
+        },
+        "type": "typography"
+      },
+      "body": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.regular}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.13}",
+          "letterSpacing": "{brk-opt-letter-spacing.0%}",
+          "paragraphSpacing": "{brk-opt-paragraph-spacing.0%}",
+          "textDecoration": "{brk-opt-text-decoration.none}",
+          "textCase": "{brk-opt-text-transform.none}"
+        },
+        "type": "typography"
+      }
     }
   },
   "brk-card-high-density-standard": {
