@@ -2139,6 +2139,14 @@
         "value": "{brk-opt-space.15}",
         "type": "spacing"
       }
+    },
+    "line-color": {
+      "value": "{brk-opt-color-neutral.100}",
+      "type": "color"
+    },
+    "line-width": {
+      "value": "{brk-opt-border-width.1}",
+      "type": "borderWidth"
     }
   }
 }
