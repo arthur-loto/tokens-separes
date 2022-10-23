@@ -1814,6 +1814,32 @@
           "textCase": "{brk-opt-text-transform.none}"
         },
         "type": "typography"
+      },
+      "jackpot": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.bold}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.10}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "{brk-opt-paragraph-spacing.0%}",
+          "textDecoration": "{brk-opt-text-decoration.none}",
+          "textCase": "{brk-opt-text-transform.none}"
+        },
+        "type": "typography"
+      },
+      "body": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.regular}",
+          "lineHeight": "{brk-opt-line-height.85%}",
+          "fontSize": "{brk-opt-font-size.9}",
+          "letterSpacing": "{brk-opt-letter-spacing.2%}",
+          "paragraphSpacing": "{brk-opt-paragraph-spacing.0%}",
+          "textDecoration": "{brk-opt-text-decoration.none}",
+          "textCase": "{brk-opt-text-transform.none}"
+        },
+        "type": "typography"
       }
     },
     "md": {
@@ -1840,6 +1866,45 @@
       "image-corner-radius": {
         "value": "20",
         "type": "borderRadius"
+      },
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.regular}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.22}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "{brk-opt-paragraph-spacing.0%}",
+          "textDecoration": "{brk-opt-text-decoration.none}",
+          "textCase": "{brk-opt-text-transform.none}"
+        },
+        "type": "typography"
+      },
+      "jackpot": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.bold}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.16}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "{brk-opt-paragraph-spacing.0%}",
+          "textDecoration": "{brk-opt-text-decoration.none}",
+          "textCase": "{brk-opt-text-transform.none}"
+        },
+        "type": "typography"
+      },
+      "body": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.regular}",
+          "lineHeight": "{brk-opt-line-height.85%}",
+          "fontSize": "{brk-opt-font-size.14}",
+          "letterSpacing": "{brk-opt-letter-spacing.2%}",
+          "paragraphSpacing": "{brk-opt-paragraph-spacing.0%}",
+          "textDecoration": "{brk-opt-text-decoration.none}",
+          "textCase": "{brk-opt-text-transform.none}"
+        },
+        "type": "typography"
       }
     },
     "lg": {
@@ -1866,6 +1931,45 @@
       "image-corner-radius": {
         "value": "25",
         "type": "borderRadius"
+      },
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.regular}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.26}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "{brk-opt-paragraph-spacing.0%}",
+          "textDecoration": "{brk-opt-text-decoration.none}",
+          "textCase": "{brk-opt-text-transform.none}"
+        },
+        "type": "typography"
+      },
+      "jackpot": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.bold}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.18}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "{brk-opt-paragraph-spacing.0%}",
+          "textDecoration": "{brk-opt-text-decoration.none}",
+          "textCase": "{brk-opt-text-transform.none}"
+        },
+        "type": "typography"
+      },
+      "body": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.regular}",
+          "lineHeight": "{brk-opt-line-height.85%}",
+          "fontSize": "{brk-opt-font-size.15}",
+          "letterSpacing": "{brk-opt-letter-spacing.2%}",
+          "paragraphSpacing": "{brk-opt-paragraph-spacing.0%}",
+          "textDecoration": "{brk-opt-text-decoration.none}",
+          "textCase": "{brk-opt-text-transform.none}"
+        },
+        "type": "typography"
       }
     },
     "xl": {
@@ -1892,6 +1996,45 @@
       "image-corner-radius": {
         "value": "30",
         "type": "borderRadius"
+      },
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.regular}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.32}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "{brk-opt-paragraph-spacing.0%}",
+          "textDecoration": "{brk-opt-text-decoration.none}",
+          "textCase": "{brk-opt-text-transform.none}"
+        },
+        "type": "typography"
+      },
+      "jackpot": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.bold}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.22}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "{brk-opt-paragraph-spacing.0%}",
+          "textDecoration": "{brk-opt-text-decoration.none}",
+          "textCase": "{brk-opt-text-transform.none}"
+        },
+        "type": "typography"
+      },
+      "body": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.regular}",
+          "lineHeight": "{brk-opt-line-height.85%}",
+          "fontSize": "{brk-opt-font-size.18}",
+          "letterSpacing": "{brk-opt-letter-spacing.2%}",
+          "paragraphSpacing": "{brk-opt-paragraph-spacing.0%}",
+          "textDecoration": "{brk-opt-text-decoration.none}",
+          "textCase": "{brk-opt-text-transform.none}"
+        },
+        "type": "typography"
       }
     }
   },
