@@ -1775,5 +1775,169 @@
       "type": "color",
       "description": " "
     }
+  },
+  "brk-card-high-density": {
+    "sm": {
+      "image-height": {
+        "value": "42",
+        "type": "sizing"
+      },
+      "card-height": {
+        "value": "50",
+        "type": "sizing"
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      },
+      "heading-margin-bottom": {
+        "value": "{brk-opt-space.3}",
+        "type": "spacing"
+      },
+      "jackpot-margin-bottom": {
+        "value": "{brk-opt-space.3}",
+        "type": "spacing"
+      }
+    },
+    "md": {
+      "image-height": {
+        "value": "78",
+        "type": "sizing"
+      },
+      "card-height": {
+        "value": "78",
+        "type": "sizing"
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.20}",
+        "type": "spacing"
+      },
+      "heading-margin-bottom": {
+        "value": "{brk-opt-space.3}",
+        "type": "spacing"
+      },
+      "jackpot-margin-bottom": {
+        "value": "{brk-opt-space.3}",
+        "type": "spacing"
+      }
+    },
+    "lg": {
+      "image-height": {
+        "value": "90",
+        "type": "sizing"
+      },
+      "card-height": {
+        "value": "93",
+        "type": "sizing"
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.25}",
+        "type": "spacing"
+      },
+      "heading-margin-bottom": {
+        "value": "{brk-opt-space.5}",
+        "type": "spacing"
+      },
+      "jackpot-margin-bottom": {
+        "value": "{brk-opt-space.5}",
+        "type": "spacing"
+      }
+    },
+    "xl": {
+      "image-height": {
+        "value": "111",
+        "type": "sizing"
+      },
+      "card-height": {
+        "value": "113",
+        "type": "sizing"
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.30}",
+        "type": "spacing"
+      },
+      "heading-margin-bottom": {
+        "value": "{brk-opt-space.5}",
+        "type": "spacing"
+      },
+      "jackpot-margin-bottom": {
+        "value": "{brk-opt-space.5}",
+        "type": "spacing"
+      }
+    }
+  },
+  "brk-card-list-high-density": {
+    "sm": {
+      "padding-vertical": {
+        "value": "{brk-opt-space.15}",
+        "type": "spacing"
+      },
+      "padding-horizontal": {
+        "value": "{brk-opt-space.15}",
+        "type": "spacing"
+      },
+      "line-padding-left": {
+        "value": "50",
+        "type": "spacing"
+      },
+      "line-padding-vertical": {
+        "value": "{brk-opt-space.10}",
+        "type": "spacing"
+      }
+    },
+    "md": {
+      "padding-vertical": {
+        "value": "19",
+        "type": "spacing"
+      },
+      "padding-horizontal": {
+        "value": "{brk-opt-space.20}",
+        "type": "spacing"
+      },
+      "line-padding-left": {
+        "value": "99",
+        "type": "spacing"
+      },
+      "line-padding-vertical": {
+        "value": "{brk-opt-space.15}",
+        "type": "spacing"
+      }
+    },
+    "lg": {
+      "padding-vertical": {
+        "value": "{brk-opt-space.20}",
+        "type": "spacing"
+      },
+      "padding-horizontal": {
+        "value": "{brk-opt-space.25}",
+        "type": "spacing"
+      },
+      "line-padding-left": {
+        "value": "115",
+        "type": "spacing"
+      },
+      "line-padding-vertical": {
+        "value": "{brk-opt-space.15}",
+        "type": "spacing"
+      }
+    },
+    "xl": {
+      "padding-vertical": {
+        "value": "{brk-opt-space.25}",
+        "type": "spacing"
+      },
+      "padding-horizontal": {
+        "value": "35",
+        "type": "spacing"
+      },
+      "line-padding-left": {
+        "value": "143",
+        "type": "spacing"
+      },
+      "line-padding-vertical": {
+        "value": "{brk-opt-space.15}",
+        "type": "spacing"
+      }
+    }
   }
 }
