@@ -1801,6 +1801,19 @@
       "image-corner-radius": {
         "value": "10",
         "type": "borderRadius"
+      },
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.regular}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.11}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "{brk-opt-paragraph-spacing.0%}",
+          "textDecoration": "{brk-opt-text-decoration.none}",
+          "textCase": "{brk-opt-text-transform.none}"
+        },
+        "type": "typography"
       }
     },
     "md": {
@@ -1970,6 +1983,14 @@
     "border-radius": {
       "value": "{brk-opt-border-radius.4}",
       "type": "borderRadius"
+    },
+    "border-width": {
+      "value": "{brk-opt-border-width.1}",
+      "type": "borderWidth"
+    },
+    "line-width": {
+      "value": "{brk-opt-border-width.1}",
+      "type": "borderWidth"
     }
   },
   "brk-card-high-density-standard": {
@@ -1984,6 +2005,32 @@
     "body-font-color": {
       "value": "{brk-opt-color-lq-main.728}",
       "type": "color"
+    }
+  },
+  "brk-card-list-high-density-standard": {
+    "box-shadow": {
+      "default": {
+        "value": {
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "#000000",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "hover": {
+        "value": {
+          "x": "0",
+          "y": "2",
+          "blur": "8",
+          "spread": "0",
+          "color": "#e6e6e6",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      }
     }
   }
 }
