@@ -2038,7 +2038,7 @@
       }
     }
   },
-  "brk-card-list-high-density": {
+  "brk-list-card-high-density": {
     "sm": {
       "padding-vertical": {
         "value": "{brk-opt-space.15}",
@@ -2150,7 +2150,7 @@
       "type": "color"
     }
   },
-  "brk-card-list-high-density-standard": {
+  "brk-list-card-high-density-standard": {
     "box-shadow": {
       "default": {
         "value": {
