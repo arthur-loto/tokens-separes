@@ -2039,7 +2039,7 @@
       "type": "color"
     }
   },
-  "brk-card-list-high-density-standard": {
+  "brk-list-card-high-density-standard": {
     "box-shadow": {
       "default": {
         "value": "{brk-opt-box-shadow.none}",
@@ -2051,7 +2051,7 @@
       }
     }
   },
-  "brk-card-list-high-density": {
+  "brk-list-card-high-density": {
     "border-radius": {
       "value": "{brk-opt-border-radius.16}",
       "type": "borderRadius"
