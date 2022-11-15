@@ -1,0 +1,280 @@
+
+//
+// tokens.h
+//
+
+// Do not edit directly
+// Generated on Tue, 15 Nov 2022 16:53:48 GMT
+
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+#define BrkInteractiveStandardOutlineColorFocus #0b5db7
+#define BrkInteractiveInvertedOutlineColorFocus #24c1ff
+#define BrkInteractiveOutlineWidth 2
+#define BrkInteractiveOutlineOffset 2
+#define BrkInteractiveOutlineBorderRadius 24
+#define BrkButtonPrimaryBorderWidth 2
+#define BrkButtonSecondaryBorderWidth 2
+#define BrkButtonTertiaryBorderWidth 1
+#define BrkButtonOpacityDisabled 50%
+#define BrkButtonPrimarySmPaddingHorizontal 15
+#define BrkButtonPrimarySmHeight 30
+#define BrkButtonPrimarySmBorderRadius 15
+#define BrkButtonPrimarySmIconSize 8
+#define BrkButtonPrimarySmIconGap 2
+#define BrkButtonPrimaryMdPaddingHorizontal 20
+#define BrkButtonPrimaryMdHeight 40
+#define BrkButtonPrimaryMdBorderRadius 20
+#define BrkButtonPrimaryMdIconSize 10
+#define BrkButtonPrimaryMdIconGap 4
+#define BrkButtonPrimaryLgPaddingHorizontal 25
+#define BrkButtonPrimaryLgHeight 50
+#define BrkButtonPrimaryLgBorderRadius 25
+#define BrkButtonPrimaryLgIconSize 12
+#define BrkButtonPrimaryLgIconGap 6
+#define BrkButtonPrimaryXlPaddingHorizontal 30
+#define BrkButtonPrimaryXlHeight 60
+#define BrkButtonPrimaryXlBorderRadius 30
+#define BrkButtonPrimaryXlIconSize 14
+#define BrkButtonPrimaryXlIconGap 8
+#define BrkButtonPrimarySmLabelFontFamily Arial
+#define BrkButtonPrimarySmLabelFontWeight Bold
+#define BrkButtonPrimarySmLabelLineHeight 100%
+#define BrkButtonPrimarySmLabelFontSize 13
+#define BrkButtonPrimarySmLabelLetterSpacing 2%
+#define BrkButtonPrimarySmLabelParagraphSpacing 
+#define BrkButtonPrimarySmLabelTextDecoration none
+#define BrkButtonPrimarySmLabelTextCase none
+#define BrkButtonPrimaryMdLabelFontFamily Arial
+#define BrkButtonPrimaryMdLabelFontWeight Bold
+#define BrkButtonPrimaryMdLabelLineHeight 100%
+#define BrkButtonPrimaryMdLabelFontSize 18
+#define BrkButtonPrimaryMdLabelLetterSpacing 2%
+#define BrkButtonPrimaryMdLabelParagraphSpacing 
+#define BrkButtonPrimaryMdLabelTextDecoration none
+#define BrkButtonPrimaryMdLabelTextCase none
+#define BrkButtonPrimaryLgLabelFontFamily Arial
+#define BrkButtonPrimaryLgLabelFontWeight Bold
+#define BrkButtonPrimaryLgLabelLineHeight 100%
+#define BrkButtonPrimaryLgLabelFontSize 22
+#define BrkButtonPrimaryLgLabelLetterSpacing 2%
+#define BrkButtonPrimaryLgLabelParagraphSpacing 
+#define BrkButtonPrimaryLgLabelTextDecoration none
+#define BrkButtonPrimaryLgLabelTextCase none
+#define BrkButtonPrimaryXlLabelFontFamily Arial
+#define BrkButtonPrimaryXlLabelFontWeight Bold
+#define BrkButtonPrimaryXlLabelLineHeight 100%
+#define BrkButtonPrimaryXlLabelFontSize 26
+#define BrkButtonPrimaryXlLabelLetterSpacing 2%
+#define BrkButtonPrimaryXlLabelParagraphSpacing 
+#define BrkButtonPrimaryXlLabelTextDecoration none
+#define BrkButtonPrimaryXlLabelTextCase none
+#define BrkButtonPrimaryStandardSmBoxShadowDefault [object Object]
+#define BrkButtonPrimaryStandardSmBoxShadowHover [object Object]
+#define BrkButtonPrimaryStandardSmBoxShadowFocus [object Object]
+#define BrkButtonPrimaryStandardFontColorDefault #192872
+#define BrkButtonPrimaryStandardIconColorDefault #192872
+#define BrkButtonPrimaryStandardBackgroundColorDefault #fdfe8b
+#define BrkButtonPrimaryStandardBorderColorDefault #192872
+#define BrkButtonPrimaryStandardFontColorHover #192872
+#define BrkButtonPrimaryStandardIconColorHover #192872
+#define BrkButtonPrimaryStandardBackgroundColorHover #fdfe8b
+#define BrkButtonPrimaryStandardBorderColorHover #192872
+#define BrkButtonPrimaryStandardFontColorFocus #192872
+#define BrkButtonPrimaryStandardIconColorFocus #192872
+#define BrkButtonPrimaryStandardBackgroundColorFocus #fdfe8b
+#define BrkButtonPrimaryStandardBorderColorFocus #192872
+#define BrkButtonPrimaryStandardMdBoxShadowDefault [object Object]
+#define BrkButtonPrimaryStandardMdBoxShadowHover [object Object]
+#define BrkButtonPrimaryStandardMdBoxShadowFocus [object Object]
+#define BrkButtonPrimaryInvertedSmBoxShadowDefault [object Object]
+#define BrkButtonPrimaryInvertedSmBoxShadowHover [object Object]
+#define BrkButtonPrimaryInvertedSmBoxShadowFocus [object Object]
+#define BrkButtonPrimaryInvertedFontColorDefault #0b5db7
+#define BrkButtonPrimaryInvertedIconColorDefault #0b5db7
+#define BrkButtonPrimaryInvertedBackgroundColorDefault #fdfe8b
+#define BrkButtonPrimaryInvertedBorderColorDefault #0b5db7
+#define BrkButtonPrimaryInvertedFontColorHover #0b5db7
+#define BrkButtonPrimaryInvertedIconColorHover #0b5db7
+#define BrkButtonPrimaryInvertedBackgroundColorHover #fdfe8b
+#define BrkButtonPrimaryInvertedBorderColorHover #0b5db7
+#define BrkButtonPrimaryInvertedFontColorFocus #0b5db7
+#define BrkButtonPrimaryInvertedIconColorFocus #0b5db7
+#define BrkButtonPrimaryInvertedBackgroundColorFocus #fdfe8b
+#define BrkButtonPrimaryInvertedBorderColorFocus #0b5db7
+#define BrkButtonPrimaryInvertedMdBoxShadowDefault [object Object]
+#define BrkButtonPrimaryInvertedMdBoxShadowHover [object Object]
+#define BrkButtonPrimaryInvertedMdBoxShadowFocus [object Object]
+#define BrkButtonSecondarySmHeight 30
+#define BrkButtonSecondarySmBorderRadius 15
+#define BrkButtonSecondarySmPaddingHorizontal 15
+#define BrkButtonSecondarySmIconSize 8
+#define BrkButtonSecondarySmIconGap 2
+#define BrkButtonSecondaryMdHeight 40
+#define BrkButtonSecondaryMdBorderRadius 20
+#define BrkButtonSecondaryMdPaddingHorizontal 20
+#define BrkButtonSecondaryMdIconSize 10
+#define BrkButtonSecondaryMdIconGap 4
+#define BrkButtonSecondaryLgHeight 50
+#define BrkButtonSecondaryLgBorderRadius 25
+#define BrkButtonSecondaryLgPaddingHorizontal 25
+#define BrkButtonSecondaryLgIconSize 12
+#define BrkButtonSecondaryLgIconGap 6
+#define BrkButtonSecondaryXlHeight 60
+#define BrkButtonSecondaryXlBorderRadius 30
+#define BrkButtonSecondaryXlPaddingHorizontal 30
+#define BrkButtonSecondaryXlIconSize 14
+#define BrkButtonSecondaryXlIconGap 8
+#define BrkButtonSecondarySmLabelFontFamily Arial
+#define BrkButtonSecondarySmLabelFontWeight Bold
+#define BrkButtonSecondarySmLabelLineHeight 100%
+#define BrkButtonSecondarySmLabelFontSize 13
+#define BrkButtonSecondarySmLabelLetterSpacing 2%
+#define BrkButtonSecondarySmLabelParagraphSpacing 
+#define BrkButtonSecondarySmLabelTextDecoration none
+#define BrkButtonSecondarySmLabelTextCase none
+#define BrkButtonSecondaryMdLabelFontFamily Arial
+#define BrkButtonSecondaryMdLabelFontWeight Bold
+#define BrkButtonSecondaryMdLabelLineHeight 100%
+#define BrkButtonSecondaryMdLabelFontSize 18
+#define BrkButtonSecondaryMdLabelLetterSpacing 2%
+#define BrkButtonSecondaryMdLabelParagraphSpacing 
+#define BrkButtonSecondaryMdLabelTextDecoration none
+#define BrkButtonSecondaryMdLabelTextCase none
+#define BrkButtonSecondaryLgLabelFontFamily Arial
+#define BrkButtonSecondaryLgLabelFontWeight Bold
+#define BrkButtonSecondaryLgLabelLineHeight 100%
+#define BrkButtonSecondaryLgLabelFontSize 22
+#define BrkButtonSecondaryLgLabelLetterSpacing 2%
+#define BrkButtonSecondaryLgLabelParagraphSpacing 
+#define BrkButtonSecondaryLgLabelTextDecoration none
+#define BrkButtonSecondaryLgLabelTextCase none
+#define BrkButtonSecondaryXlLabelFontFamily Arial
+#define BrkButtonSecondaryXlLabelFontWeight Bold
+#define BrkButtonSecondaryXlLabelLineHeight 100%
+#define BrkButtonSecondaryXlLabelFontSize 26
+#define BrkButtonSecondaryXlLabelLetterSpacing 2%
+#define BrkButtonSecondaryXlLabelParagraphSpacing 
+#define BrkButtonSecondaryXlLabelTextDecoration none
+#define BrkButtonSecondaryXlLabelTextCase none
+#define BrkButtonSecondaryStandardFontColorDefault #000000
+#define BrkButtonSecondaryStandardIconFillDefault #000000
+#define BrkButtonSecondaryStandardSmBoxShadowDefault [object Object]
+#define BrkButtonSecondaryStandardSmBoxShadowHover [object Object]
+#define BrkButtonSecondaryStandardSmBoxShadowFocus [object Object]
+#define BrkButtonSecondaryStandardBackgroundColorDefault #ffffff
+#define BrkButtonSecondaryStandardBorderColorDefault #000000
+#define BrkButtonSecondaryStandardFontColorHover #000000
+#define BrkButtonSecondaryStandardIconColorHover #000000
+#define BrkButtonSecondaryStandardBackgroundColorHover #ffffff
+#define BrkButtonSecondaryStandardBorderColorHover #000000
+#define BrkButtonSecondaryStandardFontColorFocus #000000
+#define BrkButtonSecondaryStandardIconColorFocus #000000
+#define BrkButtonSecondaryStandardBackgroundColorFocus #ffffff
+#define BrkButtonSecondaryStandardBorderColorFocus #000000
+#define BrkButtonSecondaryStandardMdBoxShadowDefault [object Object]
+#define BrkButtonSecondaryStandardMdBoxShadowHover [object Object]
+#define BrkButtonSecondaryStandardMdBoxShadowFocus [object Object]
+#define BrkButtonSecondaryInvertedSmBoxShadowDefault [object Object]
+#define BrkButtonSecondaryInvertedSmBoxShadowHover [object Object]
+#define BrkButtonSecondaryInvertedSmBoxShadowFocus [object Object]
+#define BrkButtonSecondaryInvertedFontColorDefault #ffffff
+#define BrkButtonSecondaryInvertedIconColorDefault #ffffff
+#define BrkButtonSecondaryInvertedBackgroundColorDefault #000000
+#define BrkButtonSecondaryInvertedBorderColorDefault #ffffff
+#define BrkButtonSecondaryInvertedFontColorHover #ffffff
+#define BrkButtonSecondaryInvertedIconColorHover #ffffff
+#define BrkButtonSecondaryInvertedBackgroundColorHover #000000
+#define BrkButtonSecondaryInvertedBorderColorHover #ffffff
+#define BrkButtonSecondaryInvertedFontColorFocus #ffffff
+#define BrkButtonSecondaryInvertedIconColorFocus #ffffff
+#define BrkButtonSecondaryInvertedBackgroundColorFocus #000000
+#define BrkButtonSecondaryInvertedBorderColorFocus #ffffff
+#define BrkButtonSecondaryInvertedMdBoxShadowDefault [object Object]
+#define BrkButtonSecondaryInvertedMdBoxShadowHover [object Object]
+#define BrkButtonSecondaryInvertedMdBoxShadowFocus [object Object]
+#define BrkButtonTertiarySmLabelFontFamily Graphik
+#define BrkButtonTertiarySmLabelFontWeight Bold
+#define BrkButtonTertiarySmLabelLineHeight 100%
+#define BrkButtonTertiarySmLabelFontSize 10
+#define BrkButtonTertiarySmLabelLetterSpacing 0%
+#define BrkButtonTertiarySmLabelParagraphSpacing 
+#define BrkButtonTertiarySmLabelTextDecoration none
+#define BrkButtonTertiarySmLabelTextCase uppercase
+#define BrkButtonTertiaryMdLabelFontFamily Graphik
+#define BrkButtonTertiaryMdLabelFontWeight Bold
+#define BrkButtonTertiaryMdLabelLineHeight 100%
+#define BrkButtonTertiaryMdLabelFontSize 14
+#define BrkButtonTertiaryMdLabelLetterSpacing 0%
+#define BrkButtonTertiaryMdLabelParagraphSpacing 
+#define BrkButtonTertiaryMdLabelTextDecoration none
+#define BrkButtonTertiaryMdLabelTextCase uppercase
+#define BrkButtonTertiaryLgLabelFontFamily Graphik
+#define BrkButtonTertiaryLgLabelFontWeight Bold
+#define BrkButtonTertiaryLgLabelLineHeight 100%
+#define BrkButtonTertiaryLgLabelFontSize 18
+#define BrkButtonTertiaryLgLabelLetterSpacing 0%
+#define BrkButtonTertiaryLgLabelParagraphSpacing 
+#define BrkButtonTertiaryLgLabelTextDecoration none
+#define BrkButtonTertiaryLgLabelTextCase uppercase
+#define BrkButtonTertiaryXlLabelFontFamily Graphik
+#define BrkButtonTertiaryXlLabelFontWeight Bold
+#define BrkButtonTertiaryXlLabelLineHeight 100%
+#define BrkButtonTertiaryXlLabelFontSize 22
+#define BrkButtonTertiaryXlLabelLetterSpacing 0%
+#define BrkButtonTertiaryXlLabelParagraphSpacing 
+#define BrkButtonTertiaryXlLabelTextDecoration none
+#define BrkButtonTertiaryXlLabelTextCase uppercase
+#define BrkButtonTertiarySmPaddingHorizontal 15
+#define BrkButtonTertiarySmHeight 30
+#define BrkButtonTertiarySmBorderRadius 15
+#define BrkButtonTertiarySmIconSize 8
+#define BrkButtonTertiarySmIconGap 2
+#define BrkButtonTertiaryMdPaddingHorizontal 20
+#define BrkButtonTertiaryMdHeight 40
+#define BrkButtonTertiaryMdBorderRadius 20
+#define BrkButtonTertiaryMdIconSize 10
+#define BrkButtonTertiaryMdIconGap 4
+#define BrkButtonTertiaryLgPaddingHorizontal 25
+#define BrkButtonTertiaryLgHeight 50
+#define BrkButtonTertiaryLgBorderRadius 25
+#define BrkButtonTertiaryLgIconSize 12
+#define BrkButtonTertiaryLgIconGap 6
+#define BrkButtonTertiaryXlPaddingHorizontal 30
+#define BrkButtonTertiaryXlHeight 60
+#define BrkButtonTertiaryXlBorderRadius 30
+#define BrkButtonTertiaryXlIconSize 14
+#define BrkButtonTertiaryXlIconGap 8
+#define BrkButtonTertiaryStandardBoxShadowDefault [object Object]
+#define BrkButtonTertiaryStandardBoxShadowHover [object Object]
+#define BrkButtonTertiaryStandardBoxShadowFocus [object Object]
+#define BrkButtonTertiaryStandardFontColorDefault #535353
+#define BrkButtonTertiaryStandardIconFillDefault #535353
+#define BrkButtonTertiaryStandardBackgroundColorDefault #ffffff
+#define BrkButtonTertiaryStandardBorderColorDefault #e6e6e6
+#define BrkButtonTertiaryStandardFontColorHover #1a1a1a
+#define BrkButtonTertiaryStandardIconFillHover #1a1a1a
+#define BrkButtonTertiaryStandardBackgroundColorHover #ffffff
+#define BrkButtonTertiaryStandardBorderColorHover #535353
+#define BrkButtonTertiaryStandardFontColorFocus #1a1a1a
+#define BrkButtonTertiaryStandardIconFillFocus #1a1a1a
+#define BrkButtonTertiaryStandardBackgroundColorFocus #ffffff
+#define BrkButtonTertiaryStandardBorderColorFocus #535353
+#define BrkButtonTertiaryInvertedBoxShadowDefault [object Object]
+#define BrkButtonTertiaryInvertedBoxShadowHover [object Object]
+#define BrkButtonTertiaryInvertedBoxShadowFocus [object Object]
+#define BrkButtonTertiaryInvertedFontColorDefault #e6e6e6
+#define BrkButtonTertiaryInvertedIconFillDefault #e6e6e6
+#define BrkButtonTertiaryInvertedBackgroundColorDefault #1a1a1a
+#define BrkButtonTertiaryInvertedBorderColorDefault #535353
+#define BrkButtonTertiaryInvertedFontColorHover #ffffff
+#define BrkButtonTertiaryInvertedIconFillHover #ffffff
+#define BrkButtonTertiaryInvertedBackgroundColorHover #1a1a1a
+#define BrkButtonTertiaryInvertedBorderColorHover #f2f2f2
+#define BrkButtonTertiaryInvertedFontColorFocus #ffffff
+#define BrkButtonTertiaryInvertedIconFillFocus #ffffff
+#define BrkButtonTertiaryInvertedBackgroundColorFocus #1a1a1a
+#define BrkButtonTertiaryInvertedBorderColorFocus #ffffff
+
