@@ -12,7 +12,8 @@
       "collections-moj": "enabled",
       "templates-jel": "disabled",
       "templates-lq": "disabled",
-      "resources-jel": "disabled"
+      "resources-jel": "disabled",
+      "resources-lq": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -29,7 +30,8 @@
       "collections-moj": "disabled",
       "templates-jel": "enabled",
       "templates-lq": "disabled",
-      "resources-jel": "disabled"
+      "resources-jel": "disabled",
+      "resources-lq": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -46,7 +48,8 @@
       "collections-moj": "disabled",
       "templates-jel": "disabled",
       "templates-lq": "enabled",
-      "resources-jel": "disabled"
+      "resources-jel": "disabled",
+      "resources-lq": "disabled"
     },
     "$figmaStyleReferences": {}
   }
