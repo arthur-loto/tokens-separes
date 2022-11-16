@@ -1,29 +1,4 @@
 {
-  "brk-interactive": {
-    "standard-outline-color-focus": {
-      "value": "{brk-opt-color-lq-main.728}",
-      "type": "color",
-      "description": " "
-    },
-    "inverted-outline-color-focus": {
-      "value": "{brk-opt-color-lq-main.200}",
-      "type": "color",
-      "description": " "
-    },
-    "outline-width": {
-      "value": "{brk-opt-border-width.2}",
-      "type": "borderWidth",
-      "description": " "
-    },
-    "outline-offset": {
-      "value": "{brk-opt-space.5}",
-      "type": "spacing"
-    },
-    "outline-border-radius": {
-      "value": "{brk-opt-border-radius.4}",
-      "type": "borderRadius"
-    }
-  },
   "brk-doc": {
     "standard-background-color": {
       "value": "{brk-opt-color-neutral.0}",
