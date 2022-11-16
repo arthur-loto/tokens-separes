@@ -514,7 +514,7 @@
       "type": "color",
       "description": " "
     },
-    "icon-color-focus": {
+    "icon-fill-focus": {
       "value": "{brk-opt-color-neutral.0}",
       "type": "color",
       "description": " "
