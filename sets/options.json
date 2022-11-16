@@ -193,7 +193,7 @@
     "400": {
       "value": "400",
       "type": "fontWeights",
-      "description": "NOTE : police regular."
+      "description": "NOTE : police normale."
     },
     "700": {
       "value": "700",
@@ -654,6 +654,10 @@
       "value": "470",
       "type": "sizing",
       "description": " "
+    },
+    "480": {
+      "value": "480",
+      "type": "sizing"
     },
     "568": {
       "value": "568",
