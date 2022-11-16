@@ -1,21 +1,5 @@
 [
   {
-    "id": "5ef267e97e3c9c989535ca77c1673f048571661b",
-    "name": "LQ",
-    "selectedTokenSets": {
-      "options": "enabled",
-      "actions-jel": "disabled",
-      "actions-lq": "enabled",
-      "actions-moj": "disabled",
-      "collections-jel": "disabled",
-      "collections-lq": "enabled",
-      "collections-moj": "disabled",
-      "templates-jel": "disabled",
-      "templates-lq": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "60593858f62ef4dd49196f5203d36cdcc70bd1cb",
     "name": "MOJ",
     "selectedTokenSets": {
@@ -44,6 +28,22 @@
       "collections-moj": "disabled",
       "templates-jel": "enabled",
       "templates-lq": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "5ef267e97e3c9c989535ca77c1673f048571661b",
+    "name": "LQ",
+    "selectedTokenSets": {
+      "options": "enabled",
+      "actions-jel": "disabled",
+      "actions-lq": "enabled",
+      "actions-moj": "disabled",
+      "collections-jel": "disabled",
+      "collections-lq": "enabled",
+      "collections-moj": "disabled",
+      "templates-jel": "disabled",
+      "templates-lq": "enabled"
     },
     "$figmaStyleReferences": {}
   }
