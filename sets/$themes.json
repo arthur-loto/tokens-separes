@@ -8,7 +8,8 @@
       "buttons-links-lq": "disabled",
       "buttons-links-moj": "disabled",
       "cards-promos-jel": "enabled",
-      "cards-promos-lq": "disabled"
+      "cards-promos-lq": "disabled",
+      "cards-promos-moj": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -21,7 +22,8 @@
       "buttons-links-lq": "enabled",
       "buttons-links-moj": "disabled",
       "cards-promos-jel": "disabled",
-      "cards-promos-lq": "enabled"
+      "cards-promos-lq": "enabled",
+      "cards-promos-moj": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -34,7 +36,8 @@
       "buttons-links-lq": "disabled",
       "buttons-links-moj": "enabled",
       "cards-promos-jel": "disabled",
-      "cards-promos-lq": "disabled"
+      "cards-promos-lq": "disabled",
+      "cards-promos-moj": "enabled"
     },
     "$figmaStyleReferences": {}
   }
