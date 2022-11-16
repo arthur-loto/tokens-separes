@@ -1,0 +1,327 @@
+{
+  "brk-interactive": {
+    "standard-outline-color-focus": {
+      "value": "{brk-opt-color-lq-main.728}",
+      "type": "color",
+      "description": " "
+    },
+    "inverted-outline-color-focus": {
+      "value": "{brk-opt-color-lq-main.200}",
+      "type": "color",
+      "description": " "
+    },
+    "outline-width": {
+      "value": "{brk-opt-border-width.2}",
+      "type": "borderWidth",
+      "description": " "
+    },
+    "outline-offset": {
+      "value": "{brk-opt-space.5}",
+      "type": "spacing"
+    },
+    "outline-border-radius": {
+      "value": "{brk-opt-border-radius.4}",
+      "type": "borderRadius"
+    }
+  },
+  "brk-doc": {
+    "standard-background-color": {
+      "value": "{brk-opt-color-neutral.0}",
+      "type": "color",
+      "description": "NOTE: token de documentation - seulement utile pour les designers"
+    },
+    "inverted-background-color": {
+      "value": "{brk-opt-color-lq-main.900}",
+      "type": "color",
+      "description": "NOTE: token de documentation - seulement utile pour les designers"
+    },
+    "standard-template-color": {
+      "value": "{brk-opt-color-lq-main.50}",
+      "type": "color"
+    }
+  },
+  "brk-accordion": {
+    "sm": {
+      "horizontal-padding": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      },
+      "vertical-padding": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing"
+      }
+    }
+  },
+  "brk-accordion-standard": {
+    "border-color": {
+      "value": "{brk-opt-color-neutral.50}",
+      "type": "color"
+    },
+    "background-color-default": {
+      "value": "{brk-opt-color-neutral.0}",
+      "type": "color"
+    },
+    "background-color-hover": {
+      "value": "{brk-opt-color-neutral.50}",
+      "type": "color"
+    },
+    "icon-fill": {
+      "value": "{brk-opt-color-lq-main.800}",
+      "type": "color"
+    }
+  },
+  "brk-info-product": {
+    "sm": {
+      "height": {
+        "value": "{brk-opt-size.32}",
+        "type": "sizing"
+      },
+      "separator-height": {
+        "value": "{brk-opt-size.32}",
+        "type": "sizing"
+      },
+      "text-horizontal-padding": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      },
+      "heading-padding-bottom": {
+        "value": "{brk-opt-space.4}",
+        "type": "spacing"
+      },
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.400}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.11}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "textCase": "{brk-opt-text-transform.uppercase}"
+        },
+        "type": "typography"
+      },
+      "body": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.13}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}"
+        },
+        "type": "typography"
+      }
+    },
+    "md": {
+      "height": {
+        "value": "{brk-opt-size.40}",
+        "type": "sizing"
+      },
+      "separator-height": {
+        "value": "{brk-opt-size.40}",
+        "type": "sizing"
+      },
+      "text-horizontal-padding": {
+        "value": "{brk-opt-space.12}",
+        "type": "spacing"
+      },
+      "heading-padding-bottom": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      },
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.400}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.13}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "textCase": "{brk-opt-text-transform.uppercase}"
+        },
+        "type": "typography"
+      },
+      "body": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.15}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}"
+        },
+        "type": "typography"
+      }
+    },
+    "lg": {
+      "height": {
+        "value": "{brk-opt-size.40}",
+        "type": "sizing"
+      },
+      "separator-height": {
+        "value": "{brk-opt-size.40}",
+        "type": "sizing"
+      },
+      "text-horizontal-padding": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing"
+      },
+      "heading-padding-bottom": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      },
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.400}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.13}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "textCase": "{brk-opt-text-transform.uppercase}"
+        },
+        "type": "typography"
+      },
+      "body": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.15}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}"
+        },
+        "type": "typography"
+      }
+    },
+    "separator-width": {
+      "value": "{brk-opt-border-width.1}",
+      "type": "borderWidth"
+    }
+  },
+  "brk-info-product-standard": {
+    "heading-font-color": {
+      "value": "{brk-opt-color-lq-main.500}",
+      "type": "color"
+    },
+    "body-font-color": {
+      "value": "{brk-opt-color-lq-main.900}",
+      "type": "color"
+    },
+    "separator-color": {
+      "value": "{brk-opt-color-lq-main.100}",
+      "type": "color"
+    }
+  },
+  "brk-template": {
+    "sm": {
+      "content-gap-horizontal": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à l'espace horizontal entre les colonnes."
+      },
+      "content-gap-vertical": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à l'espace vertical entre les rangées."
+      },
+      "margin-horizontal": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à la marge minimale horizontale entre le viewport et le contenu. "
+      },
+      "margin-top": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à l'espace vertical en haut du template."
+      },
+      "margin-bottom": {
+        "value": "{brk-opt-space.40}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à la marge à mettre dans le bas du template."
+      }
+    },
+    "content-max-width": {
+      "value": "{brk-opt-size.1600}",
+      "type": "sizing"
+    },
+    "md": {
+      "content-gap-horizontal": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à l'espace horizontal entre les colonnes."
+      },
+      "content-gap-vertical": {
+        "value": "{brk-opt-space.32}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à l'espace vertical entre les rangées."
+      },
+      "margin-horizontal": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à la marge minimale horizontale entre le viewport et le contenu. "
+      },
+      "margin-top": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à l'espace vertical en haut du template."
+      },
+      "margin-bottom": {
+        "value": "{brk-opt-space.48}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à la marge à mettre dans le bas du template."
+      }
+    },
+    "lg": {
+      "content-gap-horizontal": {
+        "value": "{brk-opt-space.32}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à l'espace horizontal entre les colonnes."
+      },
+      "content-gap-vertical": {
+        "value": "{brk-opt-space.40}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à l'espace vertical entre les rangées."
+      },
+      "margin-horizontal": {
+        "value": "{brk-opt-space.32}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à la marge minimale horizontale entre le viewport et le contenu. "
+      },
+      "margin-top": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à l'espace vertical en haut du template."
+      },
+      "margin-bottom": {
+        "value": "{brk-opt-space.64}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à la marge à mettre dans le bas du template."
+      }
+    }
+  },
+  "brk-thumbnail-product": {
+    "sm": {
+      "image-height": {
+        "value": "{brk-opt-size.180}",
+        "type": "sizing"
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing"
+      },
+      "image-width": {
+        "value": "{brk-opt-size.320}",
+        "type": "sizing"
+      }
+    },
+    "md": {
+      "image-height": {
+        "value": "{brk-opt-size.270}",
+        "type": "sizing"
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing"
+      },
+      "image-width": {
+        "value": "{brk-opt-size.480}",
+        "type": "sizing"
+      }
+    }
+  }
+}
