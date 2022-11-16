@@ -1,11 +1,11 @@
 {
   "tokenSetOrder": [
     "options",
-    "buttons-links-jel",
-    "buttons-links-lq",
-    "buttons-links-moj",
-    "cards-promos-jel",
-    "cards-promos-lq",
-    "cards-promos-moj"
+    "actions-jel",
+    "actions-lq",
+    "actions-moj",
+    "collections-jel",
+    "collections-lq",
+    "collections-moj"
   ]
 }

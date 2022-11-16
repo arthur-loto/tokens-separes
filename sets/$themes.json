@@ -4,12 +4,12 @@
     "name": "JEL",
     "selectedTokenSets": {
       "options": "enabled",
-      "buttons-links-jel": "enabled",
-      "buttons-links-lq": "disabled",
-      "buttons-links-moj": "disabled",
-      "cards-promos-jel": "enabled",
-      "cards-promos-lq": "disabled",
-      "cards-promos-moj": "disabled"
+      "actions-jel": "enabled",
+      "actions-lq": "disabled",
+      "actions-moj": "disabled",
+      "collections-jel": "enabled",
+      "collections-lq": "disabled",
+      "collections-moj": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -18,12 +18,12 @@
     "name": "LQ",
     "selectedTokenSets": {
       "options": "enabled",
-      "buttons-links-jel": "disabled",
-      "buttons-links-lq": "enabled",
-      "buttons-links-moj": "disabled",
-      "cards-promos-jel": "disabled",
-      "cards-promos-lq": "enabled",
-      "cards-promos-moj": "disabled"
+      "actions-jel": "disabled",
+      "actions-lq": "enabled",
+      "actions-moj": "disabled",
+      "collections-jel": "disabled",
+      "collections-lq": "enabled",
+      "collections-moj": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -32,12 +32,12 @@
     "name": "MOJ",
     "selectedTokenSets": {
       "options": "enabled",
-      "buttons-links-jel": "disabled",
-      "buttons-links-lq": "disabled",
-      "buttons-links-moj": "enabled",
-      "cards-promos-jel": "disabled",
-      "cards-promos-lq": "disabled",
-      "cards-promos-moj": "enabled"
+      "actions-jel": "disabled",
+      "actions-lq": "disabled",
+      "actions-moj": "enabled",
+      "collections-jel": "disabled",
+      "collections-lq": "disabled",
+      "collections-moj": "enabled"
     },
     "$figmaStyleReferences": {}
   }
