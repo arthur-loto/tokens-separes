@@ -39,6 +39,10 @@
       "value": "{brk-opt-color-neutral.1000}",
       "type": "color",
       "description": " "
+    },
+    "button-icon-size": {
+      "value": "{brk-opt-size.12}",
+      "type": "sizing"
     }
   },
   "brk-button": {
