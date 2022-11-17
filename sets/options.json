@@ -835,6 +835,11 @@
       "value": "1.2em",
       "type": "borderRadius",
       "description": " "
+    },
+    "140%": {
+      "value": "1.4em",
+      "type": "borderRadius",
+      "description": " "
     }
   },
   "brk-opt-border-width": {

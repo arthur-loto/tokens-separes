@@ -20,7 +20,7 @@
       "type": "spacing"
     },
     "outline-border-radius": {
-      "value": "{brk-opt-border-radius-alt.120%}",
+      "value": "{brk-opt-border-radius-alt.140%}",
       "type": "borderRadius"
     }
   },
@@ -39,6 +39,10 @@
       "value": "{brk-opt-color-neutral.1000}",
       "type": "color",
       "description": " "
+    },
+    "button-icon-size": {
+      "value": "{brk-opt-size.14}",
+      "type": "sizing"
     }
   },
   "brk-button": {
@@ -79,7 +83,7 @@
       "type": "sizing"
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius-alt.120%}",
+      "value": "{brk-opt-border-radius-alt.140%}",
       "type": "borderRadius"
     },
     "icon-size": {
@@ -374,7 +378,7 @@
       "description": " "
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius-alt.120%}",
+      "value": "{brk-opt-border-radius-alt.140%}",
       "type": "borderRadius"
     }
   },
@@ -605,7 +609,7 @@
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius-alt.120%}",
+      "value": "{brk-opt-border-radius-alt.140%}",
       "type": "borderRadius"
     }
   },
@@ -836,7 +840,7 @@
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius.0}",
+      "value": "{brk-opt-border-radius-alt.140%}",
       "type": "borderRadius"
     }
   },
