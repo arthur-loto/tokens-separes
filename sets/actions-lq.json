@@ -125,11 +125,11 @@
       "description": " "
     },
     "height": {
-      "value": "{brk-opt-size-alt-unitless.220%}em",
+      "value": "{brk-opt-size-alt-unitless.280%}em",
       "type": "sizing"
     },
     "icon-size": {
-      "value": "{brk-opt-size-alt-unitless.80%}em",
+      "value": "{brk-opt-size-alt-unitless.180%}em",
       "type": "sizing"
     },
     "padding-horizontal": {
@@ -138,7 +138,7 @@
       "description": " "
     },
     "icon-gap": {
-      "value": "{brk-opt-space-alt.80%}",
+      "value": "{brk-opt-space-alt.30%}",
       "type": "spacing"
     },
     "border-radius": {
@@ -311,15 +311,15 @@
       "description": " "
     },
     "height": {
-      "value": "{brk-opt-size-alt-unitless.220%}em",
+      "value": "{brk-opt-size-alt-unitless.280%}em",
       "type": "sizing"
     },
     "icon-size": {
-      "value": "{brk-opt-size-alt-unitless.80%}em",
+      "value": "{brk-opt-size-alt-unitless.180%}em",
       "type": "sizing"
     },
     "icon-gap": {
-      "value": "{brk-opt-space-alt.80%}",
+      "value": "{brk-opt-space-alt.30%}",
       "type": "spacing"
     },
     "sm-label": {
@@ -604,15 +604,15 @@
       "description": " "
     },
     "height": {
-      "value": "{brk-opt-size-alt-unitless.220%}em",
+      "value": "{brk-opt-size-alt-unitless.280%}em",
       "type": "sizing"
     },
     "icon-size": {
-      "value": "{brk-opt-size-alt-unitless.80%}em",
+      "value": "{brk-opt-size-alt-unitless.180%}em",
       "type": "sizing"
     },
     "icon-gap": {
-      "value": "{brk-opt-space-alt.80%}",
+      "value": "{brk-opt-space-alt.30%}",
       "type": "spacing"
     },
     "border-radius": {
@@ -836,11 +836,11 @@
       "description": " "
     },
     "height": {
-      "value": "{brk-opt-size-alt-unitless.220%}em",
+      "value": "{brk-opt-size-alt-unitless.280%}em",
       "type": "sizing"
     },
     "icon-size": {
-      "value": "{brk-opt-size-alt-unitless.80%}em",
+      "value": "{brk-opt-size-alt-unitless.180%}em",
       "type": "sizing"
     },
     "padding-horizontal": {
@@ -849,7 +849,7 @@
       "description": " "
     },
     "icon-gap": {
-      "value": "{brk-opt-space-alt.80%}",
+      "value": "{brk-opt-space-alt.30%}",
       "type": "spacing"
     },
     "border-radius": {
