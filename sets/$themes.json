@@ -30,7 +30,7 @@
       "collections-moj": "disabled",
       "templates-jel": "enabled",
       "templates-lq": "disabled",
-      "resources-jel": "disabled",
+      "resources-jel": "enabled",
       "resources-lq": "disabled"
     },
     "$figmaStyleReferences": {}
@@ -49,7 +49,7 @@
       "templates-jel": "disabled",
       "templates-lq": "enabled",
       "resources-jel": "disabled",
-      "resources-lq": "disabled"
+      "resources-lq": "enabled"
     },
     "$figmaStyleReferences": {}
   }
