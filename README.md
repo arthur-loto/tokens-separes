@@ -23,7 +23,9 @@ npx token-transformer source destination fichiers,a,inclure fichiers,a,exclure -
 
 Exemple de création de decisions-jel en utilisant tous les jeux tokens disponibles et utiles spécifiquement pour cette marque avec expandTypography.
 
-npx token-transformer sets transformer-output/decisions-jel.json options,card-promos-jel,buttons-links-jel global --expandTypography=true
+npx token-transformer sets transformer-output/decisions-jel.json options,actions-jel,collections-jel,resources-jel,templates-jel global --expandTypography=true
+
+
 
 Au fur et à mesure que d'autres sets s'ajouteront il faudra compléter la liste.
 
