@@ -365,7 +365,7 @@
         "value": "{brk-opt-size.180}",
         "type": "sizing"
       },
-      "content-gap": {
+      "margin-bottom": {
         "value": "{brk-opt-space.16}",
         "type": "spacing"
       },
@@ -379,7 +379,7 @@
         "value": "{brk-opt-size.270}",
         "type": "sizing"
       },
-      "content-gap": {
+      "margin-bottom": {
         "value": "{brk-opt-space.16}",
         "type": "spacing"
       },
