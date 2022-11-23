@@ -708,6 +708,16 @@
       "type": "sizing",
       "description": " "
     },
+    "113%": {
+      "value": "1.125",
+      "type": "sizing",
+      "description": " "
+    },
+    "125%": {
+      "value": "1.25",
+      "type": "sizing",
+      "description": " "
+    },
     "128%": {
       "value": "1.28",
       "type": "sizing",
