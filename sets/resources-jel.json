@@ -63,7 +63,7 @@
         "lineHeight": "{brk-opt-line-height.120%}",
         "fontSize": "",
         "letterSpacing": "{brk-opt-letter-spacing.0%}",
-        "paragraphSpacing": "{brk-opt-paragraph-spacing.150%}",
+        "paragraphSpacing": "{brk-opt-paragraph-spacing.100%}",
         "textDecoration": "{brk-opt-text-decoration.none}",
         "textCase": "{brk-opt-text-transform.none}"
       },
@@ -76,7 +76,7 @@
         "lineHeight": "{brk-opt-line-height.120%}",
         "fontSize": "",
         "letterSpacing": "{brk-opt-letter-spacing.0%}",
-        "paragraphSpacing": "{brk-opt-paragraph-spacing.120%}",
+        "paragraphSpacing": "{brk-opt-paragraph-spacing.100%}",
         "textDecoration": "{brk-opt-text-decoration.none}",
         "textCase": "{brk-opt-text-transform.none}"
       },
@@ -89,7 +89,7 @@
         "lineHeight": "{brk-opt-line-height.150%}",
         "fontSize": "{brk-opt-font-size.16}",
         "letterSpacing": "{brk-opt-letter-spacing.0%}",
-        "paragraphSpacing": "{brk-opt-paragraph-spacing.150%}",
+        "paragraphSpacing": "{brk-opt-paragraph-spacing.100%}",
         "textDecoration": "{brk-opt-text-decoration.none}",
         "textCase": "{brk-opt-text-transform.none}"
       },
@@ -102,7 +102,7 @@
         "lineHeight": "{brk-opt-line-height.150%}",
         "fontSize": "",
         "letterSpacing": "{brk-opt-letter-spacing.0%}",
-        "paragraphSpacing": "{brk-opt-paragraph-spacing.100%}",
+        "paragraphSpacing": "{brk-opt-paragraph-spacing.80%}",
         "textDecoration": "{brk-opt-text-decoration.none}",
         "textCase": "{brk-opt-text-transform.none}"
       },
@@ -115,7 +115,7 @@
         "lineHeight": "{brk-opt-line-height.150%}",
         "fontSize": "",
         "letterSpacing": "{brk-opt-letter-spacing.0%}",
-        "paragraphSpacing": "{brk-opt-paragraph-spacing.80%}",
+        "paragraphSpacing": "{brk-opt-paragraph-spacing.60%}",
         "textDecoration": "{brk-opt-text-decoration.none}",
         "textCase": "{brk-opt-text-transform.none}"
       },
@@ -197,32 +197,28 @@
     }
   },
   "brk-text-inverted": {
+    "display-1-font-color": {
+      "value": "{brk-opt-color-neutral.0}",
+      "type": "color"
+    },
+    "display2-font-color": {
+      "value": "{brk-opt-color-neutral.0}",
+      "type": "color"
+    },
     "heading-1-font-color": {
-      "value": "{brk-opt-color-lq-main.100}",
+      "value": "{brk-opt-color-jel.second}",
       "type": "color"
     },
     "heading-2-font-color": {
-      "value": "{brk-opt-color-lq-main.200}",
+      "value": "{brk-opt-color-jel.second}",
       "type": "color"
     },
     "heading-3-font-color": {
-      "value": "{brk-opt-color-lq-main.200}",
+      "value": "{brk-opt-color-jel.second}",
       "type": "color"
     },
-    "heading-4-font-color": {
-      "value": "{brk-opt-color-lq-main.200}",
-      "type": "color"
-    },
-    "heading-5-font-color": {
-      "value": "{brk-opt-color-lq-main.400}",
-      "type": "color"
-    },
-    "heading-6-font-color": {
-      "value": "{brk-opt-color-lq-main.400}",
-      "type": "color"
-    },
-    "body-1-font-color": {
-      "value": "{brk-opt-color-lq-main.100}",
+    "body-base-font-color": {
+      "value": "{brk-opt-color-neutral.0}",
       "type": "color"
     },
     "body-2-font-color": {
@@ -286,29 +282,29 @@
   },
   "brk-link-text-standard": {
     "body-font-color-default": {
-      "value": "{brk-opt-color-lq-main.600}",
+      "value": "{brk-opt-color-jel.main}",
       "type": "color"
     },
     "body-font-color-hover": {
-      "value": "{brk-opt-color-lq-main.600}",
+      "value": "{brk-opt-color-jel.main}",
       "type": "color"
     },
     "body-font-color-focus": {
-      "value": "{brk-opt-color-lq-main.600}",
+      "value": "{brk-opt-color-jel.main}",
       "type": "color"
     }
   },
   "brk-link-text-inverted": {
     "body-font-color-default": {
-      "value": "{brk-opt-color-lq-main.400}",
+      "value": "{brk-opt-color-jel.third}",
       "type": "color"
     },
     "body-font-color-hover": {
-      "value": "{brk-opt-color-lq-main.400}",
+      "value": "{brk-opt-color-jel.third}",
       "type": "color"
     },
     "body-font-color-focus": {
-      "value": "{brk-opt-color-lq-main.400}",
+      "value": "{brk-opt-color-jel.third}",
       "type": "color"
     }
   }

@@ -379,6 +379,11 @@
       "type": "paragraphSpacing",
       "description": " "
     },
+    "60%": {
+      "value": "0.6em",
+      "type": "paragraphSpacing",
+      "description": " "
+    },
     "100%": {
       "value": "1em",
       "type": "paragraphSpacing",
