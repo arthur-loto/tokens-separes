@@ -188,8 +188,18 @@
       "type": "lineHeights",
       "description": " "
     },
+    "140%": {
+      "value": "140%",
+      "type": "lineHeights",
+      "description": " "
+    },
     "150%": {
       "value": "150%",
+      "type": "lineHeights",
+      "description": " "
+    },
+    "160%": {
+      "value": "160%",
       "type": "lineHeights",
       "description": " "
     }
@@ -409,8 +419,8 @@
       "type": "paragraphSpacing",
       "description": " "
     },
-    "200%": {
-      "value": "2em",
+    "110%": {
+      "value": "1.1em",
       "type": "paragraphSpacing",
       "description": " "
     }
