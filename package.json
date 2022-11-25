@@ -1,0 +1,23 @@
+{
+  "name": "baraka-tokens-separes",
+  "version": "1.0.0-alpha",
+  "description": "Tests des tokens issus de fichiers séparés de Figma",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthur-loto/tokens-separes.git"
+  },
+  "author": "Arthur Rigaud <arthur.rigaud@loto-quebec.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthur-loto/tokens-separes/issues"
+  },
+  "homepage": "https://github.com/arthur-loto/tokens-separes#readme",
+  "dependencies": {
+    "style-dictionary": "^3.7.1",
+    "token-transformer": "^0.0.27"
+  }
+}
