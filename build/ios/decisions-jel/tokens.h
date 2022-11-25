@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 17 Nov 2022 15:32:24 GMT
+// Generated on Fri, 25 Nov 2022 15:04:30 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -1148,17 +1148,17 @@
 #define BrkInteractiveInvertedOutlineColorFocus #24c1ff
 #define BrkInteractiveOutlineWidth 2
 #define BrkInteractiveOutlineOffset 2
-#define BrkInteractiveOutlineBorderRadius 1.2em
+#define BrkInteractiveOutlineBorderRadius 1.4em
 #define BrkButtonPrimaryBorderWidth 0.12em
 #define BrkButtonSecondaryBorderWidth 0.12em
 #define BrkButtonTertiaryBorderWidth 0.12em
 #define BrkButtonTextBorderWidth 0
 #define BrkButtonOpacityDisabled 50%
 #define BrkButtonPrimaryPaddingHorizontal 1.2em
-#define BrkButtonPrimaryHeight 2.2em
-#define BrkButtonPrimaryBorderRadius 1.2em
-#define BrkButtonPrimaryIconSize 0.8em
-#define BrkButtonPrimaryIconGap 0.8em
+#define BrkButtonPrimaryHeight 2.8em
+#define BrkButtonPrimaryBorderRadius 1.4em
+#define BrkButtonPrimaryIconSize 1.8em
+#define BrkButtonPrimaryIconGap 0.3em
 #define BrkButtonPrimarySmLabelFontFamily Arial
 #define BrkButtonPrimarySmLabelFontWeight 700
 #define BrkButtonPrimarySmLabelLineHeight 100%
@@ -1194,37 +1194,37 @@
 #define BrkButtonPrimaryStandardBoxShadowDefault [object Object]
 #define BrkButtonPrimaryStandardBoxShadowHover [object Object]
 #define BrkButtonPrimaryStandardBoxShadowFocus [object Object]
-#define BrkButtonPrimaryStandardFontColorDefault #192872
-#define BrkButtonPrimaryStandardIconFillDefault #192872
+#define BrkButtonPrimaryStandardFontColorDefault #1a1a1a
+#define BrkButtonPrimaryStandardIconFillDefault #1a1a1a
 #define BrkButtonPrimaryStandardBackgroundColorDefault #fdfe8b
-#define BrkButtonPrimaryStandardBorderColorDefault #192872
-#define BrkButtonPrimaryStandardFontColorHover #192872
-#define BrkButtonPrimaryStandardIconFillHover #192872
+#define BrkButtonPrimaryStandardBorderColorDefault #1a1a1a
+#define BrkButtonPrimaryStandardFontColorHover #1a1a1a
+#define BrkButtonPrimaryStandardIconFillHover #1a1a1a
 #define BrkButtonPrimaryStandardBackgroundColorHover #fdfe8b
-#define BrkButtonPrimaryStandardBorderColorHover #192872
-#define BrkButtonPrimaryStandardFontColorFocus #192872
-#define BrkButtonPrimaryStandardIconFillFocus #192872
+#define BrkButtonPrimaryStandardBorderColorHover #1a1a1a
+#define BrkButtonPrimaryStandardFontColorFocus #1a1a1a
+#define BrkButtonPrimaryStandardIconFillFocus #1a1a1a
 #define BrkButtonPrimaryStandardBackgroundColorFocus #fdfe8b
-#define BrkButtonPrimaryStandardBorderColorFocus #192872
+#define BrkButtonPrimaryStandardBorderColorFocus #1a1a1a
 #define BrkButtonPrimaryInvertedBoxShadowDefault [object Object]
 #define BrkButtonPrimaryInvertedBoxShadowHover [object Object]
 #define BrkButtonPrimaryInvertedBoxShadowFocus [object Object]
-#define BrkButtonPrimaryInvertedFontColorDefault #0b5db7
-#define BrkButtonPrimaryInvertedIconFillDefault #0b5db7
+#define BrkButtonPrimaryInvertedFontColorDefault #535353
+#define BrkButtonPrimaryInvertedIconFillDefault #535353
 #define BrkButtonPrimaryInvertedBackgroundColorDefault #fdfe8b
-#define BrkButtonPrimaryInvertedBorderColorDefault #0b5db7
-#define BrkButtonPrimaryInvertedFontColorHover #0b5db7
-#define BrkButtonPrimaryInvertedIconFillHover #0b5db7
+#define BrkButtonPrimaryInvertedBorderColorDefault #535353
+#define BrkButtonPrimaryInvertedFontColorHover #535353
+#define BrkButtonPrimaryInvertedIconFillHover #535353
 #define BrkButtonPrimaryInvertedBackgroundColorHover #fdfe8b
-#define BrkButtonPrimaryInvertedBorderColorHover #0b5db7
-#define BrkButtonPrimaryInvertedFontColorFocus #0b5db7
-#define BrkButtonPrimaryInvertedIconFillFocus #0b5db7
+#define BrkButtonPrimaryInvertedBorderColorHover #535353
+#define BrkButtonPrimaryInvertedFontColorFocus #535353
+#define BrkButtonPrimaryInvertedIconFillFocus #535353
 #define BrkButtonPrimaryInvertedBackgroundColorFocus #fdfe8b
-#define BrkButtonPrimaryInvertedBorderColorFocus #0b5db7
-#define BrkButtonSecondaryHeight 2.2em
+#define BrkButtonPrimaryInvertedBorderColorFocus #535353
+#define BrkButtonSecondaryHeight 2.8em
 #define BrkButtonSecondaryPaddingHorizontal 1.2em
-#define BrkButtonSecondaryIconSize 0.8em
-#define BrkButtonSecondaryIconGap 0.8em
+#define BrkButtonSecondaryIconSize 1.8em
+#define BrkButtonSecondaryIconGap 0.3em
 #define BrkButtonSecondarySmLabelFontFamily Arial
 #define BrkButtonSecondarySmLabelFontWeight 700
 #define BrkButtonSecondarySmLabelLineHeight 100%
@@ -1257,7 +1257,7 @@
 #define BrkButtonSecondaryXlLabelParagraphSpacing 
 #define BrkButtonSecondaryXlLabelTextDecoration none
 #define BrkButtonSecondaryXlLabelTextCase none
-#define BrkButtonSecondaryBorderRadius 1.2em
+#define BrkButtonSecondaryBorderRadius 1.4em
 #define BrkButtonSecondaryStandardFontColorDefault #000000
 #define BrkButtonSecondaryStandardIconFillDefault #000000
 #define BrkButtonSecondaryStandardBoxShadowDefault [object Object]
@@ -1321,10 +1321,10 @@
 #define BrkButtonTertiaryXlLabelTextDecoration none
 #define BrkButtonTertiaryXlLabelTextCase uppercase
 #define BrkButtonTertiaryPaddingHorizontal 1.2em
-#define BrkButtonTertiaryHeight 2.2em
-#define BrkButtonTertiaryIconSize 0.8em
-#define BrkButtonTertiaryIconGap 0.8em
-#define BrkButtonTertiaryBorderRadius 1.2em
+#define BrkButtonTertiaryHeight 2.8em
+#define BrkButtonTertiaryIconSize 1.8em
+#define BrkButtonTertiaryIconGap 0.3em
+#define BrkButtonTertiaryBorderRadius 1.4em
 #define BrkButtonTertiaryStandardBoxShadowDefault [object Object]
 #define BrkButtonTertiaryStandardBoxShadowHover [object Object]
 #define BrkButtonTertiaryStandardBoxShadowFocus [object Object]
@@ -1387,11 +1387,11 @@
 #define BrkButtonTextXlLabelParagraphSpacing 
 #define BrkButtonTextXlLabelTextDecoration underline
 #define BrkButtonTextXlLabelTextCase none
-#define BrkButtonTextHeight 2.2em
-#define BrkButtonTextIconSize 0.8em
+#define BrkButtonTextHeight 2.8em
+#define BrkButtonTextIconSize 1.8em
 #define BrkButtonTextPaddingHorizontal 1.2em
-#define BrkButtonTextIconGap 0.8em
-#define BrkButtonTextBorderRadius 0
+#define BrkButtonTextIconGap 0.3em
+#define BrkButtonTextBorderRadius 1.4em
 #define BrkButtonTextStandardFontColorDefault #192872
 #define BrkButtonTextStandardIconFillDefault #192872
 #define BrkButtonTextStandardBackgroundColorDefault transparent
