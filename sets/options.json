@@ -188,8 +188,18 @@
       "type": "lineHeights",
       "description": " "
     },
+    "140%": {
+      "value": "140%",
+      "type": "lineHeights",
+      "description": " "
+    },
     "150%": {
       "value": "150%",
+      "type": "lineHeights",
+      "description": " "
+    },
+    "160%": {
+      "value": "160%",
       "type": "lineHeights",
       "description": " "
     }
@@ -379,6 +389,11 @@
       "type": "paragraphSpacing",
       "description": " "
     },
+    "60%": {
+      "value": "0.6em",
+      "type": "paragraphSpacing",
+      "description": " "
+    },
     "100%": {
       "value": "1em",
       "type": "paragraphSpacing",
@@ -404,8 +419,8 @@
       "type": "paragraphSpacing",
       "description": " "
     },
-    "200%": {
-      "value": "2em",
+    "110%": {
+      "value": "1.1em",
       "type": "paragraphSpacing",
       "description": " "
     }
@@ -698,6 +713,11 @@
       "type": "sizing",
       "description": " "
     },
+    "110%": {
+      "value": "1.1",
+      "type": "sizing",
+      "description": " "
+    },
     "120%": {
       "value": "1.2",
       "type": "sizing",
@@ -705,6 +725,16 @@
     },
     "124%": {
       "value": "1.24",
+      "type": "sizing",
+      "description": " "
+    },
+    "113%": {
+      "value": "1.125",
+      "type": "sizing",
+      "description": " "
+    },
+    "125%": {
+      "value": "1.25",
       "type": "sizing",
       "description": " "
     },
@@ -1178,6 +1208,11 @@
     },
     "250%": {
       "value": "2.5em",
+      "type": "spacing",
+      "description": " "
+    },
+    "230%": {
+      "value": "2.25em",
       "type": "spacing",
       "description": " "
     }
