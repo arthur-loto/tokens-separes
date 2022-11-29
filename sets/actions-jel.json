@@ -20,7 +20,7 @@
       "type": "spacing"
     },
     "outline-border-radius": {
-      "value": "{brk-opt-border-radius-alt.140%}",
+      "value": "{brk-opt-border-radius-alt.160%}",
       "type": "borderRadius"
     }
   },
@@ -79,11 +79,11 @@
       "description": " "
     },
     "height": {
-      "value": "{brk-opt-size-alt-unitless.280%}em",
+      "value": "{brk-opt-size-alt-unitless.220%}em",
       "type": "sizing"
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius-alt.140%}",
+      "value": "{brk-opt-border-radius-alt.160%}",
       "type": "borderRadius"
     },
     "icon-size": {
@@ -305,7 +305,7 @@
   },
   "brk-button-secondary": {
     "height": {
-      "value": "{brk-opt-size-alt-unitless.280%}em",
+      "value": "{brk-opt-size-alt-unitless.220%}em",
       "type": "sizing"
     },
     "padding-horizontal": {
@@ -378,7 +378,7 @@
       "description": " "
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius-alt.140%}",
+      "value": "{brk-opt-border-radius-alt.160%}",
       "type": "borderRadius"
     }
   },
@@ -597,7 +597,7 @@
       "description": " "
     },
     "height": {
-      "value": "{brk-opt-size-alt-unitless.280%}em",
+      "value": "{brk-opt-size-alt-unitless.220%}em",
       "type": "sizing"
     },
     "icon-size": {
@@ -609,7 +609,7 @@
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius-alt.140%}",
+      "value": "{brk-opt-border-radius-alt.160%}",
       "type": "borderRadius"
     }
   },
@@ -823,7 +823,7 @@
       "description": " "
     },
     "height": {
-      "value": "{brk-opt-size-alt-unitless.280%}em",
+      "value": "{brk-opt-size-alt-unitless.220%}em",
       "type": "sizing"
     },
     "icon-size": {
@@ -840,7 +840,7 @@
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius-alt.140%}",
+      "value": "{brk-opt-border-radius-alt.160%}",
       "type": "borderRadius"
     }
   },
