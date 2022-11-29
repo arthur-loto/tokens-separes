@@ -79,7 +79,7 @@
       "description": " "
     },
     "height": {
-      "value": "{brk-opt-size-alt-unitless.280%}em",
+      "value": "{brk-opt-size-alt-unitless.220%}em",
       "type": "sizing"
     },
     "border-radius": {
@@ -305,7 +305,7 @@
   },
   "brk-button-secondary": {
     "height": {
-      "value": "{brk-opt-size-alt-unitless.280%}em",
+      "value": "{brk-opt-size-alt-unitless.220%}em",
       "type": "sizing"
     },
     "padding-horizontal": {
@@ -597,7 +597,7 @@
       "description": " "
     },
     "height": {
-      "value": "{brk-opt-size-alt-unitless.280%}em",
+      "value": "{brk-opt-size-alt-unitless.220%}em",
       "type": "sizing"
     },
     "icon-size": {
@@ -823,7 +823,7 @@
       "description": " "
     },
     "height": {
-      "value": "{brk-opt-size-alt-unitless.280%}em",
+      "value": "{brk-opt-size-alt-unitless.220%}em",
       "type": "sizing"
     },
     "icon-size": {
