@@ -871,8 +871,8 @@
       "type": "borderRadius",
       "description": " "
     },
-    "140%": {
-      "value": "1.4em",
+    "160%": {
+      "value": "1.6em",
       "type": "borderRadius",
       "description": " "
     }

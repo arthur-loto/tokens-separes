@@ -20,7 +20,7 @@
       "type": "spacing"
     },
     "outline-border-radius": {
-      "value": "{brk-opt-border-radius-alt.140%}",
+      "value": "{brk-opt-border-radius-alt.160%}",
       "type": "borderRadius"
     }
   },
@@ -83,7 +83,7 @@
       "type": "sizing"
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius-alt.140%}",
+      "value": "{brk-opt-border-radius-alt.160%}",
       "type": "borderRadius"
     },
     "icon-size": {
@@ -378,7 +378,7 @@
       "description": " "
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius-alt.140%}",
+      "value": "{brk-opt-border-radius-alt.160%}",
       "type": "borderRadius"
     }
   },
@@ -609,7 +609,7 @@
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius-alt.140%}",
+      "value": "{brk-opt-border-radius-alt.160%}",
       "type": "borderRadius"
     }
   },
@@ -840,7 +840,7 @@
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius-alt.140%}",
+      "value": "{brk-opt-border-radius-alt.160%}",
       "type": "borderRadius"
     }
   },
