@@ -183,7 +183,7 @@
       "value": "{brk-opt-color-lq-main.728}",
       "type": "color"
     },
-    "body-base": {
+    "body-base-font-color": {
       "value": "{brk-opt-color-neutral.975}",
       "type": "color"
     },
