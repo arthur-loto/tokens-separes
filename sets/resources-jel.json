@@ -290,7 +290,7 @@
       "type": "color"
     },
     "body-font-color-focus": {
-      "value": "{brk-opt-color-jel.main}",
+      "value": "{brk-interactive.standard-outline-color-focus}",
       "type": "color"
     }
   },
@@ -304,7 +304,7 @@
       "type": "color"
     },
     "body-font-color-focus": {
-      "value": "{brk-opt-color-jel.third}",
+      "value": "{brk-interactive.inverted-outline-color-focus}",
       "type": "color"
     }
   }
