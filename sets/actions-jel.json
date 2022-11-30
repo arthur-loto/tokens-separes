@@ -152,20 +152,6 @@
     }
   },
   "brk-button-primary-standard": {
-    "box-shadow": {
-      "default": {
-        "value": "{brk-opt-box-shadow.solid-standard-alt}",
-        "type": "boxShadow"
-      },
-      "hover": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow"
-      },
-      "focus": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow"
-      }
-    },
     "font-color-default": {
       "value": "{brk-opt-color-neutral.900}",
       "type": "color",
@@ -228,20 +214,6 @@
     }
   },
   "brk-button-primary-inverted": {
-    "box-shadow": {
-      "default": {
-        "value": "{brk-opt-box-shadow.solid-inverted-alt}",
-        "type": "boxShadow"
-      },
-      "hover": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow"
-      },
-      "focus": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow"
-      }
-    },
     "font-color-default": {
       "value": "{brk-opt-color-neutral.675}",
       "type": "color",
@@ -393,20 +365,6 @@
       "type": "color",
       "description": " "
     },
-    "box-shadow": {
-      "default": {
-        "value": "{brk-opt-box-shadow.solid-standard}",
-        "type": "boxShadow"
-      },
-      "hover": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow"
-      },
-      "focus": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow"
-      }
-    },
     "background-color-default": {
       "value": "{brk-opt-color-neutral.0}",
       "type": "color",
@@ -459,20 +417,6 @@
     }
   },
   "brk-button-secondary-inverted": {
-    "box-shadow": {
-      "default": {
-        "value": "{brk-opt-box-shadow.solid-inverted}",
-        "type": "boxShadow"
-      },
-      "hover": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow"
-      },
-      "focus": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow"
-      }
-    },
     "font-color-default": {
       "value": "{brk-opt-color-neutral.0}",
       "type": "color",
@@ -614,20 +558,6 @@
     }
   },
   "brk-button-tertiary-standard": {
-    "box-shadow": {
-      "default": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow"
-      },
-      "hover": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow"
-      },
-      "focus": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow"
-      }
-    },
     "font-color-default": {
       "value": "{brk-opt-color-neutral.675}",
       "type": "color",
@@ -690,20 +620,6 @@
     }
   },
   "brk-button-tertiary-inverted": {
-    "box-shadow": {
-      "default": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow"
-      },
-      "hover": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow"
-      },
-      "focus": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow"
-      }
-    },
     "font-color-default": {
       "value": "{brk-opt-color-neutral.100}",
       "type": "color",
@@ -904,20 +820,6 @@
       "value": "{brk-opt-color-neutral.transparent}",
       "type": "color",
       "description": " "
-    },
-    "box-shadow": {
-      "default": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow"
-      },
-      "hover": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow"
-      },
-      "focus": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow"
-      }
     }
   },
   "brk-button-text-inverted": {
@@ -980,20 +882,6 @@
       "value": "{brk-opt-color-neutral.transparent}",
       "type": "color",
       "description": " "
-    },
-    "box-shadow": {
-      "default": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow"
-      },
-      "hover": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow"
-      },
-      "focus": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow"
-      }
     }
   }
 }

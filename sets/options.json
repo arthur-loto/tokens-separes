@@ -947,54 +947,6 @@
       },
       "type": "boxShadow",
       "description": " "
-    },
-    "solid-standard": {
-      "value": {
-        "x": "0.15em",
-        "y": "0.15em",
-        "blur": "0",
-        "spread": "0",
-        "color": "{brk-opt-color-neutral.1000}",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow",
-      "description": " "
-    },
-    "solid-standard-alt": {
-      "value": {
-        "x": "0.15em",
-        "y": "0.15em",
-        "blur": "0",
-        "spread": "0",
-        "color": "{brk-opt-color-neutral.900}",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow",
-      "description": " "
-    },
-    "solid-inverted": {
-      "value": {
-        "x": "0.15em",
-        "y": "0.15em",
-        "blur": "0",
-        "spread": "0",
-        "color": "{brk-opt-color-neutral.0}",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow",
-      "description": " "
-    },
-    "solid-inverted-alt": {
-      "value": {
-        "x": "0.15em",
-        "y": "0.15em",
-        "blur": "0",
-        "spread": "0",
-        "color": "{brk-opt-color-neutral.675}",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow",
-      "description": " "
     }
   },
   "brk-opt-space": {
