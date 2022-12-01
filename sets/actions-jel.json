@@ -20,7 +20,7 @@
       "type": "spacing"
     },
     "outline-border-radius": {
-      "value": "{brk-opt-border-radius-alt.160%}",
+      "value": "{brk-opt-border-radius.24}",
       "type": "borderRadius"
     }
   },
@@ -39,30 +39,26 @@
       "value": "{brk-opt-color-neutral.1000}",
       "type": "color",
       "description": " "
-    },
-    "button-icon-size": {
-      "value": "{brk-opt-size.14}",
-      "type": "sizing"
     }
   },
   "brk-button": {
     "primary-border-width": {
-      "value": "{brk-opt-border-width-alt.12%}",
+      "value": "{brk-opt-border-width.2}",
       "type": "borderWidth",
       "description": " "
     },
     "secondary-border-width": {
-      "value": "{brk-opt-border-width-alt.12%}",
+      "value": "{brk-opt-border-width.2}",
       "type": "borderWidth",
       "description": " "
     },
     "tertiary-border-width": {
-      "value": "{brk-opt-border-width-alt.12%}",
+      "value": "{brk-opt-border-width.2}",
       "type": "borderWidth",
       "description": " "
     },
     "text-border-width": {
-      "value": "{brk-opt-border-width.0}",
+      "value": "{brk-opt-border-width.2}",
       "type": "borderWidth",
       "description": " "
     },
@@ -74,24 +70,24 @@
   },
   "brk-button-primary": {
     "padding-horizontal": {
-      "value": "{brk-opt-space-alt.120%}",
+      "value": "{brk-opt-space.24}",
       "type": "spacing",
       "description": " "
     },
     "height": {
-      "value": "{brk-opt-size-alt-unitless.220%}em",
+      "value": "{brk-opt-size.36}",
       "type": "sizing"
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius-alt.160%}",
+      "value": "{brk-opt-border-radius.24}",
       "type": "borderRadius"
     },
     "icon-size": {
-      "value": "{brk-opt-size-alt-unitless.180%}em",
+      "value": "{brk-opt-size.16}",
       "type": "sizing"
     },
     "icon-gap": {
-      "value": "{brk-opt-space-alt.30%}",
+      "value": "{brk-opt-space.8}",
       "type": "spacing"
     },
     "sm-label": {
@@ -277,20 +273,20 @@
   },
   "brk-button-secondary": {
     "height": {
-      "value": "{brk-opt-size-alt-unitless.220%}em",
+      "value": "{brk-opt-size.36}",
       "type": "sizing"
     },
     "padding-horizontal": {
-      "value": "{brk-opt-space-alt.120%}",
+      "value": "{brk-opt-space.24}",
       "type": "spacing",
       "description": " "
     },
     "icon-size": {
-      "value": "{brk-opt-size-alt-unitless.180%}em",
+      "value": "{brk-opt-size.16}",
       "type": "sizing"
     },
     "icon-gap": {
-      "value": "{brk-opt-space-alt.30%}",
+      "value": "{brk-opt-space.8}",
       "type": "spacing"
     },
     "sm-label": {
@@ -350,7 +346,7 @@
       "description": " "
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius-alt.160%}",
+      "value": "{brk-opt-border-radius.24}",
       "type": "borderRadius"
     }
   },
@@ -536,24 +532,24 @@
       "description": " "
     },
     "padding-horizontal": {
-      "value": "{brk-opt-space-alt.120%}",
+      "value": "{brk-opt-space.24}",
       "type": "spacing",
       "description": " "
     },
     "height": {
-      "value": "{brk-opt-size-alt-unitless.220%}em",
+      "value": "{brk-opt-size.36}",
       "type": "sizing"
     },
     "icon-size": {
-      "value": "{brk-opt-size-alt-unitless.180%}em",
+      "value": "{brk-opt-size.12}",
       "type": "sizing"
     },
     "icon-gap": {
-      "value": "{brk-opt-space-alt.30%}",
+      "value": "{brk-opt-space.8}",
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius-alt.160%}",
+      "value": "{brk-opt-border-radius.24}",
       "type": "borderRadius"
     }
   },
@@ -739,24 +735,24 @@
       "description": " "
     },
     "height": {
-      "value": "{brk-opt-size-alt-unitless.220%}em",
+      "value": "{brk-opt-size.36}",
       "type": "sizing"
     },
     "icon-size": {
-      "value": "{brk-opt-size-alt-unitless.180%}em",
+      "value": "{brk-opt-size.12}",
       "type": "sizing"
     },
     "padding-horizontal": {
-      "value": "{brk-opt-space-alt.120%}",
+      "value": "{brk-opt-space.24}",
       "type": "spacing",
       "description": " "
     },
     "icon-gap": {
-      "value": "{brk-opt-space-alt.30%}",
+      "value": "{brk-opt-space.8}",
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius-alt.160%}",
+      "value": "{brk-opt-border-radius.24}",
       "type": "borderRadius"
     }
   },
