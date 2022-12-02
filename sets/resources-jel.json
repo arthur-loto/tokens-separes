@@ -183,7 +183,7 @@
       "value": "{brk-opt-color-lq-main.728}",
       "type": "color"
     },
-    "body-base": {
+    "body-base-font-color": {
       "value": "{brk-opt-color-neutral.975}",
       "type": "color"
     },
@@ -231,27 +231,15 @@
     }
   },
   "brk-text-style": {
-    "heading-strong": {
-      "value": "{brk-opt-font-weight.950}",
-      "type": "other"
-    },
-    "heading-emphasis": {
+    "brand-main-emphasis": {
       "value": "{brk-opt-font-style.oblique}",
       "type": "other"
     },
-    "body-strong": {
+    "webfont-strong": {
       "value": "{brk-opt-font-weight.700}",
       "type": "other"
     },
-    "body-emphasis": {
-      "value": "{brk-opt-font-style.italic}",
-      "type": "other"
-    },
-    "caption-strong": {
-      "value": "{brk-opt-font-weight.700}",
-      "type": "other"
-    },
-    "caption-emphasis": {
+    "webfont-emphasis": {
       "value": "{brk-opt-font-style.italic}",
       "type": "other"
     }
@@ -290,7 +278,7 @@
       "type": "color"
     },
     "body-font-color-focus": {
-      "value": "{brk-opt-color-jel.main}",
+      "value": "{brk-interactive.standard-outline-color-focus}",
       "type": "color"
     }
   },
@@ -304,7 +292,7 @@
       "type": "color"
     },
     "body-font-color-focus": {
-      "value": "{brk-opt-color-jel.third}",
+      "value": "{brk-interactive.inverted-outline-color-focus}",
       "type": "color"
     }
   }
