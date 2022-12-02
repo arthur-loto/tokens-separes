@@ -25,18 +25,18 @@
     }
   },
   "brk-doc": {
-    "standard-background-color": {
-      "value": "{brk-opt-color-neutral.0}",
+    "standard-background-color-copy": {
+      "value": "{brk-opt-color-neutral.25}",
+      "type": "color",
+      "description": " "
+    },
+    "inverted-background-color-copy": {
+      "value": "{brk-opt-color-lq-main.900}",
       "type": "color",
       "description": " "
     },
     "standard-template-color": {
       "value": "{brk-opt-color-neutral.50}",
-      "type": "color",
-      "description": " "
-    },
-    "inverted-background-color": {
-      "value": "{brk-opt-color-neutral.1000}",
       "type": "color",
       "description": " "
     }
@@ -169,17 +169,17 @@
       "description": " "
     },
     "font-color-hover": {
-      "value": "{brk-opt-color-neutral.900}",
+      "value": "{brk-opt-color-jel.accent}",
       "type": "color",
       "description": " "
     },
     "icon-fill-hover": {
-      "value": "{brk-opt-color-neutral.900}",
+      "value": "{brk-opt-color-jel.accent}",
       "type": "color",
       "description": " "
     },
     "background-color-hover": {
-      "value": "{brk-opt-color-jel.accent}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
     },
@@ -211,12 +211,12 @@
   },
   "brk-button-primary-inverted": {
     "font-color-default": {
-      "value": "{brk-opt-color-neutral.675}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
     },
     "icon-fill-default": {
-      "value": "{brk-opt-color-neutral.675}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
     },
@@ -226,37 +226,37 @@
       "description": " "
     },
     "border-color-default": {
-      "value": "{brk-opt-color-neutral.675}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
     },
     "font-color-hover": {
-      "value": "{brk-opt-color-neutral.675}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
     },
     "icon-fill-hover": {
-      "value": "{brk-opt-color-neutral.675}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
     },
     "background-color-hover": {
-      "value": "{brk-opt-color-jel.accent}",
+      "value": "{brk-opt-color-neutral.0}",
       "type": "color",
       "description": " "
     },
     "border-color-hover": {
-      "value": "{brk-opt-color-neutral.675}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
     },
     "font-color-focus": {
-      "value": "{brk-opt-color-neutral.675}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
     },
     "icon-fill-focus": {
-      "value": "{brk-opt-color-neutral.675}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
     },
@@ -266,7 +266,7 @@
       "description": " "
     },
     "border-color-focus": {
-      "value": "{brk-opt-color-neutral.675}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
     }
@@ -352,37 +352,36 @@
   },
   "brk-button-secondary-standard": {
     "font-color-default": {
-      "value": "{brk-opt-color-neutral.1000}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
     },
     "icon-fill-default": {
-      "value": "{brk-opt-color-neutral.1000}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
     },
     "background-color-default": {
-      "value": "{brk-opt-color-neutral.0}",
-      "type": "color",
-      "description": " NOTE : la couleur du fond des boutons secondaires JEL est transparente. Dans Figma, on est obligé d'utiliser une couleur pour représenter le bouton, mais pas pour le code."
+      "value": "{brk-opt-color-neutral.transparent}",
+      "type": "color"
     },
     "border-color-default": {
-      "value": "{brk-opt-color-neutral.1000}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
     },
     "font-color-hover": {
-      "value": "{brk-opt-color-neutral.1000}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
     },
     "icon-fill-hover": {
-      "value": "{brk-opt-color-neutral.1000}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
     },
     "background-color-hover": {
-      "value": "{brk-opt-color-neutral.0}",
+      "value": "{brk-opt-color-neutral.transparent}",
       "type": "color",
       "description": " "
     },
