@@ -189,22 +189,22 @@
       "description": " "
     },
     "font-color-focus": {
-      "value": "{brk-opt-color-neutral.1000}",
+      "value": "{brk-opt-color-moj.second}",
       "type": "color",
       "description": " "
     },
     "icon-fill-focus": {
-      "value": "{brk-opt-color-neutral.1000}",
-      "type": "color",
-      "description": " "
-    },
-    "background-color-focus": {
       "value": "{brk-opt-color-neutral.0}",
       "type": "color",
       "description": " "
     },
+    "background-color-focus": {
+      "value": "{brk-opt-color-neutral.1000}",
+      "type": "color",
+      "description": " "
+    },
     "border-color-focus": {
-      "value": "transparent",
+      "value": "{brk-opt-color-neutral.transparent}",
       "type": "color",
       "description": " "
     }
@@ -261,7 +261,7 @@
       "description": " "
     },
     "background-color-focus": {
-      "value": "{brk-opt-color-neutral.0}",
+      "value": "{brk-opt-color-moj.main-web}",
       "type": "color",
       "description": " "
     },
@@ -402,7 +402,7 @@
       "description": " "
     },
     "background-color-focus": {
-      "value": "{brk-opt-color-neutral.0}",
+      "value": "{brk-opt-color-neutral.transparent}",
       "type": "color",
       "description": " "
     },
@@ -454,22 +454,22 @@
       "description": " "
     },
     "font-color-focus": {
-      "value": "{brk-opt-color-neutral.1000}",
+      "value": "{brk-opt-color-moj.second}",
       "type": "color",
       "description": " "
     },
     "icon-fill-focus": {
-      "value": "{brk-opt-color-neutral.1000}",
+      "value": "{brk-opt-color-moj.second}",
       "type": "color",
       "description": " "
     },
     "background-color-focus": {
-      "value": "{brk-opt-color-neutral.0}",
+      "value": "{brk-opt-color-neutral.transparent}",
       "type": "color",
       "description": " "
     },
     "border-color-focus": {
-      "value": "{brk-opt-color-neutral.1000}",
+      "value": "{brk-opt-color-moj.second}",
       "type": "color",
       "description": " "
     }
@@ -605,7 +605,7 @@
       "description": " "
     },
     "background-color-focus": {
-      "value": "{brk-opt-color-moj.second}",
+      "value": "{brk-opt-color-neutral.0}",
       "type": "color",
       "description": " "
     },
@@ -667,7 +667,7 @@
       "description": " "
     },
     "background-color-focus": {
-      "value": "{brk-opt-color-moj.second}",
+      "value": "{brk-opt-color-neutral.0}",
       "type": "color",
       "description": " "
     },
