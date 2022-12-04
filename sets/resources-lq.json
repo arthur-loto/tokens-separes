@@ -231,27 +231,15 @@
     }
   },
   "brk-text-style": {
-    "heading-strong": {
-      "value": "{brk-opt-font-weight.950}",
-      "type": "other"
-    },
-    "heading-emphasis": {
+    "brand-main-emphasis": {
       "value": "{brk-opt-font-style.oblique}",
       "type": "other"
     },
-    "body-strong": {
+    "webfont-strong": {
       "value": "{brk-opt-font-weight.700}",
       "type": "other"
     },
-    "body-emphasis": {
-      "value": "{brk-opt-font-style.italic}",
-      "type": "other"
-    },
-    "caption-strong": {
-      "value": "{brk-opt-font-weight.700}",
-      "type": "other"
-    },
-    "caption-emphasis": {
+    "webfont-emphasis": {
       "value": "{brk-opt-font-style.italic}",
       "type": "other"
     }
