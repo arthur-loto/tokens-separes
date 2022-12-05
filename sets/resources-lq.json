@@ -45,7 +45,7 @@
     },
     "heading-1": {
       "value": {
-        "fontFamily": "{brk-opt-font-family.webfont}",
+        "fontFamily": "{brk-opt-font-family.brand-main}",
         "fontWeight": "{brk-opt-font-weight.700}",
         "lineHeight": "{brk-opt-line-height.130%}",
         "fontSize": "",
