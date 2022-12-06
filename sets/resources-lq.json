@@ -1,21 +1,4 @@
 {
-  "brk-doc": {
-    "standard-background-color": {
-      "value": "{brk-opt-color-neutral.0}",
-      "type": "color",
-      "description": " "
-    },
-    "standard-template-color": {
-      "value": "{brk-opt-color-neutral.50}",
-      "type": "color",
-      "description": " "
-    },
-    "inverted-background-color": {
-      "value": "{brk-opt-color-neutral.1000}",
-      "type": "color",
-      "description": " "
-    }
-  },
   "brk-text": {
     "display-1": {
       "value": {
@@ -45,7 +28,7 @@
     },
     "heading-1": {
       "value": {
-        "fontFamily": "{brk-opt-font-family.webfont}",
+        "fontFamily": "{brk-opt-font-family.brand-main}",
         "fontWeight": "{brk-opt-font-weight.700}",
         "lineHeight": "{brk-opt-line-height.130%}",
         "fontSize": "",

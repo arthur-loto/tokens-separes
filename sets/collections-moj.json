@@ -1,16 +1,4 @@
 {
-  "brk-doc": {
-    "standard-background-color": {
-      "value": "{brk-opt-color-moj.main-web}",
-      "type": "color",
-      "description": "NOTE: token de documentation - seulement utile pour les designers"
-    },
-    "inverted-background-color": {
-      "value": "{brk-opt-color-neutral.1000}",
-      "type": "color",
-      "description": "NOTE: token de documentation - seulement utile pour les designers"
-    }
-  },
   "brk-doc-card": {
     "image-border-radius": {
       "value": "{brk-opt-border-radius.0}",
