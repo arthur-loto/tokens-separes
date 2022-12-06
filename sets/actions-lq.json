@@ -25,12 +25,12 @@
     }
   },
   "brk-doc": {
-    "standard-background-color2": {
+    "standard-background-color-copy": {
       "value": "{brk-opt-color-neutral.50}",
       "type": "color",
       "description": "NOTE: token de documentation - seulement utile pour les designers"
     },
-    "inverted-background-color2": {
+    "inverted-background-color-copy": {
       "value": "{brk-opt-color-lq-main.800}",
       "type": "color",
       "description": "NOTE: token de documentation - seulement utile pour les designers"

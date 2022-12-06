@@ -25,12 +25,12 @@
     }
   },
   "brk-doc": {
-    "standard-background-color2": {
+    "standard-background-color-copy": {
       "value": "{brk-opt-color-neutral.50}",
       "type": "color",
       "description": " "
     },
-    "inverted-background-color2": {
+    "inverted-background-color-copy": {
       "value": "{brk-opt-color-lq-main.900}",
       "type": "color",
       "description": " "
