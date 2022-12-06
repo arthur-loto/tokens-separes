@@ -164,11 +164,11 @@
   },
   "brk-text-standard": {
     "display-1-font-color": {
-      "value": "{brk-opt-color-neutral.975}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color"
     },
     "display-2-font-color": {
-      "value": "{brk-opt-color-neutral.975}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color"
     },
     "heading-1-font-color": {
@@ -184,15 +184,15 @@
       "type": "color"
     },
     "body-base-font-color": {
-      "value": "{brk-opt-color-neutral.975}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color"
     },
     "body-2-font-color": {
-      "value": "{brk-opt-color-neutral.975}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color"
     },
     "caption-font-color": {
-      "value": "{brk-opt-color-neutral.975}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color"
     }
   },
