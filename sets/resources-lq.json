@@ -1,21 +1,4 @@
 {
-  "brk-doc": {
-    "standard-background-color": {
-      "value": "{brk-opt-color-neutral.0}",
-      "type": "color",
-      "description": " "
-    },
-    "standard-template-color": {
-      "value": "{brk-opt-color-neutral.50}",
-      "type": "color",
-      "description": " "
-    },
-    "inverted-background-color": {
-      "value": "{brk-opt-color-neutral.1000}",
-      "type": "color",
-      "description": " "
-    }
-  },
   "brk-text": {
     "display-1": {
       "value": {
