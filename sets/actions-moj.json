@@ -729,7 +729,7 @@
       "description": " "
     },
     "height": {
-      "value": "{brk-opt-size.30}",
+      "value": "{brk-opt-size.16}",
       "type": "sizing"
     },
     "icon-size": {
@@ -737,7 +737,7 @@
       "type": "sizing"
     },
     "padding-horizontal": {
-      "value": "{brk-opt-space.24}",
+      "value": "{brk-opt-space.0}",
       "type": "spacing",
       "description": " "
     },
