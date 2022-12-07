@@ -1,4 +1,4 @@
-{
+{ 
   "brk-accordion": {
     "sm": {
       "horizontal-padding": {
@@ -8,7 +8,33 @@
       "vertical-padding": {
         "value": "{brk-opt-space.16}",
         "type": "spacing"
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing"
       }
+    },
+    "md": {
+      "horizontal-padding": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing"
+      },
+      "vertical-padding": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing"
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing"
+      },
+      "icon-padding-left": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      }
+    },
+    "icon-size": {
+      "value": "{brk-opt-size.16}",
+      "type": "sizing"
     }
   },
   "brk-accordion-standard": {
