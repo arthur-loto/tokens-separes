@@ -10,7 +10,7 @@
         "type": "spacing"
       },
       "content-gap": {
-        "value": "{brk-opt-space.8}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing"
       }
     },
@@ -24,7 +24,7 @@
         "type": "spacing"
       },
       "content-gap": {
-        "value": "{brk-opt-space.8}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing"
       }
     },
