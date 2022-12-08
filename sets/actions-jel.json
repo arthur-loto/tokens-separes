@@ -858,6 +858,36 @@
         "value": "{brk-button-secondary.sm-font-size}*{brk-button-secondary.icon-size}",
         "type": "sizing"
       }
+    },
+    "md": {
+      "height": {
+        "value": "{brk-button-secondary.md-font-size}*{brk-button-secondary.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-button-secondary.md-font-size}*{brk-button-secondary.icon-size}",
+        "type": "sizing"
+      }
+    },
+    "lg": {
+      "height": {
+        "value": "{brk-button-secondary.lg-font-size}*{brk-button-secondary.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-button-secondary.lg-font-size}*{brk-button-secondary.icon-size}",
+        "type": "sizing"
+      }
+    },
+    "xl": {
+      "height": {
+        "value": "{brk-button-secondary.xl-font-size}*{brk-button-secondary.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-button-secondary.xl-font-size}*{brk-button-secondary.icon-size}",
+        "type": "sizing"
+      }
     }
   },
   "brk-fig-button-tertiary": {
@@ -870,6 +900,36 @@
         "value": "{brk-button-tertiary.sm-font-size}*{brk-button-tertiary.icon-size}",
         "type": "sizing"
       }
+    },
+    "md": {
+      "height": {
+        "value": "{brk-button-tertiary.md-font-size}*{brk-button-tertiary.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-button-tertiary.md-font-size}*{brk-button-tertiary.icon-size}",
+        "type": "sizing"
+      }
+    },
+    "lg": {
+      "height": {
+        "value": "{brk-button-tertiary.lg-font-size}*{brk-button-tertiary.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-button-tertiary.lg-font-size}*{brk-button-tertiary.icon-size}",
+        "type": "sizing"
+      }
+    },
+    "xl": {
+      "height": {
+        "value": "{brk-button-tertiary.xl-font-size}*{brk-button-tertiary.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-button-tertiary.xl-font-size}*{brk-button-tertiary.icon-size}",
+        "type": "sizing"
+      }
     }
   },
   "brk-fig-button-text": {
@@ -880,6 +940,36 @@
       },
       "icon-size": {
         "value": "{brk-button-text.sm-font-size}*{brk-button-text.icon-size}",
+        "type": "sizing"
+      }
+    },
+    "md": {
+      "height": {
+        "value": "{brk-button-text.md-font-size}*{brk-button-text.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-button-text.md-font-size}*{brk-button-text.icon-size}",
+        "type": "sizing"
+      }
+    },
+    "lg": {
+      "height": {
+        "value": "{brk-button-text.lg-font-size}*{brk-button-text.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-button-text.lg-font-size}*{brk-button-text.icon-size}",
+        "type": "sizing"
+      }
+    },
+    "xl": {
+      "height": {
+        "value": "{brk-button-text.xl-font-size}*{brk-button-text.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-button-text.xl-font-size}*{brk-button-text.icon-size}",
         "type": "sizing"
       }
     }
