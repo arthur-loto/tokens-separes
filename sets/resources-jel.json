@@ -170,7 +170,15 @@
       "value": "{brk-opt-space-alt.100%}",
       "type": "spacing"
     },
+    "list-element-padding-left": {
+      "value": "{brk-opt-space-alt.100%}",
+      "type": "spacing"
+    },
     "list-margin-bottom": {
+      "value": "{brk-opt-space-alt.150%}",
+      "type": "spacing"
+    },
+    "list-padding-left": {
       "value": "{brk-opt-space-alt.150%}",
       "type": "spacing"
     },
@@ -189,6 +197,10 @@
       "type": "color"
     },
     "display-2-font-color": {
+      "value": "{brk-opt-color-neutral.900}",
+      "type": "color"
+    },
+    "display-3-font-color": {
       "value": "{brk-opt-color-neutral.900}",
       "type": "color"
     },
@@ -223,6 +235,10 @@
       "type": "color"
     },
     "display2-font-color": {
+      "value": "{brk-opt-color-neutral.0}",
+      "type": "color"
+    },
+    "display3-font-color": {
       "value": "{brk-opt-color-neutral.0}",
       "type": "color"
     },
@@ -317,6 +333,16 @@
     "body-font-color-focus": {
       "value": "{brk-interactive.inverted-outline-color-focus}",
       "type": "color"
+    }
+  },
+  "brk-opt-list-style-type": {
+    "ordered": {
+      "value": "{brk-opt-list-style-type.decimal}",
+      "type": "other"
+    },
+    "unordered": {
+      "value": "{brk-opt-list-style-type.circle}",
+      "type": "other"
     }
   }
 }
