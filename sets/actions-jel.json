@@ -70,12 +70,12 @@
   },
   "brk-button-primary": {
     "padding-horizontal": {
-      "value": "{brk-opt-space.24}",
+      "value": "{brk-opt-size-ratio.12}",
       "type": "spacing",
       "description": " "
     },
     "height": {
-      "value": "{brk-opt-size-ratio.26}",
+      "value": "{brk-opt-size-ratio.27}",
       "type": "sizing"
     },
     "border-radius": {
@@ -83,7 +83,7 @@
       "type": "borderRadius"
     },
     "icon-size": {
-      "value": "{brk-opt-size-ratio.08}",
+      "value": "{brk-opt-size-ratio.12}",
       "type": "sizing"
     },
     "icon-gap": {
@@ -249,16 +249,16 @@
   },
   "brk-button-secondary": {
     "height": {
-      "value": "{brk-opt-size-ratio.26}",
+      "value": "{brk-opt-size-ratio.27}",
       "type": "sizing"
     },
     "padding-horizontal": {
-      "value": "{brk-opt-space.24}",
+      "value": "{brk-opt-size-ratio.12}",
       "type": "spacing",
       "description": " "
     },
     "icon-size": {
-      "value": "{brk-opt-size-ratio.08}",
+      "value": "{brk-opt-size-ratio.12}",
       "type": "sizing"
     },
     "icon-gap": {
@@ -434,16 +434,16 @@
   },
   "brk-button-tertiary": {
     "padding-horizontal": {
-      "value": "{brk-opt-space.24}",
+      "value": "{brk-opt-size-ratio.12}",
       "type": "spacing",
       "description": " "
     },
     "height": {
-      "value": "{brk-opt-size-ratio.26}",
+      "value": "{brk-opt-size-ratio.27}",
       "type": "sizing"
     },
     "icon-size": {
-      "value": "{brk-opt-size-ratio.08}",
+      "value": "{brk-opt-size-ratio.12}",
       "type": "sizing"
     },
     "icon-gap": {
@@ -621,15 +621,15 @@
   },
   "brk-button-text": {
     "height": {
-      "value": "{brk-opt-size-ratio.26}",
+      "value": "{brk-opt-size.1}",
       "type": "sizing"
     },
     "icon-size": {
-      "value": "{brk-opt-size-ratio.08}",
+      "value": "{brk-opt-size-ratio.12}",
       "type": "sizing"
     },
     "padding-horizontal": {
-      "value": "{brk-opt-space.0}",
+      "value": "{brk-opt-size-ratio.12}",
       "type": "spacing",
       "description": " "
     },
