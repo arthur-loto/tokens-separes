@@ -34,6 +34,19 @@
       "value": {
         "fontFamily": "{brk-opt-font-family.brand-main}",
         "fontWeight": "{brk-opt-font-weight.950}",
+        "lineHeight": "{brk-opt-line-height.110%}",
+        "fontSize": "",
+        "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+        "paragraphSpacing": "{brk-opt-paragraph-spacing.110%}",
+        "textDecoration": "{brk-opt-text-decoration.none}",
+        "textCase": "{brk-opt-text-transform.none}"
+      },
+      "type": "typography"
+    },
+    "display-3": {
+      "value": {
+        "fontFamily": "{brk-opt-font-family.brand-main}",
+        "fontWeight": "{brk-opt-font-weight.950}",
         "lineHeight": "{brk-opt-line-height.115%}",
         "fontSize": "",
         "letterSpacing": "{brk-opt-letter-spacing.-2%}",
@@ -137,11 +150,19 @@
       "value": "{brk-opt-space-alt.100%}",
       "type": "spacing"
     },
-    "body-margin-top": {
+    "body-base-margin-top": {
       "value": "{brk-opt-space-alt.100%}",
       "type": "spacing"
     },
-    "body-margin-bottom": {
+    "body-2-margin-top": {
+      "value": "{brk-opt-space-alt.100%}",
+      "type": "spacing"
+    },
+    "body-base-margin-bottom": {
+      "value": "{brk-opt-space-alt.150%}",
+      "type": "spacing"
+    },
+    "body-2-margin-bottom": {
       "value": "{brk-opt-space-alt.150%}",
       "type": "spacing"
     },
@@ -268,7 +289,7 @@
       "type": "textDecoration"
     }
   },
-  "brk-link-text-standard": {
+  "brk-text-link-standard": {
     "body-font-color-default": {
       "value": "{brk-opt-color-jel.main}",
       "type": "color"
@@ -282,8 +303,8 @@
       "type": "color"
     }
   },
-  "brk-link-text-inverted": {
-    "body-font-color-default": {
+  "brk-text-link-inverted": {
+    "body-font-color-underline": {
       "value": "{brk-opt-color-jel.third}",
       "type": "color"
     },
