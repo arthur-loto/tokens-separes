@@ -279,14 +279,16 @@
       "type": "sizing"
     }
   },
-  "brk-link-text": {
-    "default": {
-      "value": "{brk-opt-text-decoration.underline}",
-      "type": "textDecoration"
-    },
-    "hover": {
-      "value": "{brk-opt-text-decoration.none}",
-      "type": "textDecoration"
+  "brk-text-link": {
+    "text-decoration": {
+      "default": {
+        "value": "{brk-opt-text-decoration.underline}",
+        "type": "textDecoration"
+      },
+      "hover": {
+        "value": "{brk-opt-text-decoration.none}",
+        "type": "textDecoration"
+      }
     }
   },
   "brk-text-link-standard": {
