@@ -807,43 +807,81 @@
     }
   },
   "brk-fig-button-primary": {
-    "sm-height": {
-      "value": "{brk-button-primary.sm-font-size}*{brk-button-primary.height}",
-      "type": "sizing"
+    "sm": {
+      "height": {
+        "value": "{brk-button-primary.sm-font-size}*{brk-button-primary.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-button-primary.sm-font-size}*{brk-button-primary.icon-size}",
+        "type": "sizing"
+      }
     },
-    "icon-size": {
-      "value": "{brk-button-primary.sm-font-size}*{brk-button-primary.icon-size}",
-      "type": "sizing"
+    "md": {
+      "height": {
+        "value": "{brk-button-primary.md-font-size}*{brk-button-primary.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-button-primary.md-font-size}*{brk-button-primary.icon-size}",
+        "type": "sizing"
+      }
+    },
+    "lg": {
+      "height": {
+        "value": "{brk-button-primary.lg-font-size}*{brk-button-primary.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-button-primary.lg-font-size}*{brk-button-primary.icon-size}",
+        "type": "sizing"
+      }
+    },
+    "xl": {
+      "height": {
+        "value": "{brk-button-primary.xl-font-size}*{brk-button-primary.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-button-primary.xl-font-size}*{brk-button-primary.icon-size}",
+        "type": "sizing"
+      }
     }
   },
   "brk-fig-button-secondary": {
-    "sm-height": {
-      "value": "{brk-button-secondary.sm-font-size}*{brk-button-secondary.height}",
-      "type": "sizing"
-    },
-    "icon-size": {
-      "value": "{brk-button-secondary.sm-font-size}*{brk-button-secondary.icon-size}",
-      "type": "sizing"
+    "sm": {
+      "height": {
+        "value": "{brk-button-secondary.sm-font-size}*{brk-button-secondary.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-button-secondary.sm-font-size}*{brk-button-secondary.icon-size}",
+        "type": "sizing"
+      }
     }
   },
   "brk-fig-button-tertiary": {
-    "sm-height": {
-      "value": "{brk-button-tertiary.sm-font-size}*{brk-button-tertiary.height}",
-      "type": "sizing"
-    },
-    "icon-size": {
-      "value": "{brk-button-tertiary.sm-font-size}*{brk-button-tertiary.icon-size}",
-      "type": "sizing"
+    "sm": {
+      "height": {
+        "value": "{brk-button-tertiary.sm-font-size}*{brk-button-tertiary.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-button-tertiary.sm-font-size}*{brk-button-tertiary.icon-size}",
+        "type": "sizing"
+      }
     }
   },
   "brk-fig-button-text": {
-    "sm-height": {
-      "value": "{brk-button-text.sm-font-size}*{brk-button-text.height}",
-      "type": "sizing"
-    },
-    "icon-size": {
-      "value": "{brk-button-text.sm-font-size}*{brk-button-text.icon-size}",
-      "type": "sizing"
+    "sm": {
+      "height": {
+        "value": "{brk-button-text.sm-font-size}*{brk-button-text.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-button-text.sm-font-size}*{brk-button-text.icon-size}",
+        "type": "sizing"
+      }
     }
   }
 }
