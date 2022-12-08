@@ -1245,6 +1245,10 @@
     "square": {
       "value": "square",
       "type": "other"
+    },
+    "decimal": {
+      "value": "decimal",
+      "type": "other"
     }
   },
   "brk-opt-font-style": {
