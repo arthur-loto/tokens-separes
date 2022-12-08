@@ -68,20 +68,6 @@
     }
   },
   "brk-button-primary": {
-    "sm-label": {
-      "value": {
-        "fontFamily": "{brk-opt-font-family.webfont}",
-        "fontWeight": "{brk-opt-font-weight.700}",
-        "lineHeight": "{brk-opt-line-height.100%}",
-        "fontSize": "{brk-opt-font-size.13}",
-        "letterSpacing": "{brk-opt-letter-spacing.2%}",
-        "paragraphSpacing": "",
-        "textCase": "{brk-opt-text-transform.none}",
-        "textDecoration": "{brk-opt-text-decoration.none}"
-      },
-      "type": "typography",
-      "description": " "
-    },
     "md-label": {
       "value": {
         "fontFamily": "{brk-opt-font-family.webfont}",
@@ -144,6 +130,46 @@
     "border-radius": {
       "value": "{brk-opt-border-radius.4}",
       "type": "borderRadius"
+    },
+    "font-family": {
+      "value": "{brk-opt-font-family.webfont}",
+      "type": "fontFamilies"
+    },
+    "font-weight": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "line-height": {
+      "value": "{brk-opt-line-height.100%}",
+      "type": "lineHeights"
+    },
+    "sm-font-size": {
+      "value": "{brk-opt-font-size.13}",
+      "type": "fontSizes"
+    },
+    "md-font-size": {
+      "value": "{brk-opt-font-size.18}",
+      "type": "fontSizes"
+    },
+    "lg-font-size": {
+      "value": "{brk-opt-font-size.22}",
+      "type": "fontSizes"
+    },
+    "xl-font-size": {
+      "value": "{brk-opt-font-size.26}",
+      "type": "fontSizes"
+    },
+    "letter-spacing": {
+      "value": "{brk-opt-letter-spacing.2%}",
+      "type": "letterSpacing"
+    },
+    "text-decoration": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "text-transform": {
+      "value": "{brk-opt-text-transform.none}",
+      "type": "textCase"
     }
   },
   "brk-button-primary-standard": {
@@ -347,6 +373,34 @@
     "border-radius": {
       "value": "{brk-opt-border-radius.4}",
       "type": "borderRadius"
+    },
+    "font-family": {
+      "value": "{brk-opt-font-family.webfont}",
+      "type": "fontFamilies"
+    },
+    "font-weight": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "line-height": {
+      "value": "{brk-opt-line-height.100%}",
+      "type": "lineHeights"
+    },
+    "sm-font-size": {
+      "value": "{brk-opt-font-size.13}",
+      "type": "fontSizes"
+    },
+    "md-font-size": {
+      "value": "{brk-opt-font-size.18}",
+      "type": "fontSizes"
+    },
+    "lg-font-size": {
+      "value": "{brk-opt-font-size.22}",
+      "type": "fontSizes"
+    },
+    "xl-font-size": {
+      "value": "{brk-opt-font-size.26}",
+      "type": "fontSizes"
     }
   },
   "brk-button-secondary-standard": {
@@ -550,6 +604,34 @@
     "border-radius": {
       "value": "{brk-opt-border-radius.4}",
       "type": "borderRadius"
+    },
+    "font-family": {
+      "value": "{brk-opt-font-family.webfont}",
+      "type": "fontFamilies"
+    },
+    "font-weight": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "line-height": {
+      "value": "{brk-opt-line-height.85%}",
+      "type": "lineHeights"
+    },
+    "sm-font-size": {
+      "value": "{brk-opt-font-size.13}",
+      "type": "fontSizes"
+    },
+    "md-font-size": {
+      "value": "{brk-opt-font-size.18}",
+      "type": "fontSizes"
+    },
+    "lg-font-size": {
+      "value": "{brk-opt-font-size.22}",
+      "type": "fontSizes"
+    },
+    "xl-font-size": {
+      "value": "{brk-opt-font-size.26}",
+      "type": "fontSizes"
     }
   },
   "brk-button-tertiary-standard": {
@@ -753,6 +835,34 @@
     "border-radius": {
       "value": "{brk-opt-border-radius.4}",
       "type": "borderRadius"
+    },
+    "font-family": {
+      "value": "{brk-opt-font-family.webfont}",
+      "type": "fontFamilies"
+    },
+    "font-weight": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "line-height": {
+      "value": "{brk-opt-line-height.85%}",
+      "type": "lineHeights"
+    },
+    "sm-font-size": {
+      "value": "{brk-opt-font-size.13}",
+      "type": "fontSizes"
+    },
+    "md-font-size": {
+      "value": "{brk-opt-font-size.18}",
+      "type": "fontSizes"
+    },
+    "lg-font-size": {
+      "value": "{brk-opt-font-size.22}",
+      "type": "fontSizes"
+    },
+    "xl-font-size": {
+      "value": "{brk-opt-font-size.26}",
+      "type": "fontSizes"
     }
   },
   "brk-button-text-standard": {
@@ -877,6 +987,12 @@
       "value": "{brk-opt-color-neutral.transparent}",
       "type": "color",
       "description": " "
+    }
+  },
+  "brk-button-primary-copy": {
+    "letter-spacing": {
+      "value": "{brk-opt-letter-spacing.2%}",
+      "type": "letterSpacing"
     }
   }
 }
