@@ -75,7 +75,7 @@
       "description": " "
     },
     "height": {
-      "value": "2.6666",
+      "value": "{brk-opt-size-ratio.26}",
       "type": "sizing"
     },
     "border-radius": {
@@ -83,7 +83,7 @@
       "type": "borderRadius"
     },
     "icon-size": {
-      "value": "0.8888",
+      "value": "{brk-opt-size-ratio.08}",
       "type": "sizing"
     },
     "icon-gap": {
@@ -249,7 +249,7 @@
   },
   "brk-button-secondary": {
     "height": {
-      "value": "2.6666",
+      "value": "{brk-opt-size-ratio.26}",
       "type": "sizing"
     },
     "padding-horizontal": {
@@ -258,7 +258,7 @@
       "description": " "
     },
     "icon-size": {
-      "value": "0.8888",
+      "value": "{brk-opt-size-ratio.08}",
       "type": "sizing"
     },
     "icon-gap": {
@@ -439,11 +439,11 @@
       "description": " "
     },
     "height": {
-      "value": "2.6666",
+      "value": "{brk-opt-size-ratio.26}",
       "type": "sizing"
     },
     "icon-size": {
-      "value": "0.8888",
+      "value": "{brk-opt-size-ratio.08}",
       "type": "sizing"
     },
     "icon-gap": {
@@ -621,11 +621,11 @@
   },
   "brk-button-text": {
     "height": {
-      "value": "2.6666",
+      "value": "{brk-opt-size-ratio.26}",
       "type": "sizing"
     },
     "icon-size": {
-      "value": "0.8888",
+      "value": "{brk-opt-size-ratio.08}",
       "type": "sizing"
     },
     "padding-horizontal": {
