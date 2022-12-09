@@ -34,7 +34,7 @@
       "value": {
         "fontFamily": "{brk-opt-font-family.brand-main}",
         "fontWeight": "{brk-opt-font-weight.950}",
-        "lineHeight": "{brk-opt-line-height.110%}",
+        "lineHeight": "{brk-opt-line-height.115%}",
         "fontSize": "",
         "letterSpacing": "{brk-opt-letter-spacing.-2%}",
         "paragraphSpacing": "{brk-opt-paragraph-spacing.110%}",
