@@ -35,6 +35,10 @@
     "icon-size": {
       "value": "{brk-opt-size.16}",
       "type": "sizing"
+    },
+    "border-width": {
+      "value": "{brk-opt-border-width.1}",
+      "type": "borderWidth"
     }
   },
   "brk-accordion-standard": {
