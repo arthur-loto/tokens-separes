@@ -822,7 +822,7 @@
       "description": " "
     }
   },
-  "brk-fig-button-primary": {
+  "brk-ref-button-primary": {
     "sm": {
       "height": {
         "value": "{brk-button-primary.sm-font-size}*{brk-button-primary.height}",
@@ -864,7 +864,7 @@
       }
     }
   },
-  "brk-fig-button-secondary": {
+  "brk-ref-button-secondary": {
     "sm": {
       "height": {
         "value": "{brk-button-secondary.sm-font-size}*{brk-button-secondary.height}",
@@ -906,7 +906,7 @@
       }
     }
   },
-  "brk-fig-button-tertiary": {
+  "brk-ref-button-tertiary": {
     "sm": {
       "height": {
         "value": "{brk-button-tertiary.sm-font-size}*{brk-button-tertiary.height}",
@@ -948,7 +948,7 @@
       }
     }
   },
-  "brk-fig-button-text": {
+  "brk-ref-button-text": {
     "sm": {
       "height": {
         "value": "{brk-button-text.sm-font-size}*{brk-button-text.height}",

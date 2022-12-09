@@ -699,88 +699,6 @@
       "type": "textDecoration"
     }
   },
-  "brk-fig-button-primary": {
-    "sm": {
-      "padding-horizontal": {
-        "value": "{brk-button-primary.sm-font-size}*{brk-button-primary.padding-horizontal}",
-        "type": "spacing",
-        "description": " "
-      },
-      "icon-gap": {
-        "value": "{brk-button-primary.sm-font-size}*{brk-button-primary.icon-gap}",
-        "type": "spacing",
-        "description": " "
-      },
-      "height": {
-        "value": "{brk-button-primary.sm-font-size}*{brk-button-primary.height}",
-        "type": "sizing"
-      },
-      "icon-size": {
-        "value": "{brk-button-primary.sm-font-size}*{brk-button-primary.icon-size}",
-        "type": "sizing"
-      }
-    },
-    "md": {
-      "height": {
-        "value": "{brk-button-primary.md-font-size}*{brk-button-primary.height}",
-        "type": "sizing"
-      },
-      "icon-size": {
-        "value": "{brk-button-primary.md-font-size}*{brk-button-primary.icon-size}",
-        "type": "sizing"
-      },
-      "padding-horizontal": {
-        "value": "{brk-button-primary.md-font-size}*{brk-button-primary.padding-horizontal}",
-        "type": "spacing",
-        "description": " "
-      },
-      "icon-gap": {
-        "value": "{brk-button-primary.md-font-size}*{brk-button-primary.icon-gap}",
-        "type": "spacing",
-        "description": " "
-      }
-    },
-    "lg": {
-      "height": {
-        "value": "{brk-button-primary.lg-font-size}*{brk-button-primary.height}",
-        "type": "sizing"
-      },
-      "icon-size": {
-        "value": "{brk-button-primary.lg-font-size}*{brk-button-primary.icon-size}",
-        "type": "sizing"
-      },
-      "padding-horizontal": {
-        "value": "{brk-button-primary.lg-font-size}*{brk-button-primary.padding-horizontal}",
-        "type": "spacing",
-        "description": " "
-      },
-      "icon-gap": {
-        "value": "{brk-button-primary.lg-font-size}*{brk-button-primary.icon-gap}",
-        "type": "spacing",
-        "description": " "
-      }
-    },
-    "xl": {
-      "height": {
-        "value": "{brk-button-primary.xl-font-size}*{brk-button-primary.height}",
-        "type": "sizing"
-      },
-      "icon-size": {
-        "value": "{brk-button-primary.xl-font-size}*{brk-button-primary.icon-size}",
-        "type": "sizing"
-      },
-      "padding-horizontal": {
-        "value": "{brk-button-primary.xl-font-size}*{brk-button-primary.padding-horizontal}",
-        "type": "spacing",
-        "description": " "
-      },
-      "icon-gap": {
-        "value": "{brk-button-primary.xl-font-size}*{brk-button-primary.icon-gap}",
-        "type": "spacing",
-        "description": " "
-      }
-    }
-  },
   "brk-button-text-standard": {
     "font-color-default": {
       "value": "{brk-opt-color-lq-main.600}",
@@ -905,7 +823,89 @@
       "description": " "
     }
   },
-  "brk-fig-button-secondary": {
+  "brk-ref-button-primary": {
+    "sm": {
+      "padding-horizontal": {
+        "value": "{brk-button-primary.sm-font-size}*{brk-button-primary.padding-horizontal}",
+        "type": "spacing",
+        "description": " "
+      },
+      "icon-gap": {
+        "value": "{brk-button-primary.sm-font-size}*{brk-button-primary.icon-gap}",
+        "type": "spacing",
+        "description": " "
+      },
+      "height": {
+        "value": "{brk-button-primary.sm-font-size}*{brk-button-primary.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-button-primary.sm-font-size}*{brk-button-primary.icon-size}",
+        "type": "sizing"
+      }
+    },
+    "md": {
+      "height": {
+        "value": "{brk-button-primary.md-font-size}*{brk-button-primary.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-button-primary.md-font-size}*{brk-button-primary.icon-size}",
+        "type": "sizing"
+      },
+      "padding-horizontal": {
+        "value": "{brk-button-primary.md-font-size}*{brk-button-primary.padding-horizontal}",
+        "type": "spacing",
+        "description": " "
+      },
+      "icon-gap": {
+        "value": "{brk-button-primary.md-font-size}*{brk-button-primary.icon-gap}",
+        "type": "spacing",
+        "description": " "
+      }
+    },
+    "lg": {
+      "height": {
+        "value": "{brk-button-primary.lg-font-size}*{brk-button-primary.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-button-primary.lg-font-size}*{brk-button-primary.icon-size}",
+        "type": "sizing"
+      },
+      "padding-horizontal": {
+        "value": "{brk-button-primary.lg-font-size}*{brk-button-primary.padding-horizontal}",
+        "type": "spacing",
+        "description": " "
+      },
+      "icon-gap": {
+        "value": "{brk-button-primary.lg-font-size}*{brk-button-primary.icon-gap}",
+        "type": "spacing",
+        "description": " "
+      }
+    },
+    "xl": {
+      "height": {
+        "value": "{brk-button-primary.xl-font-size}*{brk-button-primary.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-button-primary.xl-font-size}*{brk-button-primary.icon-size}",
+        "type": "sizing"
+      },
+      "padding-horizontal": {
+        "value": "{brk-button-primary.xl-font-size}*{brk-button-primary.padding-horizontal}",
+        "type": "spacing",
+        "description": " "
+      },
+      "icon-gap": {
+        "value": "{brk-button-primary.xl-font-size}*{brk-button-primary.icon-gap}",
+        "type": "spacing",
+        "description": " "
+      }
+    }
+  },
+  "brk-ref-button-secondary": {
     "sm": {
       "height": {
         "value": "{brk-button-secondary.sm-font-size}*{brk-button-secondary.height}",
@@ -987,7 +987,7 @@
       }
     }
   },
-  "brk-fig-button-tertiary": {
+  "brk-ref-button-tertiary": {
     "sm": {
       "height": {
         "value": "{brk-button-tertiary.sm-font-size}*{brk-button-tertiary.height}",
@@ -1069,7 +1069,7 @@
       }
     }
   },
-  "brk-fig-button-text": {
+  "brk-ref-button-text": {
     "sm": {
       "height": {
         "value": "{brk-button-text.sm-font-size}*{brk-button-text.height}",
