@@ -914,6 +914,16 @@
       "icon-size": {
         "value": "{brk-button-secondary.sm-font-size}*{brk-button-secondary.icon-size}",
         "type": "sizing"
+      },
+      "padding-horizontal": {
+        "value": "{brk-button-secondary.sm-font-size}*{brk-button-secondary.padding-horizontal}",
+        "type": "spacing",
+        "description": " "
+      },
+      "icon-gap": {
+        "value": "{brk-button-secondary.sm-font-size}*{brk-button-secondary.icon-gap}",
+        "type": "spacing",
+        "description": " "
       }
     },
     "md": {
@@ -924,6 +934,16 @@
       "icon-size": {
         "value": "{brk-button-secondary.md-font-size}*{brk-button-secondary.icon-size}",
         "type": "sizing"
+      },
+      "padding-horizontal": {
+        "value": "{brk-button-secondary.md-font-size}*{brk-button-secondary.padding-horizontal}",
+        "type": "spacing",
+        "description": " "
+      },
+      "icon-gap": {
+        "value": "{brk-button-secondary.md-font-size}*{brk-button-secondary.icon-gap}",
+        "type": "spacing",
+        "description": " "
       }
     },
     "lg": {
@@ -934,6 +954,16 @@
       "icon-size": {
         "value": "{brk-button-secondary.lg-font-size}*{brk-button-secondary.icon-size}",
         "type": "sizing"
+      },
+      "padding-horizontal": {
+        "value": "{brk-button-secondary.lg-font-size}*{brk-button-secondary.padding-horizontal}",
+        "type": "spacing",
+        "description": " "
+      },
+      "icon-gap": {
+        "value": "{brk-button-secondary.lg-font-size}*{brk-button-secondary.icon-gap}",
+        "type": "spacing",
+        "description": " "
       }
     },
     "xl": {
@@ -944,6 +974,16 @@
       "icon-size": {
         "value": "{brk-button-secondary.xl-font-size}*{brk-button-secondary.icon-size}",
         "type": "sizing"
+      },
+      "padding-horizontal": {
+        "value": "{brk-button-secondary.xl-font-size}*{brk-button-secondary.padding-horizontal}",
+        "type": "spacing",
+        "description": " "
+      },
+      "icon-gap": {
+        "value": "{brk-button-secondary.xl-font-size}*{brk-button-secondary.icon-gap}",
+        "type": "spacing",
+        "description": " "
       }
     }
   },
