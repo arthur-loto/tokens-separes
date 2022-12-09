@@ -1270,5 +1270,23 @@
       "value": "inside",
       "type": "other"
     }
+  },
+  "brk-opt-size-ratio": {
+    "12": {
+      "value": "1.2307",
+      "type": "sizing"
+    },
+    "27": {
+      "value": "2.7692",
+      "type": "sizing"
+    },
+    "06": {
+      "value": "0.6153",
+      "type": "sizing"
+    },
+    "00": {
+      "value": "0.0769",
+      "type": "sizing"
+    }
   }
 }
