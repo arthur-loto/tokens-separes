@@ -69,26 +69,26 @@
     }
   },
   "brk-button-primary": {
-    "padding-horizontal": {
-      "value": "{brk-opt-size-ratio.12}",
-      "type": "spacing",
-      "description": " "
-    },
     "height": {
       "value": "{brk-opt-size-ratio.27}",
       "type": "sizing"
-    },
-    "border-radius": {
-      "value": "{brk-opt-border-radius.24}",
-      "type": "borderRadius"
     },
     "icon-size": {
       "value": "{brk-opt-size-ratio.12}",
       "type": "sizing"
     },
+    "padding-horizontal": {
+      "value": "{brk-opt-size-ratio.12}",
+      "type": "spacing",
+      "description": " "
+    },
     "icon-gap": {
-      "value": "{brk-opt-space.8}",
+      "value": "{brk-opt-size-ratio.06}",
       "type": "spacing"
+    },
+    "border-radius": {
+      "value": "{brk-button-primary.height}*8",
+      "type": "borderRadius"
     },
     "font-family": {
       "value": "{brk-opt-font-family.webfont}",
@@ -115,12 +115,20 @@
       "type": "fontSizes"
     },
     "xl-font-size": {
-      "value": "{brk-opt-font-size.28}",
+      "value": "{brk-opt-font-size.26}",
       "type": "fontSizes"
     },
     "letter-spacing": {
       "value": "{brk-opt-letter-spacing.2%}",
       "type": "letterSpacing"
+    },
+    "text-decoration": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "text-transform": {
+      "value": "{brk-opt-text-transform.none}",
+      "type": "textCase"
     }
   },
   "brk-button-primary-standard": {
@@ -248,25 +256,25 @@
     }
   },
   "brk-button-secondary": {
-    "height": {
-      "value": "{brk-opt-size-ratio.27}",
-      "type": "sizing"
-    },
     "padding-horizontal": {
       "value": "{brk-opt-size-ratio.12}",
       "type": "spacing",
       "description": " "
+    },
+    "height": {
+      "value": "{brk-opt-size-ratio.27}",
+      "type": "sizing"
     },
     "icon-size": {
       "value": "{brk-opt-size-ratio.12}",
       "type": "sizing"
     },
     "icon-gap": {
-      "value": "{brk-opt-space.8}",
+      "value": "{brk-opt-size-ratio.06}",
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius.24}",
+      "value": "{brk-button-secondary.height}*8",
       "type": "borderRadius"
     },
     "font-family": {
@@ -294,7 +302,7 @@
       "type": "fontSizes"
     },
     "xl-font-size": {
-      "value": "{brk-opt-font-size.28}",
+      "value": "{brk-opt-font-size.26}",
       "type": "fontSizes"
     },
     "letter-spacing": {
@@ -447,15 +455,15 @@
       "type": "sizing"
     },
     "icon-gap": {
-      "value": "{brk-opt-space.8}",
+      "value": "{brk-opt-size-ratio.06}",
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius.24}",
+      "value": "{brk-button-tertiary.height}*8",
       "type": "borderRadius"
     },
     "font-family": {
-      "value": "{brk-opt-font-family.brand-main}",
+      "value": "{brk-opt-font-family.webfont}",
       "type": "fontFamilies"
     },
     "font-weight": {
@@ -483,7 +491,7 @@
       "type": "fontSizes"
     },
     "letter-spacing": {
-      "value": "{brk-opt-letter-spacing.0%}",
+      "value": "{brk-opt-letter-spacing.2%}",
       "type": "letterSpacing"
     },
     "text-transform": {
@@ -621,7 +629,7 @@
   },
   "brk-button-text": {
     "height": {
-      "value": "{brk-opt-size.1}",
+      "value": "{brk-opt-size-ratio.12}",
       "type": "sizing"
     },
     "icon-size": {
@@ -629,20 +637,20 @@
       "type": "sizing"
     },
     "padding-horizontal": {
-      "value": "{brk-opt-size-ratio.12}",
+      "value": "{brk-opt-space.0}",
       "type": "spacing",
       "description": " "
     },
     "icon-gap": {
-      "value": "{brk-opt-space.8}",
+      "value": "{brk-opt-size-ratio.06}",
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius.24}",
+      "value": "{brk-button-text.height}*8",
       "type": "borderRadius"
     },
     "font-family": {
-      "value": "{brk-opt-font-family.brand-main}",
+      "value": "{brk-opt-font-family.webfont}",
       "type": "fontFamilies"
     },
     "font-weight": {
@@ -670,7 +678,7 @@
       "type": "fontSizes"
     },
     "letter-spacing": {
-      "value": "{brk-opt-letter-spacing.0%}",
+      "value": "{brk-opt-letter-spacing.2%}",
       "type": "letterSpacing"
     },
     "text-transform": {

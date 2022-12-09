@@ -647,7 +647,7 @@
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius.0}",
+      "value": "{brk-button-text.height}/2",
       "type": "borderRadius"
     },
     "font-family": {
