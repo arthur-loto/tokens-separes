@@ -345,12 +345,16 @@
   "brk-thumbnail-product": {
     "sm": {
       "image-height": {
-        "value": "{brk-opt-size.196}",
+        "value": "{brk-opt-size.180}",
         "type": "sizing"
       },
-      "content-gap": {
+      "margin-bottom": {
         "value": "{brk-opt-space.16}",
         "type": "spacing"
+      },
+      "image-width": {
+        "value": "{brk-opt-size.320}",
+        "type": "sizing"
       }
     },
     "md": {
@@ -358,14 +362,14 @@
         "value": "{brk-opt-size.270}",
         "type": "sizing"
       },
-      "content-gap": {
+      "margin-bottom": {
         "value": "{brk-opt-space.16}",
         "type": "spacing"
+      },
+      "image-width": {
+        "value": "{brk-opt-size.480}",
+        "type": "sizing"
       }
-    },
-    "image-background-color-standard": {
-      "value": "{brk-opt-color-neutral.975}",
-      "type": "color"
     }
   }
 }
