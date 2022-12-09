@@ -16,7 +16,7 @@
       "description": " "
     },
     "outline-offset": {
-      "value": "{brk-opt-space.5}",
+      "value": "{brk-opt-space.2}",
       "type": "spacing"
     },
     "outline-border-radius": {
