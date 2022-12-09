@@ -472,7 +472,7 @@
       "type": "fontWeights"
     },
     "line-height": {
-      "value": "{brk-opt-line-height.85%}",
+      "value": "{brk-opt-line-height.100%}",
       "type": "lineHeights"
     },
     "sm-font-size": {
@@ -659,7 +659,7 @@
       "type": "fontWeights"
     },
     "line-height": {
-      "value": "{brk-opt-line-height.85%}",
+      "value": "{brk-opt-line-height.100%}",
       "type": "lineHeights"
     },
     "sm-font-size": {
