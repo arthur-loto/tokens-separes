@@ -630,7 +630,7 @@
   },
   "brk-button-text": {
     "height": {
-      "value": "{brk-opt-size-ratio.00}",
+      "value": "{brk-opt-size-ratio.12}",
       "type": "sizing"
     },
     "icon-size": {
@@ -1072,7 +1072,7 @@
   "brk-fig-button-text": {
     "sm": {
       "height": {
-        "value": "1",
+        "value": "{brk-button-text.sm-font-size}*{brk-button-text.height}",
         "type": "sizing"
       },
       "icon-size": {
