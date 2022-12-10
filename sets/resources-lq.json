@@ -171,11 +171,11 @@
       "type": "spacing"
     },
     "list-element-padding-left": {
-      "value": "{brk-opt-space-alt.100%}",
+      "value": "{brk-opt-space-alt.50%}",
       "type": "spacing"
     },
     "list-element-margin": {
-      "value": "{brk-opt-space-alt.100%}",
+      "value": "{brk-opt-space-alt.150%}",
       "type": "spacing"
     },
     "list-margin-bottom": {
@@ -183,7 +183,7 @@
       "type": "spacing"
     },
     "list-padding-left": {
-      "value": "{brk-opt-space-alt.50%}",
+      "value": "{brk-opt-space-alt.200%}",
       "type": "spacing"
     },
     "caption-margin-top": {
