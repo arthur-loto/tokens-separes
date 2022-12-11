@@ -323,6 +323,10 @@
     "body-font-color-focus": {
       "value": "{brk-interactive.standard-outline-color-focus}",
       "type": "color"
+    },
+    "body-font-color-visited": {
+      "value": "{brk-interactive.standard-outline-color-focus}",
+      "type": "color"
     }
   },
   "brk-text-link-inverted": {
@@ -335,6 +339,10 @@
       "type": "color"
     },
     "body-font-color-focus": {
+      "value": "{brk-interactive.inverted-outline-color-focus}",
+      "type": "color"
+    },
+    "body-font-color-visited": {
       "value": "{brk-interactive.inverted-outline-color-focus}",
       "type": "color"
     }
