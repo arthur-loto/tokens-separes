@@ -176,6 +176,42 @@
     "caption-margin-bottom": {
       "value": "{brk-opt-space-alt.150%}",
       "type": "spacing"
+    },
+    "display-1-strong-font-weight": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "display-2-strong-font-weight": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "display-3-strong-font-weight": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "header-1-strong-font-weight": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "header-2-strong-font-weight": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "header-3-strong-font-weight": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "body-2-strong-font-weight": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "body-base-strong-font-weight": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "caption-strong-font-weight": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
     }
   },
   "brk-text-standard": {
@@ -252,20 +288,6 @@
     "caption-font-color": {
       "value": "{brk-opt-color-neutral.25}",
       "type": "color"
-    }
-  },
-  "brk-text-style": {
-    "brand-main-emphasis": {
-      "value": "{brk-opt-font-style.oblique}",
-      "type": "other"
-    },
-    "webfont-strong": {
-      "value": "{brk-opt-font-weight.700}",
-      "type": "other"
-    },
-    "webfont-emphasis": {
-      "value": "{brk-opt-font-style.italic}",
-      "type": "other"
     }
   },
   "brk-text-ratio": {
