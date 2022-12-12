@@ -253,11 +253,11 @@
       "value": "{brk-opt-color-neutral.0}",
       "type": "color"
     },
-    "display2-font-color": {
+    "display-2-font-color": {
       "value": "{brk-opt-color-neutral.0}",
       "type": "color"
     },
-    "display3-font-color": {
+    "display-3-font-color": {
       "value": "{brk-opt-color-neutral.0}",
       "type": "color"
     },
