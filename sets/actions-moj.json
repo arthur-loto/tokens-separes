@@ -112,7 +112,15 @@
       "value": "{brk-opt-letter-spacing.2%}",
       "type": "letterSpacing"
     },
-    "text-decoration": {
+    "text-decoration-default": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "text-decoration-hover": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "text-decoration-focus": {
       "value": "{brk-opt-text-decoration.none}",
       "type": "textDecoration"
     },
@@ -303,7 +311,15 @@
       "value": "{brk-opt-text-transform.none}",
       "type": "textCase"
     },
-    "text-decoration": {
+    "text-decoration-default": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "text-decoration-hover": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "text-decoration-focus": {
       "value": "{brk-opt-text-decoration.none}",
       "type": "textDecoration"
     }
@@ -490,7 +506,15 @@
       "value": "{brk-opt-text-transform.none}",
       "type": "textCase"
     },
-    "text-decoration": {
+    "text-decoration-default": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "text-decoration-hover": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "text-decoration-focus": {
       "value": "{brk-opt-text-decoration.none}",
       "type": "textDecoration"
     }
@@ -696,6 +720,22 @@
     "icon-gap": {
       "value": "{brk-opt-space.8}",
       "type": "spacing"
+    },
+    "text-decoration-default": {
+      "value": "{brk-opt-text-decoration.underline}",
+      "type": "textDecoration"
+    },
+    "text-decoration-hover": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "text-decoration-focus": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "text-transform": {
+      "value": "{brk-opt-text-transform.none}",
+      "type": "textCase"
     }
   },
   "brk-button-text-standard": {
