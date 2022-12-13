@@ -363,11 +363,6 @@
         "type": "typography",
         "description": " "
       },
-      "height": {
-        "value": "{brk-opt-size.36}",
-        "type": "sizing",
-        "description": " "
-      },
       "amount-digit-height": {
         "value": "{brk-opt-size.20}",
         "type": "sizing",
@@ -603,6 +598,15 @@
       "value": "{brk-opt-border-width.0}",
       "type": "borderWidth",
       "description": " "
+    }
+  },
+  "brk-card-secondary-info": {
+    "sm": {
+      "height": {
+        "value": "{brk-opt-size.36}",
+        "type": "sizing",
+        "description": " "
+      }
     }
   },
   "brk-jackpot-hero-standard": {
