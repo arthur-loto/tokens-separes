@@ -661,7 +661,7 @@
       "description": " "
     },
     "body-font-color": {
-      "value": "{brk-opt-color-neutral.1000}",
+      "value": "{brk-opt-color-lq-main.900}",
       "type": "color",
       "description": " "
     },
@@ -693,7 +693,7 @@
       "description": " "
     },
     "body-font-color": {
-      "value": "{brk-opt-color-neutral.1000}",
+      "value": "{brk-opt-color-lq-main.900}",
       "type": "color",
       "description": " "
     },
@@ -2241,6 +2241,44 @@
     }
   },
   "brk-card-high-density-list-standard": {
+    "background-color": {
+      "value": "{brk-opt-color-neutral.0}",
+      "type": "color"
+    },
+    "border-color": {
+      "value": "{brk-opt-color-lq-main.50}",
+      "type": "color"
+    },
+    "separator-color": {
+      "value": "{brk-opt-color-lq-main.50}",
+      "type": "color"
+    },
+    "box-shadow": {
+      "default": {
+        "value": {
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "#000000",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "hover": {
+        "value": {
+          "x": "0",
+          "y": "2",
+          "blur": "8",
+          "spread": "0",
+          "color": "#e6e6e6",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      }
+    }
+  },
+  "brk-card-high-density-list-inverted": {
     "background-color": {
       "value": "{brk-opt-color-neutral.0}",
       "type": "color"
