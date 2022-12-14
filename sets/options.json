@@ -640,6 +640,10 @@
       "value": "196px",
       "type": "sizing"
     },
+    "216": {
+      "value": "216px",
+      "type": "sizing"
+    },
     "245": {
       "value": "245px",
       "type": "sizing",
@@ -660,13 +664,18 @@
       "type": "sizing",
       "description": " "
     },
-    "340": {
-      "value": "340px",
+    "336": {
+      "value": "336px",
       "type": "sizing",
       "description": " "
     },
     "360": {
       "value": "360px",
+      "type": "sizing",
+      "description": " "
+    },
+    "432": {
+      "value": "432px",
       "type": "sizing",
       "description": " "
     },
