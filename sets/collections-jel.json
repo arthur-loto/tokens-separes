@@ -447,16 +447,6 @@
         },
         "type": "typography",
         "description": " "
-      },
-      "amount-digit-height": {
-        "value": "{brk-opt-size.20}",
-        "type": "sizing",
-        "description": " "
-      },
-      "amount-digit-width": {
-        "value": "{brk-opt-size.12}",
-        "type": "sizing",
-        "description": " "
       }
     },
     "md": {
@@ -506,16 +496,6 @@
           "textDecoration": "{brk-opt-text-decoration.none}"
         },
         "type": "typography",
-        "description": " "
-      },
-      "amount-digit-height": {
-        "value": "{brk-opt-size.32}",
-        "type": "sizing",
-        "description": " "
-      },
-      "amount-digit-width": {
-        "value": "{brk-opt-size.16}",
-        "type": "sizing",
         "description": " "
       }
     },
@@ -567,16 +547,6 @@
         },
         "type": "typography",
         "description": " "
-      },
-      "amount-digit-height": {
-        "value": "{brk-opt-size.40}",
-        "type": "sizing",
-        "description": " "
-      },
-      "amount-digit-width": {
-        "value": "{brk-opt-size.24}",
-        "type": "sizing",
-        "description": " "
       }
     },
     "xl": {
@@ -627,16 +597,6 @@
         },
         "type": "typography",
         "description": " "
-      },
-      "amount-digit-height": {
-        "value": "{brk-opt-size.44}",
-        "type": "sizing",
-        "description": " "
-      },
-      "amount-digit-width": {
-        "value": "{brk-opt-size.28}",
-        "type": "sizing",
-        "description": " "
       }
     },
     "amount-digit-border-width": {
@@ -648,6 +608,56 @@
       "value": "{brk-opt-border-radius.2}",
       "type": "borderRadius",
       "description": " NOTE: Rayon du contour de la boîte qui contient les numéros du lot progressif."
+    }
+  },
+  "brk-card-secondary-info-jackpot": {
+    "sm": {
+      "amount-digit-height": {
+        "value": "{brk-opt-size.20}",
+        "type": "sizing",
+        "description": " "
+      },
+      "amount-digit-width": {
+        "value": "{brk-opt-size.12}",
+        "type": "sizing",
+        "description": " "
+      }
+    },
+    "md": {
+      "amount-digit-height": {
+        "value": "{brk-opt-size.32}",
+        "type": "sizing",
+        "description": " "
+      },
+      "amount-digit-width": {
+        "value": "{brk-opt-size.16}",
+        "type": "sizing",
+        "description": " "
+      }
+    },
+    "lg": {
+      "amount-digit-height": {
+        "value": "{brk-opt-size.40}",
+        "type": "sizing",
+        "description": " "
+      },
+      "amount-digit-width": {
+        "value": "{brk-opt-size.24}",
+        "type": "sizing",
+        "description": " "
+      }
+    },
+    "xl": {
+      "amount-digit-height": {
+        "value": "{brk-opt-size.44}",
+        "type": "sizing",
+        "description": " "
+      },
+      "amount-digit-width": {
+        "value": "{brk-opt-size.28}",
+        "type": "sizing",
+        "description": " "
+      }
     }
   },
   "brk-jackpot-hero-standard": {
