@@ -28,12 +28,12 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.10}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.10}",
+        "value": "{brk-opt-space.12}",
         "type": "spacing",
         "description": " "
       },
@@ -438,7 +438,7 @@
         "description": " "
       },
       "amount-digit-width": {
-        "value": "{brk-opt-size.14}",
+        "value": "{brk-opt-size.12}",
         "type": "sizing",
         "description": " "
       },
@@ -448,12 +448,12 @@
         "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en petit format."
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.10}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
       },
       "amount-digit-margin": {
-        "value": "{brk-opt-space.1}",
+        "value": "{brk-opt-space.2}",
         "type": "spacing",
         "description": " "
       },
@@ -498,12 +498,12 @@
         "description": " "
       },
       "amount-digit-width": {
-        "value": "{brk-opt-size.20}",
+        "value": "{brk-opt-size.16}",
         "type": "sizing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format moyen."
       },
@@ -518,7 +518,7 @@
         "description": " "
       },
       "amount-group-margin": {
-        "value": "{brk-opt-space.5}",
+        "value": "{brk-opt-space.4}",
         "type": "spacing",
         "description": " "
       }
@@ -558,12 +558,12 @@
         "description": " "
       },
       "amount-digit-width": {
-        "value": "{brk-opt-size.30}",
+        "value": "{brk-opt-size.24}",
         "type": "sizing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format large."
       },
@@ -573,12 +573,12 @@
         "description": " "
       },
       "amount-digit-margin": {
-        "value": "{brk-opt-space.3}",
+        "value": "{brk-opt-space.4}",
         "type": "spacing",
         "description": " "
       },
       "amount-group-margin": {
-        "value": "{brk-opt-space.6}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
       }
@@ -623,7 +623,7 @@
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format extra large."
       },
