@@ -40,11 +40,6 @@
       "type": "color",
       "description": " "
     },
-    "1000": {
-      "value": "hsl({brk-opt-color-neutral.hue}, {brk-opt-color-neutral.saturation}%, 0%)",
-      "type": "color",
-      "description": " "
-    },
     "transparent": {
       "value": "transparent",
       "type": "color",
