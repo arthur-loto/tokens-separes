@@ -50,7 +50,7 @@
       "heading": {
         "value": {
           "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
+          "fontWeight": "{brk-opt-font-weight.700}",
           "lineHeight": "{brk-opt-line-height.100%}",
           "fontSize": "{brk-opt-font-size.14}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
@@ -301,7 +301,7 @@
       "description": " "
     },
     "pretitle-font-color": {
-      "value": "{brk-opt-color-lq-main.728}",
+      "value": "{brk-opt-color-lq-main.800}",
       "type": "color",
       "description": " "
     },
@@ -340,7 +340,7 @@
       "description": " "
     },
     "pretitle-font-color": {
-      "value": "{brk-opt-color-lq-main.728}",
+      "value": "{brk-opt-color-lq-main.800}",
       "type": "color",
       "description": " "
     },
@@ -442,15 +442,15 @@
         "type": "sizing",
         "description": " "
       },
-      "content-gap": {
-        "value": "{brk-opt-space.16}",
-        "type": "spacing",
-        "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en petit format."
-      },
       "padding-horizontal": {
         "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en petit format."
       },
       "amount-digit-margin": {
         "value": "{brk-opt-space.2}",
@@ -502,15 +502,15 @@
         "type": "sizing",
         "description": " "
       },
-      "content-gap": {
-        "value": "{brk-opt-space.24}",
-        "type": "spacing",
-        "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format moyen."
-      },
       "padding-horizontal": {
         "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format moyen."
       },
       "amount-digit-margin": {
         "value": "{brk-opt-space.2}",
@@ -562,15 +562,15 @@
         "type": "sizing",
         "description": " "
       },
-      "content-gap": {
-        "value": "{brk-opt-space.32}",
-        "type": "spacing",
-        "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format large."
-      },
       "padding-horizontal": {
         "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.32}",
+        "type": "spacing",
+        "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format large."
       },
       "amount-digit-margin": {
         "value": "{brk-opt-space.4}",
@@ -622,15 +622,15 @@
         "type": "sizing",
         "description": " "
       },
-      "content-gap": {
-        "value": "{brk-opt-space.32}",
-        "type": "spacing",
-        "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format extra large."
-      },
       "padding-horizontal": {
         "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.32}",
+        "type": "spacing",
+        "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format extra large."
       },
       "amount-digit-margin": {
         "value": "{brk-opt-space.4}",
@@ -644,7 +644,7 @@
       }
     },
     "amount-digit-border-radius": {
-      "value": "{brk-opt-border-radius.1}",
+      "value": "{brk-opt-border-radius.2}",
       "type": "borderRadius",
       "description": " "
     },

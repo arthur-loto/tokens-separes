@@ -19,12 +19,12 @@
     },
     "sm": {
       "padding-horizontal": {
-        "value": "{brk-opt-space.10}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.10}",
+        "value": "{brk-opt-space.12}",
         "type": "spacing",
         "description": " "
       },
@@ -401,17 +401,7 @@
   "brk-jackpot-hero": {
     "sm": {
       "padding-horizontal": {
-        "value": "{brk-opt-space.10}",
-        "type": "spacing",
-        "description": " "
-      },
-      "amount-digit-margin": {
-        "value": "{brk-opt-space.1}",
-        "type": "spacing",
-        "description": " "
-      },
-      "amount-group-margin": {
-        "value": "{brk-opt-space.4}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
       },
@@ -419,6 +409,16 @@
         "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": "NOTE : séparation entre les textes et le gros lot de la carte."
+      },
+      "amount-digit-margin": {
+        "value": "{brk-opt-space.2}",
+        "type": "spacing",
+        "description": " "
+      },
+      "amount-group-margin": {
+        "value": "{brk-opt-space.4}",
+        "type": "spacing",
+        "description": " "
       },
       "heading": {
         "value": {
@@ -454,7 +454,7 @@
         "description": " "
       },
       "amount-digit-width": {
-        "value": "{brk-opt-size.14}",
+        "value": "{brk-opt-size.12}",
         "type": "sizing",
         "description": " "
       }
@@ -465,6 +465,11 @@
         "type": "spacing",
         "description": " "
       },
+      "content-gap": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": "NOTE : séparation entre les textes et le gros lot de la carte."
+      },
       "amount-digit-margin": {
         "value": "{brk-opt-space.2}",
         "type": "spacing",
@@ -474,11 +479,6 @@
         "value": "{brk-opt-space.5}",
         "type": "spacing",
         "description": " "
-      },
-      "content-gap": {
-        "value": "{brk-opt-space.16}",
-        "type": "spacing",
-        "description": "NOTE : séparation entre les textes et le gros lot de la carte."
       },
       "heading": {
         "value": {
@@ -525,6 +525,11 @@
         "type": "spacing",
         "description": " "
       },
+      "content-gap": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": "NOTE : séparation entre les textes et le gros lot de la carte."
+      },
       "amount-digit-margin": {
         "value": "{brk-opt-space.3}",
         "type": "spacing",
@@ -534,11 +539,6 @@
         "value": "{brk-opt-space.6}",
         "type": "spacing",
         "description": " "
-      },
-      "content-gap": {
-        "value": "{brk-opt-space.24}",
-        "type": "spacing",
-        "description": "NOTE : séparation entre les textes et le gros lot de la carte."
       },
       "heading": {
         "value": {
@@ -585,6 +585,11 @@
         "type": "spacing",
         "description": " "
       },
+      "content-gap": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": "NOTE : séparation entre les textes et le gros lot de la carte."
+      },
       "amount-digit-margin": {
         "value": "{brk-opt-space.4}",
         "type": "spacing",
@@ -594,11 +599,6 @@
         "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
-      },
-      "content-gap": {
-        "value": "{brk-opt-space.24}",
-        "type": "spacing",
-        "description": "NOTE : séparation entre les textes et le gros lot de la carte."
       },
       "heading": {
         "value": {
@@ -645,7 +645,7 @@
       "description": "NOTE: Grosseur du contour de la boîte qui contient les numéros du lot progressif."
     },
     "amount-digit-border-radius": {
-      "value": "{brk-opt-border-radius.4}",
+      "value": "{brk-opt-border-radius.2}",
       "type": "borderRadius",
       "description": " NOTE: Rayon du contour de la boîte qui contient les numéros du lot progressif."
     }
