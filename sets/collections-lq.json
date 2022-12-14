@@ -2315,5 +2315,127 @@
         "type": "boxShadow"
       }
     }
+  },
+  "brk-card-secondary-info-text": {
+    "sm": {
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.110%}",
+          "fontSize": "{brk-opt-font-size.8}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.uppercase}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      },
+      "body": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.12}",
+          "letterSpacing": "{brk-opt-letter-spacing.2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.uppercase}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      }
+    },
+    "md": {
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.110%}",
+          "fontSize": "{brk-opt-font-size.14}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.uppercase}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      },
+      "body": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.20}",
+          "letterSpacing": "{brk-opt-letter-spacing.2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.uppercase}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      }
+    },
+    "lg": {
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.110%}",
+          "fontSize": "{brk-opt-font-size.18}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.uppercase}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      },
+      "body": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.24}",
+          "letterSpacing": "{brk-opt-letter-spacing.2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.uppercase}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      }
+    },
+    "xl": {
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.110%}",
+          "fontSize": "{brk-opt-font-size.18}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.uppercase}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      },
+      "body": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.28}",
+          "letterSpacing": "{brk-opt-letter-spacing.2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.uppercase}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      }
+    }
   }
 }
