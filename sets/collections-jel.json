@@ -150,7 +150,7 @@
         "description": " "
       },
       "image-height": {
-        "value": "{brk-opt-size.270}",
+        "value": "{brk-opt-size.320}",
         "type": "sizing",
         "description": " "
       }
@@ -219,7 +219,7 @@
         "description": " "
       },
       "image-height": {
-        "value": "{brk-opt-size.270}",
+        "value": "{brk-opt-size.336}",
         "type": "sizing",
         "description": " "
       }
@@ -288,7 +288,7 @@
         "description": " "
       },
       "image-height": {
-        "value": "{brk-opt-size.360}",
+        "value": "{brk-opt-size.432}",
         "type": "sizing",
         "description": " "
       }
@@ -378,7 +378,7 @@
     },
     "md": {
       "height": {
-        "value": "{brk-opt-size.60}",
+        "value": "{brk-opt-size.64}",
         "type": "sizing",
         "description": " "
       }
