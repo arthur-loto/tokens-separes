@@ -466,7 +466,7 @@
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": "NOTE : séparation entre les textes et le gros lot de la carte."
       },
@@ -526,7 +526,7 @@
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": "NOTE : séparation entre les textes et le gros lot de la carte."
       },
@@ -574,7 +574,7 @@
         "description": " "
       },
       "amount-digit-width": {
-        "value": "{brk-opt-size.30}",
+        "value": "{brk-opt-size.24}",
         "type": "sizing",
         "description": " "
       }
@@ -586,7 +586,7 @@
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": "NOTE : séparation entre les textes et le gros lot de la carte."
       },
@@ -634,7 +634,7 @@
         "description": " "
       },
       "amount-digit-width": {
-        "value": "{brk-opt-size.30}",
+        "value": "{brk-opt-size.28}",
         "type": "sizing",
         "description": " "
       }
