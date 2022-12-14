@@ -509,12 +509,12 @@
         "description": " "
       },
       "amount-digit-height": {
-        "value": "{brk-opt-size.28}",
+        "value": "{brk-opt-size.32}",
         "type": "sizing",
         "description": " "
       },
       "amount-digit-width": {
-        "value": "{brk-opt-size.20}",
+        "value": "{brk-opt-size.16}",
         "type": "sizing",
         "description": " "
       }
