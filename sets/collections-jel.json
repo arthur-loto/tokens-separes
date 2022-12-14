@@ -398,7 +398,7 @@
       }
     }
   },
-  "brk-jackpot-hero": {
+  "brk-secondary-info-jackpot": {
     "sm": {
       "padding-horizontal": {
         "value": "{brk-opt-space.8}",
@@ -419,7 +419,77 @@
         "value": "{brk-opt-space.4}",
         "type": "spacing",
         "description": " "
+      }
+    },
+    "md": {
+      "padding-horizontal": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": " "
       },
+      "content-gap": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": "NOTE : séparation entre les textes et le gros lot de la carte."
+      },
+      "amount-digit-margin": {
+        "value": "{brk-opt-space.2}",
+        "type": "spacing",
+        "description": " "
+      },
+      "amount-group-margin": {
+        "value": "{brk-opt-space.5}",
+        "type": "spacing",
+        "description": " "
+      }
+    },
+    "lg": {
+      "padding-horizontal": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": " "
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.32}",
+        "type": "spacing",
+        "description": "NOTE : séparation entre les textes et le gros lot de la carte."
+      },
+      "amount-digit-margin": {
+        "value": "{brk-opt-space.3}",
+        "type": "spacing",
+        "description": " "
+      },
+      "amount-group-margin": {
+        "value": "{brk-opt-space.6}",
+        "type": "spacing",
+        "description": " "
+      }
+    },
+    "xl": {
+      "padding-horizontal": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": " "
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.32}",
+        "type": "spacing",
+        "description": "NOTE : séparation entre les textes et le gros lot de la carte."
+      },
+      "amount-digit-margin": {
+        "value": "{brk-opt-space.4}",
+        "type": "spacing",
+        "description": " "
+      },
+      "amount-group-margin": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing",
+        "description": " "
+      }
+    }
+  },
+  "brk-card-secondary-info-jackpot": {
+    "sm": {
       "heading": {
         "value": {
           "fontFamily": "{brk-opt-font-family.brand-main}",
@@ -447,29 +517,19 @@
         },
         "type": "typography",
         "description": " "
+      },
+      "amount-digit-height": {
+        "value": "{brk-opt-size.20}",
+        "type": "sizing",
+        "description": " "
+      },
+      "amount-digit-width": {
+        "value": "{brk-opt-size.12}",
+        "type": "sizing",
+        "description": " "
       }
     },
     "md": {
-      "padding-horizontal": {
-        "value": "{brk-opt-space.16}",
-        "type": "spacing",
-        "description": " "
-      },
-      "content-gap": {
-        "value": "{brk-opt-space.24}",
-        "type": "spacing",
-        "description": "NOTE : séparation entre les textes et le gros lot de la carte."
-      },
-      "amount-digit-margin": {
-        "value": "{brk-opt-space.2}",
-        "type": "spacing",
-        "description": " "
-      },
-      "amount-group-margin": {
-        "value": "{brk-opt-space.5}",
-        "type": "spacing",
-        "description": " "
-      },
       "heading": {
         "value": {
           "fontFamily": "{brk-opt-font-family.brand-main}",
@@ -497,29 +557,19 @@
         },
         "type": "typography",
         "description": " "
+      },
+      "amount-digit-height": {
+        "value": "{brk-opt-size.32}",
+        "type": "sizing",
+        "description": " "
+      },
+      "amount-digit-width": {
+        "value": "{brk-opt-size.16}",
+        "type": "sizing",
+        "description": " "
       }
     },
     "lg": {
-      "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
-        "type": "spacing",
-        "description": " "
-      },
-      "content-gap": {
-        "value": "{brk-opt-space.32}",
-        "type": "spacing",
-        "description": "NOTE : séparation entre les textes et le gros lot de la carte."
-      },
-      "amount-digit-margin": {
-        "value": "{brk-opt-space.3}",
-        "type": "spacing",
-        "description": " "
-      },
-      "amount-group-margin": {
-        "value": "{brk-opt-space.6}",
-        "type": "spacing",
-        "description": " "
-      },
       "heading": {
         "value": {
           "fontFamily": "{brk-opt-font-family.brand-main}",
@@ -547,29 +597,19 @@
         },
         "type": "typography",
         "description": " "
+      },
+      "amount-digit-height": {
+        "value": "{brk-opt-size.40}",
+        "type": "sizing",
+        "description": " "
+      },
+      "amount-digit-width": {
+        "value": "{brk-opt-size.24}",
+        "type": "sizing",
+        "description": " "
       }
     },
     "xl": {
-      "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
-        "type": "spacing",
-        "description": " "
-      },
-      "content-gap": {
-        "value": "{brk-opt-space.32}",
-        "type": "spacing",
-        "description": "NOTE : séparation entre les textes et le gros lot de la carte."
-      },
-      "amount-digit-margin": {
-        "value": "{brk-opt-space.4}",
-        "type": "spacing",
-        "description": " "
-      },
-      "amount-group-margin": {
-        "value": "{brk-opt-space.8}",
-        "type": "spacing",
-        "description": " "
-      },
       "heading": {
         "value": {
           "fontFamily": "{brk-opt-font-family.brand-main}",
@@ -597,6 +637,16 @@
         },
         "type": "typography",
         "description": " "
+      },
+      "amount-digit-height": {
+        "value": "{brk-opt-size.44}",
+        "type": "sizing",
+        "description": " "
+      },
+      "amount-digit-width": {
+        "value": "{brk-opt-size.28}",
+        "type": "sizing",
+        "description": " "
       }
     },
     "amount-digit-border-width": {
@@ -610,57 +660,7 @@
       "description": " NOTE: Rayon du contour de la boîte qui contient les numéros du lot progressif."
     }
   },
-  "brk-card-secondary-info-jackpot": {
-    "sm": {
-      "amount-digit-height": {
-        "value": "{brk-opt-size.20}",
-        "type": "sizing",
-        "description": " "
-      },
-      "amount-digit-width": {
-        "value": "{brk-opt-size.12}",
-        "type": "sizing",
-        "description": " "
-      }
-    },
-    "md": {
-      "amount-digit-height": {
-        "value": "{brk-opt-size.32}",
-        "type": "sizing",
-        "description": " "
-      },
-      "amount-digit-width": {
-        "value": "{brk-opt-size.16}",
-        "type": "sizing",
-        "description": " "
-      }
-    },
-    "lg": {
-      "amount-digit-height": {
-        "value": "{brk-opt-size.40}",
-        "type": "sizing",
-        "description": " "
-      },
-      "amount-digit-width": {
-        "value": "{brk-opt-size.24}",
-        "type": "sizing",
-        "description": " "
-      }
-    },
-    "xl": {
-      "amount-digit-height": {
-        "value": "{brk-opt-size.44}",
-        "type": "sizing",
-        "description": " "
-      },
-      "amount-digit-width": {
-        "value": "{brk-opt-size.28}",
-        "type": "sizing",
-        "description": " "
-      }
-    }
-  },
-  "brk-jackpot-hero-standard": {
+  "brk-card-secondary-info-jackpot-standard": {
     "heading-font-color": {
       "value": "{brk-opt-color-neutral.0}",
       "type": "color",
@@ -692,7 +692,7 @@
       "description": " "
     }
   },
-  "brk-jackpot-hero-inverted": {
+  "brk-card-secondary-info-jackpot-inverted": {
     "heading-font-color": {
       "value": "{brk-opt-color-neutral.0}",
       "type": "color",

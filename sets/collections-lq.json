@@ -402,7 +402,7 @@
       }
     }
   },
-  "brk-secondary-info-jackpot": {
+  "brk-card-secondary-info-jackpot": {
     "sm": {
       "heading": {
         "value": {
@@ -430,6 +430,36 @@
           "textDecoration": "{brk-opt-text-decoration.none}"
         },
         "type": "typography",
+        "description": " "
+      },
+      "amount-digit-height": {
+        "value": "{brk-opt-size.20}",
+        "type": "sizing",
+        "description": " "
+      },
+      "amount-digit-width": {
+        "value": "{brk-opt-size.12}",
+        "type": "sizing",
+        "description": " "
+      },
+      "padding-horizontal": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing",
+        "description": " "
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en petit format."
+      },
+      "amount-digit-margin": {
+        "value": "{brk-opt-space.2}",
+        "type": "spacing",
+        "description": " "
+      },
+      "amount-group-margin": {
+        "value": "{brk-opt-space.4}",
+        "type": "spacing",
         "description": " "
       }
     },
@@ -461,6 +491,36 @@
         },
         "type": "typography",
         "description": " "
+      },
+      "amount-digit-height": {
+        "value": "{brk-opt-size.32}",
+        "type": "sizing",
+        "description": " "
+      },
+      "amount-digit-width": {
+        "value": "{brk-opt-size.16}",
+        "type": "sizing",
+        "description": " "
+      },
+      "padding-horizontal": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": " "
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format moyen."
+      },
+      "amount-digit-margin": {
+        "value": "{brk-opt-space.2}",
+        "type": "spacing",
+        "description": " "
+      },
+      "amount-group-margin": {
+        "value": "{brk-opt-space.4}",
+        "type": "spacing",
+        "description": " "
       }
     },
     "lg": {
@@ -490,6 +550,36 @@
           "textDecoration": "{brk-opt-text-decoration.none}"
         },
         "type": "typography",
+        "description": " "
+      },
+      "amount-digit-height": {
+        "value": "{brk-opt-size.40}",
+        "type": "sizing",
+        "description": " "
+      },
+      "amount-digit-width": {
+        "value": "{brk-opt-size.24}",
+        "type": "sizing",
+        "description": " "
+      },
+      "padding-horizontal": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": " "
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.32}",
+        "type": "spacing",
+        "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format large."
+      },
+      "amount-digit-margin": {
+        "value": "{brk-opt-space.4}",
+        "type": "spacing",
+        "description": " "
+      },
+      "amount-group-margin": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing",
         "description": " "
       }
     },
@@ -521,47 +611,7 @@
         },
         "type": "typography",
         "description": " "
-      }
-    }
-  },
-  "brk-card-secondary-info-jackpot": {
-    "sm": {
-      "amount-digit-height": {
-        "value": "{brk-opt-size.20}",
-        "type": "sizing",
-        "description": " "
       },
-      "amount-digit-width": {
-        "value": "{brk-opt-size.12}",
-        "type": "sizing",
-        "description": " "
-      }
-    },
-    "md": {
-      "amount-digit-height": {
-        "value": "{brk-opt-size.32}",
-        "type": "sizing",
-        "description": " "
-      },
-      "amount-digit-width": {
-        "value": "{brk-opt-size.16}",
-        "type": "sizing",
-        "description": " "
-      }
-    },
-    "lg": {
-      "amount-digit-height": {
-        "value": "{brk-opt-size.40}",
-        "type": "sizing",
-        "description": " "
-      },
-      "amount-digit-width": {
-        "value": "{brk-opt-size.24}",
-        "type": "sizing",
-        "description": " "
-      }
-    },
-    "xl": {
       "amount-digit-height": {
         "value": "{brk-opt-size.44}",
         "type": "sizing",
@@ -571,77 +621,7 @@
         "value": "{brk-opt-size.28}",
         "type": "sizing",
         "description": " "
-      }
-    }
-  },
-  "brk-jackpot-hero": {
-    "sm": {
-      "padding-horizontal": {
-        "value": "{brk-opt-space.8}",
-        "type": "spacing",
-        "description": " "
       },
-      "content-gap": {
-        "value": "{brk-opt-space.16}",
-        "type": "spacing",
-        "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en petit format."
-      },
-      "amount-digit-margin": {
-        "value": "{brk-opt-space.2}",
-        "type": "spacing",
-        "description": " "
-      },
-      "amount-group-margin": {
-        "value": "{brk-opt-space.4}",
-        "type": "spacing",
-        "description": " "
-      }
-    },
-    "md": {
-      "padding-horizontal": {
-        "value": "{brk-opt-space.16}",
-        "type": "spacing",
-        "description": " "
-      },
-      "content-gap": {
-        "value": "{brk-opt-space.24}",
-        "type": "spacing",
-        "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format moyen."
-      },
-      "amount-digit-margin": {
-        "value": "{brk-opt-space.2}",
-        "type": "spacing",
-        "description": " "
-      },
-      "amount-group-margin": {
-        "value": "{brk-opt-space.4}",
-        "type": "spacing",
-        "description": " "
-      }
-    },
-    "lg": {
-      "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
-        "type": "spacing",
-        "description": " "
-      },
-      "content-gap": {
-        "value": "{brk-opt-space.32}",
-        "type": "spacing",
-        "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format large."
-      },
-      "amount-digit-margin": {
-        "value": "{brk-opt-space.4}",
-        "type": "spacing",
-        "description": " "
-      },
-      "amount-group-margin": {
-        "value": "{brk-opt-space.8}",
-        "type": "spacing",
-        "description": " "
-      }
-    },
-    "xl": {
       "padding-horizontal": {
         "value": "{brk-opt-space.24}",
         "type": "spacing",
@@ -674,7 +654,7 @@
       "description": " "
     }
   },
-  "brk-secondary-info-jackpot-standard": {
+  "brk-card-secondary-info-jackpot-standard": {
     "heading-font-color": {
       "value": "{brk-opt-color-lq-main.50}",
       "type": "color",
@@ -706,7 +686,7 @@
       "description": " "
     }
   },
-  "brk-secondary-info-jackpot-inverted": {
+  "brk-card-secondary-info-jackpot-inverted": {
     "heading-font-color": {
       "value": "{brk-opt-color-lq-main.50}",
       "type": "color",
