@@ -669,6 +669,11 @@
       "type": "sizing",
       "description": " "
     },
+    "400": {
+      "value": "400px",
+      "type": "sizing",
+      "description": " "
+    },
     "432": {
       "value": "432px",
       "type": "sizing",
