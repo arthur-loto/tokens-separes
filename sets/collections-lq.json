@@ -306,7 +306,7 @@
       "description": " "
     },
     "body-font-color": {
-      "value": "{brk-opt-color-lq-main.728}",
+      "value": "{brk-opt-color-lq-main.900}",
       "type": "color",
       "description": " "
     },
@@ -335,27 +335,27 @@
   },
   "brk-card-hero-inverted": {
     "heading-font-color": {
-      "value": "{brk-opt-color-lq-main.500}",
+      "value": "{brk-opt-color-lq-main.50}",
       "type": "color",
       "description": " "
     },
     "pretitle-font-color": {
-      "value": "{brk-opt-color-lq-main.800}",
+      "value": "{brk-opt-color-lq-main.100}",
       "type": "color",
       "description": " "
     },
     "body-font-color": {
-      "value": "{brk-opt-color-lq-main.728}",
+      "value": "{brk-opt-color-lq-main.100}",
       "type": "color",
       "description": " "
     },
     "background-color": {
-      "value": "{brk-opt-color-neutral.0}",
+      "value": "{brk-opt-color-lq-main.900}",
       "type": "color",
       "description": " "
     },
     "border-color": {
-      "value": "{brk-opt-color-lq-main.50}",
+      "value": "{brk-opt-color-lq-main.800}",
       "type": "color",
       "description": " "
     },
@@ -688,17 +688,17 @@
   },
   "brk-card-secondary-info-jackpot-inverted": {
     "heading-font-color": {
-      "value": "{brk-opt-color-lq-main.50}",
+      "value": "{brk-opt-color-lq-main.650}",
       "type": "color",
       "description": " "
     },
     "body-font-color": {
-      "value": "{brk-opt-color-lq-main.900}",
+      "value": "{brk-opt-color-lq-main.50}",
       "type": "color",
       "description": " "
     },
     "body-box-background-color": {
-      "value": "{brk-opt-color-neutral.0}",
+      "value": "{brk-opt-color-lq-main.600}",
       "type": "color",
       "description": " "
     },
@@ -708,12 +708,12 @@
       "description": " "
     },
     "background-color": {
-      "value": "{brk-opt-color-lq-main.800}",
+      "value": "{brk-opt-color-lq-main.100}",
       "type": "color",
       "description": " "
     },
     "symbol-font-color": {
-      "value": "{brk-opt-color-neutral.0}",
+      "value": "{brk-opt-color-lq-main.650}",
       "type": "color",
       "description": " "
     }
