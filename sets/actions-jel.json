@@ -18,10 +18,14 @@
     "outline-offset": {
       "value": "{brk-opt-space.2}",
       "type": "spacing"
-    },
-    "outline-border-radius": {
-      "value": "{brk-opt-border-radius.24}",
-      "type": "borderRadius"
+    }
+  },
+  "brk-doc-interactive": {
+    "sm": {
+      "outline-border-radius": {
+        "value": "{brk-ref-button-primary.sm.border-radius}",
+        "type": "borderRadius"
+      }
     }
   },
   "brk-doc": {
@@ -87,7 +91,11 @@
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{brk-button-primary.height}*8",
+      "value": "{brk-button-primary.height}/2",
+      "type": "borderRadius"
+    },
+    "border-radius-outline": {
+      "value": "{brk-button-primary.border-radius}",
       "type": "borderRadius"
     },
     "font-family": {
@@ -839,6 +847,10 @@
       "icon-size": {
         "value": "{brk-button-primary.sm-font-size}*{brk-button-primary.icon-size}",
         "type": "sizing"
+      },
+      "border-radius": {
+        "value": "{brk-button-primary.sm-font-size}*{brk-button-primary.border-radius}",
+        "type": "borderRadius"
       }
     },
     "md": {
@@ -849,6 +861,10 @@
       "icon-size": {
         "value": "{brk-button-primary.md-font-size}*{brk-button-primary.icon-size}",
         "type": "sizing"
+      },
+      "border-radius": {
+        "value": "{brk-button-primary.md-font-size}*{brk-button-primary.border-radius}",
+        "type": "borderRadius"
       }
     },
     "lg": {
@@ -859,16 +875,10 @@
       "icon-size": {
         "value": "{brk-button-primary.lg-font-size}*{brk-button-primary.icon-size}",
         "type": "sizing"
-      }
-    },
-    "xl": {
-      "height": {
-        "value": "{brk-button-primary.xl-font-size}*{brk-button-primary.height}",
-        "type": "sizing"
       },
-      "icon-size": {
-        "value": "{brk-button-primary.xl-font-size}*{brk-button-primary.icon-size}",
-        "type": "sizing"
+      "border-radius": {
+        "value": "{brk-button-primary.lg-font-size}*{brk-button-primary.border-radius}",
+        "type": "borderRadius"
       }
     }
   },
@@ -881,6 +891,10 @@
       "icon-size": {
         "value": "{brk-button-secondary.sm-font-size}*{brk-button-secondary.icon-size}",
         "type": "sizing"
+      },
+      "border-radius": {
+        "value": "{brk-button-secondary.sm-font-size}*{brk-button-secondary.border-radius}",
+        "type": "borderRadius"
       }
     },
     "md": {
@@ -891,6 +905,10 @@
       "icon-size": {
         "value": "{brk-button-secondary.md-font-size}*{brk-button-secondary.icon-size}",
         "type": "sizing"
+      },
+      "border-radius": {
+        "value": "{brk-button-secondary.md-font-size}*{brk-button-secondary.border-radius}",
+        "type": "borderRadius"
       }
     },
     "lg": {
@@ -901,6 +919,10 @@
       "icon-size": {
         "value": "{brk-button-secondary.lg-font-size}*{brk-button-secondary.icon-size}",
         "type": "sizing"
+      },
+      "border-radius": {
+        "value": "{brk-button-secondary.lg-font-size}*{brk-button-secondary.border-radius}",
+        "type": "borderRadius"
       }
     },
     "xl": {
@@ -923,6 +945,10 @@
       "icon-size": {
         "value": "{brk-button-tertiary.sm-font-size}*{brk-button-tertiary.icon-size}",
         "type": "sizing"
+      },
+      "border-radius": {
+        "value": "{brk-button-tertiary.sm-font-size}*{brk-button-tertiary.border-radius}",
+        "type": "borderRadius"
       }
     },
     "md": {
@@ -933,6 +959,10 @@
       "icon-size": {
         "value": "{brk-button-tertiary.md-font-size}*{brk-button-tertiary.icon-size}",
         "type": "sizing"
+      },
+      "border-radius": {
+        "value": "{brk-button-tertiary.md-font-size}*{brk-button-tertiary.border-radius}",
+        "type": "borderRadius"
       }
     },
     "lg": {
@@ -943,6 +973,10 @@
       "icon-size": {
         "value": "{brk-button-tertiary.lg-font-size}*{brk-button-tertiary.icon-size}",
         "type": "sizing"
+      },
+      "border-radius": {
+        "value": "{brk-button-tertiary.lg-font-size}*{brk-button-tertiary.border-radius}",
+        "type": "borderRadius"
       }
     },
     "xl": {
