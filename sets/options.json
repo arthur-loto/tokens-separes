@@ -1323,6 +1323,10 @@
       "value": "0.6153",
       "type": "sizing"
     },
+    "05": {
+      "value": "0.5",
+      "type": "sizing"
+    },
     "00": {
       "value": "0.0769",
       "type": "sizing"
