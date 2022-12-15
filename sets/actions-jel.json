@@ -20,14 +20,6 @@
       "type": "spacing"
     }
   },
-  "brk-doc-interactive": {
-    "sm": {
-      "outline-border-radius": {
-        "value": "{brk-ref-button-primary.sm.border-radius}",
-        "type": "borderRadius"
-      }
-    }
-  },
   "brk-doc": {
     "standard-background-color": {
       "value": "{brk-opt-color-neutral.50}",
@@ -92,10 +84,6 @@
     },
     "border-radius": {
       "value": "{brk-button-primary.height}/2",
-      "type": "borderRadius"
-    },
-    "border-radius-outline": {
-      "value": "{brk-button-primary.border-radius}",
       "type": "borderRadius"
     },
     "font-family": {
