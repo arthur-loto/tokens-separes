@@ -103,26 +103,30 @@
       "type": "lineHeights"
     },
     "sm-font-size": {
-      "value": "{brk-opt-font-size.13}",
+      "value": "{brk-opt-font-size.16}",
       "type": "fontSizes"
     },
     "md-font-size": {
-      "value": "{brk-opt-font-size.18}",
+      "value": "{brk-opt-font-size.24}",
       "type": "fontSizes"
     },
     "lg-font-size": {
-      "value": "{brk-opt-font-size.22}",
-      "type": "fontSizes"
-    },
-    "xl-font-size": {
-      "value": "{brk-opt-font-size.26}",
+      "value": "{brk-opt-font-size.32}",
       "type": "fontSizes"
     },
     "letter-spacing": {
       "value": "{brk-opt-letter-spacing.2%}",
       "type": "letterSpacing"
     },
-    "text-decoration": {
+    "text-decoration-default": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "text-decoration-hover": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "text-decoration-focus": {
       "value": "{brk-opt-text-decoration.none}",
       "type": "textDecoration"
     },
@@ -290,19 +294,15 @@
       "type": "lineHeights"
     },
     "sm-font-size": {
-      "value": "{brk-opt-font-size.13}",
+      "value": "{brk-opt-font-size.16}",
       "type": "fontSizes"
     },
     "md-font-size": {
-      "value": "{brk-opt-font-size.18}",
+      "value": "{brk-opt-font-size.24}",
       "type": "fontSizes"
     },
     "lg-font-size": {
-      "value": "{brk-opt-font-size.22}",
-      "type": "fontSizes"
-    },
-    "xl-font-size": {
-      "value": "{brk-opt-font-size.26}",
+      "value": "{brk-opt-font-size.32}",
       "type": "fontSizes"
     },
     "letter-spacing": {
@@ -313,7 +313,15 @@
       "value": "{brk-opt-text-transform.none}",
       "type": "textCase"
     },
-    "text-decoration": {
+    "text-decoration-default": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "text-decoration-hover": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "text-decoration-focus": {
       "value": "{brk-opt-text-decoration.none}",
       "type": "textDecoration"
     }
@@ -475,19 +483,15 @@
       "type": "lineHeights"
     },
     "sm-font-size": {
-      "value": "{brk-opt-font-size.10}",
+      "value": "{brk-opt-font-size.16}",
       "type": "fontSizes"
     },
     "md-font-size": {
-      "value": "{brk-opt-font-size.14}",
+      "value": "{brk-opt-font-size.24}",
       "type": "fontSizes"
     },
     "lg-font-size": {
-      "value": "{brk-opt-font-size.18}",
-      "type": "fontSizes"
-    },
-    "xl-font-size": {
-      "value": "{brk-opt-font-size.22}",
+      "value": "{brk-opt-font-size.32}",
       "type": "fontSizes"
     },
     "letter-spacing": {
@@ -498,7 +502,15 @@
       "value": "{brk-opt-text-transform.none}",
       "type": "textCase"
     },
-    "text-decoration": {
+    "text-decoration-default": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "text-decoration-hover": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "text-decoration-focus": {
       "value": "{brk-opt-text-decoration.none}",
       "type": "textDecoration"
     }
@@ -662,19 +674,15 @@
       "type": "lineHeights"
     },
     "sm-font-size": {
-      "value": "{brk-opt-font-size.10}",
+      "value": "{brk-opt-font-size.16}",
       "type": "fontSizes"
     },
     "md-font-size": {
-      "value": "{brk-opt-font-size.14}",
+      "value": "{brk-opt-font-size.24}",
       "type": "fontSizes"
     },
     "lg-font-size": {
-      "value": "{brk-opt-font-size.18}",
-      "type": "fontSizes"
-    },
-    "xl-font-size": {
-      "value": "{brk-opt-font-size.22}",
+      "value": "{brk-opt-font-size.32}",
       "type": "fontSizes"
     },
     "letter-spacing": {
