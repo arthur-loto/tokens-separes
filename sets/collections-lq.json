@@ -10,30 +10,30 @@
     "sm": {
       "pretitle": {
         "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontFamily": "{brk-opt-font-family.webfont}",
           "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-font-size.8}",
-          "fontSize": "{brk-opt-font-size.8}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "lineHeight": "{brk-opt-font-size.16}",
+          "fontSize": "{brk-opt-font-size.16}",
+          "letterSpacing": "{brk-opt-letter-spacing.0%}",
           "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.uppercase}",
+          "textCase": "{brk-opt-text-transform.none}",
           "textDecoration": "{brk-opt-text-decoration.none}"
         },
         "type": "typography",
         "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
       },
       "image-height": {
-        "value": "{brk-opt-size.216}",
+        "value": "{brk-opt-size.320}",
         "type": "sizing",
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.8}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.12}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
@@ -49,10 +49,10 @@
       },
       "heading": {
         "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontFamily": "{brk-opt-font-family.brand-main}",
           "fontWeight": "{brk-opt-font-weight.700}",
           "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.14}",
+          "fontSize": "{brk-opt-font-size.24}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.none}",
@@ -65,8 +65,8 @@
         "value": {
           "fontFamily": "{brk-opt-font-family.webfont}",
           "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.85%}",
-          "fontSize": "{brk-opt-font-size.9}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.16}",
           "letterSpacing": "{brk-opt-letter-spacing.2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.none}",
@@ -375,7 +375,7 @@
   "brk-card-secondary-info": {
     "sm": {
       "height": {
-        "value": "{brk-opt-size.36}",
+        "value": "{brk-opt-size.64}",
         "type": "sizing",
         "description": " "
       }
@@ -409,10 +409,10 @@
           "fontFamily": "{brk-opt-font-family.brand-main}",
           "fontWeight": "{brk-opt-font-weight.700}",
           "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.8}",
+          "fontSize": "{brk-opt-font-size.16}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.uppercase}",
+          "textCase": "{brk-opt-text-transform.none}",
           "textDecoration": "{brk-opt-text-decoration.none}"
         },
         "type": "typography",
@@ -423,7 +423,7 @@
           "fontFamily": "{brk-opt-font-family.webfont}",
           "fontWeight": "{brk-opt-font-weight.700}",
           "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.12}",
+          "fontSize": "{brk-opt-font-size.16}",
           "letterSpacing": "{brk-opt-letter-spacing.2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.uppercase}",
@@ -433,17 +433,17 @@
         "description": " "
       },
       "amount-digit-height": {
-        "value": "{brk-opt-size.20}",
+        "value": "{brk-opt-size.28}",
         "type": "sizing",
         "description": " "
       },
       "amount-digit-width": {
-        "value": "{brk-opt-size.12}",
+        "value": "{brk-opt-size.16}",
         "type": "sizing",
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.8}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
