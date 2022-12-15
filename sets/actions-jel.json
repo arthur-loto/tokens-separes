@@ -839,6 +839,10 @@
       "border-radius": {
         "value": "{brk-button-primary.sm-font-size}*{brk-button-primary.border-radius}",
         "type": "borderRadius"
+      },
+      "border-radius-outline": {
+        "value": "{brk-ref-button-primary.sm.border-radius}+3px",
+        "type": "borderRadius"
       }
     },
     "md": {
@@ -853,6 +857,10 @@
       "border-radius": {
         "value": "{brk-button-primary.md-font-size}*{brk-button-primary.border-radius}",
         "type": "borderRadius"
+      },
+      "border-radius-outline": {
+        "value": "{brk-ref-button-primary.md.border-radius}+3px",
+        "type": "borderRadius"
       }
     },
     "lg": {
@@ -866,6 +874,10 @@
       },
       "border-radius": {
         "value": "{brk-button-primary.lg-font-size}*{brk-button-primary.border-radius}",
+        "type": "borderRadius"
+      },
+      "border-radius-outline": {
+        "value": "{brk-ref-button-primary.lg.border-radius}+3px",
         "type": "borderRadius"
       }
     }
@@ -883,6 +895,10 @@
       "border-radius": {
         "value": "{brk-button-secondary.sm-font-size}*{brk-button-secondary.border-radius}",
         "type": "borderRadius"
+      },
+      "border-radius-outline": {
+        "value": "{brk-ref-button-secondary.sm.border-radius}+3px",
+        "type": "borderRadius"
       }
     },
     "md": {
@@ -897,6 +913,10 @@
       "border-radius": {
         "value": "{brk-button-secondary.md-font-size}*{brk-button-secondary.border-radius}",
         "type": "borderRadius"
+      },
+      "border-radius-outline": {
+        "value": "{brk-ref-button-secondary.md.border-radius}+3px",
+        "type": "borderRadius"
       }
     },
     "lg": {
@@ -910,6 +930,10 @@
       },
       "border-radius": {
         "value": "{brk-button-secondary.lg-font-size}*{brk-button-secondary.border-radius}",
+        "type": "borderRadius"
+      },
+      "border-radius-outline": {
+        "value": "{brk-ref-button-secondary.lg.border-radius}+3px",
         "type": "borderRadius"
       }
     },
@@ -937,6 +961,10 @@
       "border-radius": {
         "value": "{brk-button-tertiary.sm-font-size}*{brk-button-tertiary.border-radius}",
         "type": "borderRadius"
+      },
+      "border-radius-outline": {
+        "value": "{brk-ref-button-tertiary.sm.border-radius}+3px",
+        "type": "borderRadius"
       }
     },
     "md": {
@@ -951,6 +979,10 @@
       "border-radius": {
         "value": "{brk-button-tertiary.md-font-size}*{brk-button-tertiary.border-radius}",
         "type": "borderRadius"
+      },
+      "border-radius-outline": {
+        "value": "{brk-ref-button-tertiary.md.border-radius}+3px",
+        "type": "borderRadius"
       }
     },
     "lg": {
@@ -964,6 +996,10 @@
       },
       "border-radius": {
         "value": "{brk-button-tertiary.lg-font-size}*{brk-button-tertiary.border-radius}",
+        "type": "borderRadius"
+      },
+      "border-radius-outline": {
+        "value": "{brk-ref-button-tertiary.lg.border-radius}+3px",
         "type": "borderRadius"
       }
     },
@@ -987,6 +1023,14 @@
       "icon-size": {
         "value": "{brk-button-text.sm-font-size}*{brk-button-text.icon-size}",
         "type": "sizing"
+      },
+      "border-radius": {
+        "value": "{brk-button-text.sm-font-size}*{brk-button-text.border-radius}",
+        "type": "borderRadius"
+      },
+      "border-radius-outline": {
+        "value": "{brk-ref-button-text.sm.border-radius}+3px",
+        "type": "borderRadius"
       }
     },
     "md": {
@@ -997,6 +1041,14 @@
       "icon-size": {
         "value": "{brk-button-text.md-font-size}*{brk-button-text.icon-size}",
         "type": "sizing"
+      },
+      "border-radius": {
+        "value": "{brk-button-text.md-font-size}*{brk-button-text.border-radius}",
+        "type": "borderRadius"
+      },
+      "border-radius-outline": {
+        "value": "{brk-ref-button-text.md.border-radius}+3px",
+        "type": "borderRadius"
       }
     },
     "lg": {
@@ -1007,6 +1059,14 @@
       "icon-size": {
         "value": "{brk-button-text.lg-font-size}*{brk-button-text.icon-size}",
         "type": "sizing"
+      },
+      "border-radius": {
+        "value": "{brk-button-text.lg-font-size}*{brk-button-text.border-radius}",
+        "type": "borderRadius"
+      },
+      "border-radius-outline": {
+        "value": "{brk-ref-button-text.lg.border-radius}+3px",
+        "type": "borderRadius"
       }
     },
     "xl": {
