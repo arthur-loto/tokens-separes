@@ -28,22 +28,22 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-spacing.16}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-spacing.16}",
         "type": "spacing",
         "description": " "
       },
       "heading-margin-vertical": {
-        "value": "{brk-opt-space.4}",
+        "value": "{brk-opt-spacing.4}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-spacing.16}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le bouton de la carte en petit format."
       },
@@ -97,22 +97,22 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-spacing.24}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-spacing.24}",
         "type": "spacing",
         "description": " "
       },
       "heading-margin-vertical": {
-        "value": "{brk-opt-space.8}",
+        "value": "{brk-opt-spacing.8}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-spacing.24}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le bouton de la carte en format moyen."
       },
@@ -166,22 +166,22 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-spacing.24}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-spacing.24}",
         "type": "spacing",
         "description": " "
       },
       "heading-margin-vertical": {
-        "value": "{brk-opt-space.8}",
+        "value": "{brk-opt-spacing.8}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-spacing.24}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le bouton de la carte en format large."
       },
@@ -212,28 +212,6 @@
         },
         "type": "typography",
         "description": " "
-      }
-    },
-    "xl": {
-      "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
-        "type": "spacing",
-        "description": " "
-      },
-      "padding-vertical": {
-        "value": "{brk-opt-space.24}",
-        "type": "spacing",
-        "description": " "
-      },
-      "heading-margin-vertical": {
-        "value": "{brk-opt-space.8}",
-        "type": "spacing",
-        "description": " "
-      },
-      "content-gap": {
-        "value": "{brk-opt-space.16}",
-        "type": "spacing",
-        "description": "NOTE: Séparation minimale entre les textes et le bouton de la carte en format extra large."
       }
     },
     "border-width": {
@@ -389,22 +367,22 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-spacing.16}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-spacing.16}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en petit format."
       },
       "amount-digit-margin": {
-        "value": "{brk-opt-space.2}",
+        "value": "{brk-opt-spacing.2}",
         "type": "spacing",
         "description": " "
       },
       "amount-group-margin": {
-        "value": "{brk-opt-space.4}",
+        "value": "{brk-opt-spacing.4}",
         "type": "spacing",
         "description": " "
       }
@@ -449,22 +427,22 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-spacing.24}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-spacing.24}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format moyen."
       },
       "amount-digit-margin": {
-        "value": "{brk-opt-space.4}",
+        "value": "{brk-opt-spacing.4}",
         "type": "spacing",
         "description": " "
       },
       "amount-group-margin": {
-        "value": "{brk-opt-space.8}",
+        "value": "{brk-opt-spacing.8}",
         "type": "spacing",
         "description": " "
       }
@@ -509,22 +487,22 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.32}",
+        "value": "{brk-opt-spacing.32}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.32}",
+        "value": "{brk-opt-spacing.32}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format large."
       },
       "amount-digit-margin": {
-        "value": "{brk-opt-space.8}",
+        "value": "{brk-opt-spacing.8}",
         "type": "spacing",
         "description": " "
       },
       "amount-group-margin": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-spacing.16}",
         "type": "spacing",
         "description": " "
       }
