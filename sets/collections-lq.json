@@ -10,49 +10,49 @@
     "sm": {
       "pretitle": {
         "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontFamily": "{brk-opt-font-family.brand-main}",
           "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-font-size.16}",
-          "fontSize": "{brk-opt-font-size.16}",
-          "letterSpacing": "{brk-opt-letter-spacing.0%}",
+          "lineHeight": "{brk-opt-font-size.8}",
+          "fontSize": "{brk-opt-font-size.8}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
+          "textCase": "{brk-opt-text-transform.uppercase}",
           "textDecoration": "{brk-opt-text-decoration.none}"
         },
         "type": "typography",
         "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
       },
       "image-height": {
-        "value": "{brk-opt-size.320}",
+        "value": "{brk-opt-size.180}",
         "type": "sizing",
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-spacing.16}",
+        "value": "{brk-opt-space.10}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-spacing.16}",
+        "value": "{brk-opt-space.10}",
         "type": "spacing",
         "description": " "
       },
       "heading-margin-vertical": {
-        "value": "{brk-opt-spacing.4}",
+        "value": "{brk-opt-space.4}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-spacing.16}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le bouton de la carte en petit format."
       },
       "heading": {
         "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.700}",
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.400}",
           "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.24}",
+          "fontSize": "{brk-opt-font-size.14}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.none}",
@@ -65,77 +65,8 @@
         "value": {
           "fontFamily": "{brk-opt-font-family.webfont}",
           "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.16}",
-          "letterSpacing": "{brk-opt-letter-spacing.2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
-      }
-    },
-    "md": {
-      "pretitle": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-font-size.24}",
-          "fontSize": "{brk-opt-font-size.24}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
-      },
-      "image-height": {
-        "value": "{brk-opt-size.400}",
-        "type": "sizing",
-        "description": " "
-      },
-      "padding-horizontal": {
-        "value": "{brk-opt-spacing.24}",
-        "type": "spacing",
-        "description": " "
-      },
-      "padding-vertical": {
-        "value": "{brk-opt-spacing.24}",
-        "type": "spacing",
-        "description": " "
-      },
-      "heading-margin-vertical": {
-        "value": "{brk-opt-spacing.8}",
-        "type": "spacing",
-        "description": " "
-      },
-      "content-gap": {
-        "value": "{brk-opt-spacing.24}",
-        "type": "spacing",
-        "description": "NOTE: Séparation minimale entre les textes et le bouton de la carte en format moyen."
-      },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.32}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
-      },
-      "body": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.24}",
+          "lineHeight": "{brk-opt-line-height.85%}",
+          "fontSize": "{brk-opt-font-size.9}",
           "letterSpacing": "{brk-opt-letter-spacing.2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.none}",
@@ -148,49 +79,49 @@
     "lg": {
       "pretitle": {
         "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontFamily": "{brk-opt-font-family.brand-main}",
           "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-font-size.32}",
-          "fontSize": "{brk-opt-font-size.32}",
+          "lineHeight": "{brk-opt-font-size.14}",
+          "fontSize": "{brk-opt-font-size.14}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
+          "textCase": "{brk-opt-text-transform.uppercase}",
           "textDecoration": "{brk-opt-text-decoration.none}"
         },
         "type": "typography",
         "description": "NOTE : pour le spré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
       },
       "image-height": {
-        "value": "{brk-opt-size.480}",
+        "value": "{brk-opt-size.270}",
         "type": "sizing",
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-spacing.24}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-spacing.24}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "heading-margin-vertical": {
-        "value": "{brk-opt-spacing.8}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-spacing.24}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le bouton de la carte en format large."
       },
       "heading": {
         "value": {
           "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.700}",
+          "fontWeight": "{brk-opt-font-weight.400}",
           "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.48}",
+          "fontSize": "{brk-opt-font-size.30}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.none}",
@@ -203,8 +134,146 @@
         "value": {
           "fontFamily": "{brk-opt-font-family.webfont}",
           "fontWeight": "{brk-opt-font-weight.400}",
+          "lineHeight": "{brk-opt-line-height.85%}",
+          "fontSize": "{brk-opt-font-size.15}",
+          "letterSpacing": "{brk-opt-letter-spacing.2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.none}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      }
+    },
+    "xl": {
+      "pretitle": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-font-size.18}",
+          "fontSize": "{brk-opt-font-size.18}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.uppercase}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
+      },
+      "image-height": {
+        "value": "{brk-opt-size.320}",
+        "type": "sizing",
+        "description": " "
+      },
+      "padding-horizontal": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": " "
+      },
+      "padding-vertical": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": " "
+      },
+      "heading-margin-vertical": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing",
+        "description": " "
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": "NOTE: Séparation minimale entre les textes et le bouton de la carte en format extra large."
+      },
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.400}",
           "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.32}",
+          "fontSize": "{brk-opt-font-size.40}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.none}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      },
+      "body": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.400}",
+          "lineHeight": "{brk-opt-line-height.85%}",
+          "fontSize": "{brk-opt-font-size.18}",
+          "letterSpacing": "{brk-opt-letter-spacing.2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.none}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      }
+    },
+    "md": {
+      "pretitle": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-font-size.12}",
+          "fontSize": "{brk-opt-font-size.12}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.uppercase}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
+      },
+      "image-height": {
+        "value": "{brk-opt-size.270}",
+        "type": "sizing",
+        "description": " "
+      },
+      "padding-horizontal": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": " "
+      },
+      "padding-vertical": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": " "
+      },
+      "heading-margin-vertical": {
+        "value": "{brk-opt-space.4}",
+        "type": "spacing",
+        "description": " "
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": "NOTE: Séparation minimale entre les textes et le bouton de la carte en format moyen."
+      },
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.400}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.25}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.none}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      },
+      "body": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.400}",
+          "lineHeight": "{brk-opt-line-height.85%}",
+          "fontSize": "{brk-opt-font-size.14}",
           "letterSpacing": "{brk-opt-letter-spacing.2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.none}",
@@ -232,12 +301,12 @@
       "description": " "
     },
     "pretitle-font-color": {
-      "value": "{brk-opt-color-lq-main.800}",
+      "value": "{brk-opt-color-lq-main.728}",
       "type": "color",
       "description": " "
     },
     "body-font-color": {
-      "value": "{brk-opt-color-lq-main.900}",
+      "value": "{brk-opt-color-lq-main.728}",
       "type": "color",
       "description": " "
     },
@@ -264,79 +333,17 @@
       }
     }
   },
-  "brk-card-hero-inverted": {
-    "heading-font-color": {
-      "value": "{brk-opt-color-lq-main.50}",
-      "type": "color",
-      "description": " "
-    },
-    "pretitle-font-color": {
-      "value": "{brk-opt-color-lq-main.100}",
-      "type": "color",
-      "description": " "
-    },
-    "body-font-color": {
-      "value": "{brk-opt-color-lq-main.100}",
-      "type": "color",
-      "description": " "
-    },
-    "background-color": {
-      "value": "{brk-opt-color-lq-main.900}",
-      "type": "color",
-      "description": " "
-    },
-    "border-color": {
-      "value": "{brk-opt-color-lq-main.800}",
-      "type": "color",
-      "description": " "
-    },
-    "box-shadow": {
-      "default": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow",
-        "description": " "
-      },
-      "hover": {
-        "value": "{brk-opt-box-shadow.blur-standard}",
-        "type": "boxShadow",
-        "description": " "
-      }
-    }
-  },
-  "brk-card-secondary-info": {
-    "sm": {
-      "height": {
-        "value": "{brk-opt-size.64}",
-        "type": "sizing",
-        "description": " "
-      }
-    },
-    "md": {
-      "height": {
-        "value": "{brk-opt-size.80}",
-        "type": "sizing",
-        "description": " "
-      }
-    },
-    "lg": {
-      "height": {
-        "value": "{brk-opt-size.104}",
-        "type": "sizing",
-        "description": " "
-      }
-    }
-  },
-  "brk-card-secondary-info-jackpot": {
+  "brk-jackpot-hero": {
     "sm": {
       "heading": {
         "value": {
           "fontFamily": "{brk-opt-font-family.brand-main}",
           "fontWeight": "{brk-opt-font-weight.700}",
           "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.16}",
+          "fontSize": "{brk-opt-font-size.8}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
+          "textCase": "{brk-opt-text-transform.uppercase}",
           "textDecoration": "{brk-opt-text-decoration.none}"
         },
         "type": "typography",
@@ -347,7 +354,7 @@
           "fontFamily": "{brk-opt-font-family.webfont}",
           "fontWeight": "{brk-opt-font-weight.700}",
           "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.16}",
+          "fontSize": "{brk-opt-font-size.12}",
           "letterSpacing": "{brk-opt-letter-spacing.2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.uppercase}",
@@ -356,33 +363,38 @@
         "type": "typography",
         "description": " "
       },
+      "height": {
+        "value": "{brk-opt-size.36}",
+        "type": "sizing",
+        "description": " "
+      },
       "amount-digit-height": {
-        "value": "{brk-opt-size.28}",
+        "value": "{brk-opt-size.20}",
         "type": "sizing",
         "description": " "
       },
       "amount-digit-width": {
-        "value": "{brk-opt-size.16}",
+        "value": "{brk-opt-size.14}",
         "type": "sizing",
         "description": " "
       },
-      "padding-horizontal": {
-        "value": "{brk-opt-spacing.16}",
-        "type": "spacing",
-        "description": " "
-      },
       "content-gap": {
-        "value": "{brk-opt-spacing.16}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en petit format."
       },
+      "padding-horizontal": {
+        "value": "{brk-opt-space.10}",
+        "type": "spacing",
+        "description": " "
+      },
       "amount-digit-margin": {
-        "value": "{brk-opt-spacing.2}",
+        "value": "{brk-opt-space.1}",
         "type": "spacing",
         "description": " "
       },
       "amount-group-margin": {
-        "value": "{brk-opt-spacing.4}",
+        "value": "{brk-opt-space.4}",
         "type": "spacing",
         "description": " "
       }
@@ -393,10 +405,10 @@
           "fontFamily": "{brk-opt-font-family.brand-main}",
           "fontWeight": "{brk-opt-font-weight.700}",
           "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.24}",
+          "fontSize": "{brk-opt-font-size.14}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
+          "textCase": "{brk-opt-text-transform.uppercase}",
           "textDecoration": "{brk-opt-text-decoration.none}"
         },
         "type": "typography",
@@ -407,42 +419,47 @@
           "fontFamily": "{brk-opt-font-family.webfont}",
           "fontWeight": "{brk-opt-font-weight.700}",
           "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.24}",
+          "fontSize": "{brk-opt-font-size.20}",
           "letterSpacing": "{brk-opt-letter-spacing.2%}",
           "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
+          "textCase": "{brk-opt-text-transform.uppercase}",
           "textDecoration": "{brk-opt-text-decoration.none}"
         },
         "type": "typography",
         "description": " "
       },
+      "height": {
+        "value": "{brk-opt-size.60}",
+        "type": "sizing",
+        "description": " "
+      },
       "amount-digit-height": {
-        "value": "{brk-opt-size.40}",
+        "value": "{brk-opt-size.28}",
         "type": "sizing",
         "description": " "
       },
       "amount-digit-width": {
-        "value": "{brk-opt-size.24}",
+        "value": "{brk-opt-size.20}",
         "type": "sizing",
         "description": " "
       },
-      "padding-horizontal": {
-        "value": "{brk-opt-spacing.24}",
-        "type": "spacing",
-        "description": " "
-      },
       "content-gap": {
-        "value": "{brk-opt-spacing.24}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format moyen."
       },
+      "padding-horizontal": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": " "
+      },
       "amount-digit-margin": {
-        "value": "{brk-opt-spacing.4}",
+        "value": "{brk-opt-space.2}",
         "type": "spacing",
         "description": " "
       },
       "amount-group-margin": {
-        "value": "{brk-opt-spacing.8}",
+        "value": "{brk-opt-space.5}",
         "type": "spacing",
         "description": " "
       }
@@ -453,10 +470,10 @@
           "fontFamily": "{brk-opt-font-family.brand-main}",
           "fontWeight": "{brk-opt-font-weight.700}",
           "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.32}",
+          "fontSize": "{brk-opt-font-size.18}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
+          "textCase": "{brk-opt-text-transform.uppercase}",
           "textDecoration": "{brk-opt-text-decoration.none}"
         },
         "type": "typography",
@@ -467,60 +484,118 @@
           "fontFamily": "{brk-opt-font-family.webfont}",
           "fontWeight": "{brk-opt-font-weight.700}",
           "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.32}",
+          "fontSize": "{brk-opt-font-size.24}",
           "letterSpacing": "{brk-opt-letter-spacing.2%}",
           "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
+          "textCase": "{brk-opt-text-transform.uppercase}",
           "textDecoration": "{brk-opt-text-decoration.none}"
         },
         "type": "typography",
         "description": " "
       },
+      "height": {
+        "value": "{brk-opt-size.72}",
+        "type": "sizing",
+        "description": " "
+      },
       "amount-digit-height": {
-        "value": "{brk-opt-size.56}",
+        "value": "{brk-opt-size.40}",
         "type": "sizing",
         "description": " "
       },
       "amount-digit-width": {
-        "value": "{brk-opt-size.32}",
+        "value": "{brk-opt-size.30}",
         "type": "sizing",
         "description": " "
       },
-      "padding-horizontal": {
-        "value": "{brk-opt-spacing.32}",
-        "type": "spacing",
-        "description": " "
-      },
       "content-gap": {
-        "value": "{brk-opt-spacing.32}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format large."
       },
+      "padding-horizontal": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": " "
+      },
       "amount-digit-margin": {
-        "value": "{brk-opt-spacing.8}",
+        "value": "{brk-opt-space.3}",
         "type": "spacing",
         "description": " "
       },
       "amount-group-margin": {
-        "value": "{brk-opt-spacing.16}",
+        "value": "{brk-opt-space.6}",
         "type": "spacing",
         "description": " "
       }
     },
     "xl": {
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.110%}",
+          "fontSize": "{brk-opt-font-size.18}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.uppercase}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      },
+      "body": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.28}",
+          "letterSpacing": "{brk-opt-letter-spacing.2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.uppercase}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      },
+      "height": {
+        "value": "{brk-opt-size.72}",
+        "type": "sizing",
+        "description": " "
+      },
       "amount-digit-height": {
         "value": "{brk-opt-size.44}",
         "type": "sizing",
         "description": " "
       },
       "amount-digit-width": {
-        "value": "{brk-opt-size.28}",
+        "value": "{brk-opt-size.30}",
         "type": "sizing",
+        "description": " "
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format extra large."
+      },
+      "padding-horizontal": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": " "
+      },
+      "amount-digit-margin": {
+        "value": "{brk-opt-space.4}",
+        "type": "spacing",
+        "description": " "
+      },
+      "amount-group-margin": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing",
         "description": " "
       }
     },
     "amount-digit-border-radius": {
-      "value": "{brk-opt-border-radius.2}",
+      "value": "{brk-opt-border-radius.1}",
       "type": "borderRadius",
       "description": " "
     },
@@ -530,14 +605,14 @@
       "description": " "
     }
   },
-  "brk-card-secondary-info-jackpot-standard": {
+  "brk-jackpot-hero-standard": {
     "heading-font-color": {
       "value": "{brk-opt-color-lq-main.50}",
       "type": "color",
       "description": " "
     },
     "body-font-color": {
-      "value": "{brk-opt-color-lq-main.900}",
+      "value": "{brk-opt-color-neutral.1000}",
       "type": "color",
       "description": " "
     },
@@ -558,38 +633,6 @@
     },
     "symbol-font-color": {
       "value": "{brk-opt-color-neutral.0}",
-      "type": "color",
-      "description": " "
-    }
-  },
-  "brk-card-secondary-info-jackpot-inverted": {
-    "heading-font-color": {
-      "value": "{brk-opt-color-lq-main.650}",
-      "type": "color",
-      "description": " "
-    },
-    "body-font-color": {
-      "value": "{brk-opt-color-lq-main.50}",
-      "type": "color",
-      "description": " "
-    },
-    "body-box-background-color": {
-      "value": "{brk-opt-color-lq-main.600}",
-      "type": "color",
-      "description": " "
-    },
-    "body-box-border-color": {
-      "value": "{brk-opt-color-neutral.transparent}",
-      "type": "color",
-      "description": " "
-    },
-    "background-color": {
-      "value": "{brk-opt-color-lq-main.100}",
-      "type": "color",
-      "description": " "
-    },
-    "symbol-font-color": {
-      "value": "{brk-opt-color-lq-main.650}",
       "type": "color",
       "description": " "
     }
@@ -679,7 +722,7 @@
         "type": "spacing"
       },
       "image-height": {
-        "value": "{brk-opt-size.172}",
+        "value": "{brk-opt-size.264}",
         "type": "sizing",
         "description": " "
       },
@@ -1067,17 +1110,17 @@
   "brk-promo-secondary": {
     "sm": {
       "padding-horizontal": {
-        "value": "{brk-opt-space.12}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.12}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.10}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
@@ -1086,7 +1129,7 @@
         "type": "spacing"
       },
       "image-height": {
-        "value": "{brk-opt-size.172}",
+        "value": "{brk-opt-size.264}",
         "type": "sizing",
         "description": " "
       },
@@ -1094,8 +1137,8 @@
         "value": {
           "fontFamily": "{brk-opt-font-family.brand-main}",
           "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-font-size.8}",
-          "fontSize": "{brk-opt-font-size.8}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.16}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.uppercase}",
@@ -1108,8 +1151,22 @@
         "value": {
           "fontFamily": "{brk-opt-font-family.webfont}",
           "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.18}",
+          "lineHeight": "{brk-opt-line-height.110%}",
+          "fontSize": "{brk-opt-font-size.26}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.none}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      },
+      "heading-copy": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.400}",
+          "lineHeight": "{brk-opt-line-height.110%}",
+          "fontSize": "{brk-opt-font-size.28}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.none}",
@@ -1124,15 +1181,6 @@
       }
     },
     "md": {
-      "image-height": {
-        "value": "{brk-opt-size.270}",
-        "type": "sizing",
-        "description": " "
-      },
-      "gradient-height": {
-        "value": "{brk-promo-secondary.md.image-height}/4",
-        "type": "sizing"
-      },
       "padding-horizontal": {
         "value": "{brk-opt-space.20}",
         "type": "spacing",
@@ -1144,12 +1192,12 @@
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.20}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.6}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
       "pretitle": {
@@ -1171,7 +1219,7 @@
           "fontFamily": "{brk-opt-font-family.webfont}",
           "fontWeight": "{brk-opt-font-weight.400}",
           "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.30}",
+          "fontSize": "{brk-opt-font-size.36}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.none}",
@@ -1179,18 +1227,18 @@
         },
         "type": "typography",
         "description": " "
-      }
-    },
-    "lg": {
+      },
       "image-height": {
-        "value": "{brk-opt-size.300}",
+        "value": "{brk-opt-size.340}",
         "type": "sizing",
         "description": " "
       },
       "gradient-height": {
-        "value": "{brk-promo-secondary.lg.image-height}/4",
+        "value": "{brk-promo-secondary.md.image-height}/4",
         "type": "sizing"
-      },
+      }
+    },
+    "lg": {
       "padding-horizontal": {
         "value": "{brk-opt-space.24}",
         "type": "spacing",
@@ -1202,20 +1250,20 @@
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.12}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.6}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
       "pretitle": {
         "value": {
           "fontFamily": "{brk-opt-font-family.brand-main}",
           "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.13}",
+          "lineHeight": "{brk-opt-line-height.115%}",
+          "fontSize": "{brk-opt-font-size.20}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.uppercase}",
@@ -1237,64 +1285,15 @@
         },
         "type": "typography",
         "description": " "
-      }
-    },
-    "xl": {
+      },
       "image-height": {
         "value": "568",
         "type": "sizing",
         "description": " NOTE : la valeur assignée à ce token est seulement pour Figma. À partir du dernier point de rupture, la composition de la promo secondaire devient horizontale. La hauteur de l'image sera déterminée alors par la hauteur du composant."
       },
       "gradient-height": {
-        "value": "{brk-promo-secondary.xl.image-height}/4",
+        "value": "{brk-promo-secondary.lg.image-height}/4",
         "type": "sizing"
-      },
-      "padding-horizontal": {
-        "value": "{brk-promo-primary.xl.padding-horizontal}",
-        "type": "spacing",
-        "description": " "
-      },
-      "padding-vertical": {
-        "value": "{brk-promo-primary.xl.padding-vertical}",
-        "type": "spacing",
-        "description": " "
-      },
-      "content-gap": {
-        "value": "{brk-promo-primary.xl.content-gap}",
-        "type": "spacing",
-        "description": " "
-      },
-      "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.16}",
-        "type": "spacing"
-      },
-      "pretitle": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.15}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.uppercase}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
-      },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.40}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
       },
       "content-width": {
         "value": "{brk-opt-size-alt.50%}",
@@ -1446,7 +1445,7 @@
         "type": "spacing"
       },
       "image-height": {
-        "value": "{brk-opt-size.172}",
+        "value": "{brk-opt-size.264}",
         "type": "sizing",
         "description": " "
       },
@@ -2016,20 +2015,6 @@
       "type": "color"
     }
   },
-  "brk-card-high-density-inverted": {
-    "heading-font-color": {
-      "value": "{brk-opt-color-lq-main.500}",
-      "type": "color"
-    },
-    "subtitle-font-color": {
-      "value": "{brk-opt-color-lq-main.800}",
-      "type": "color"
-    },
-    "body-font-color": {
-      "value": "{brk-opt-color-lq-main.728}",
-      "type": "color"
-    }
-  },
   "brk-card-high-density-list": {
     "sm": {
       "padding-vertical": {
@@ -2151,166 +2136,6 @@
           "type": "dropShadow"
         },
         "type": "boxShadow"
-      }
-    }
-  },
-  "brk-card-high-density-list-inverted": {
-    "background-color": {
-      "value": "{brk-opt-color-neutral.0}",
-      "type": "color"
-    },
-    "border-color": {
-      "value": "{brk-opt-color-lq-main.50}",
-      "type": "color"
-    },
-    "separator-color": {
-      "value": "{brk-opt-color-lq-main.50}",
-      "type": "color"
-    },
-    "box-shadow": {
-      "default": {
-        "value": {
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "0",
-          "color": "#000000",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "hover": {
-        "value": {
-          "x": "0",
-          "y": "2",
-          "blur": "8",
-          "spread": "0",
-          "color": "#e6e6e6",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      }
-    }
-  },
-  "brk-card-secondary-info-text": {
-    "sm": {
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.8}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.uppercase}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
-      },
-      "body": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.12}",
-          "letterSpacing": "{brk-opt-letter-spacing.2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.uppercase}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
-      }
-    },
-    "md": {
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.14}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.uppercase}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
-      },
-      "body": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.20}",
-          "letterSpacing": "{brk-opt-letter-spacing.2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.uppercase}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
-      }
-    },
-    "lg": {
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.18}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.uppercase}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
-      },
-      "body": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.24}",
-          "letterSpacing": "{brk-opt-letter-spacing.2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.uppercase}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
-      }
-    },
-    "xl": {
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.18}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.uppercase}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
-      },
-      "body": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.28}",
-          "letterSpacing": "{brk-opt-letter-spacing.2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.uppercase}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
       }
     }
   }
