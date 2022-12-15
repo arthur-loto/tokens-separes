@@ -583,6 +583,10 @@
       "value": "52px",
       "type": "sizing"
     },
+    "56": {
+      "value": "52px",
+      "type": "sizing"
+    },
     "60": {
       "value": "60px",
       "type": "sizing",
@@ -611,6 +615,10 @@
     },
     "90": {
       "value": "90px",
+      "type": "sizing"
+    },
+    "104": {
+      "value": "104px",
       "type": "sizing"
     },
     "115": {
@@ -1296,6 +1304,20 @@
     "00": {
       "value": "0.0769",
       "type": "sizing"
+    }
+  },
+  "brk-opt-spacing": {
+    "2": {
+      "value": "2px",
+      "type": "spacing"
+    },
+    "4": {
+      "value": "4px",
+      "type": "spacing"
+    },
+    "8": {
+      "value": "8px",
+      "type": "spacing"
     }
   }
 }

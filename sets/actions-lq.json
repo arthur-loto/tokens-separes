@@ -484,7 +484,7 @@
       "type": "fontSizes"
     },
     "lg-font-size": {
-      "value": "{brk-opt-font-size.18}",
+      "value": "{brk-opt-font-size.32}",
       "type": "fontSizes"
     },
     "xl-font-size": {
