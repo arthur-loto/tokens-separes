@@ -19,12 +19,12 @@
     },
     "sm": {
       "padding-horizontal": {
-        "value": "{brk-opt-space.10}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.10}",
+        "value": "{brk-opt-space.12}",
         "type": "spacing",
         "description": " "
       },
@@ -81,7 +81,7 @@
         "description": " "
       },
       "image-height": {
-        "value": "{brk-opt-size.180}",
+        "value": "{brk-opt-size.216}",
         "type": "sizing",
         "description": " "
       }
@@ -150,7 +150,7 @@
         "description": " "
       },
       "image-height": {
-        "value": "{brk-opt-size.270}",
+        "value": "{brk-opt-size.320}",
         "type": "sizing",
         "description": " "
       }
@@ -219,7 +219,7 @@
         "description": " "
       },
       "image-height": {
-        "value": "{brk-opt-size.270}",
+        "value": "{brk-opt-size.336}",
         "type": "sizing",
         "description": " "
       }
@@ -288,7 +288,7 @@
         "description": " "
       },
       "image-height": {
-        "value": "{brk-opt-size.360}",
+        "value": "{brk-opt-size.432}",
         "type": "sizing",
         "description": " "
       }
@@ -311,7 +311,7 @@
       "description": " "
     },
     "heading-font-color": {
-      "value": "{brk-opt-color-neutral.975}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
     },
@@ -331,20 +331,77 @@
       "description": " "
     }
   },
-  "brk-jackpot-hero": {
+  "brk-card-hero-inverted": {
+    "box-shadow": {
+      "default": {
+        "value": "{brk-opt-box-shadow.none}",
+        "type": "boxShadow"
+      },
+      "hover": {
+        "value": "{brk-opt-box-shadow.blur-standard}",
+        "type": "boxShadow"
+      }
+    },
+    "pretitle-font-color": {
+      "value": "{brk-opt-color-neutral.675}",
+      "type": "color",
+      "description": " "
+    },
+    "heading-font-color": {
+      "value": "{brk-opt-color-neutral.900}",
+      "type": "color",
+      "description": " "
+    },
+    "body-font-color": {
+      "value": "{brk-opt-color-neutral.900}",
+      "type": "color",
+      "description": " "
+    },
+    "background-color": {
+      "value": "{brk-opt-color-neutral.0}",
+      "type": "color",
+      "description": " "
+    },
+    "border-color": {
+      "value": "{brk-opt-color-neutral.100}",
+      "type": "color",
+      "description": " "
+    }
+  },
+  "brk-card-secondary-info": {
+    "sm": {
+      "height": {
+        "value": "{brk-opt-size.36}",
+        "type": "sizing",
+        "description": " "
+      }
+    },
+    "md": {
+      "height": {
+        "value": "{brk-opt-size.64}",
+        "type": "sizing",
+        "description": " "
+      }
+    },
+    "lg": {
+      "height": {
+        "value": "{brk-opt-size.72}",
+        "type": "sizing",
+        "description": " "
+      }
+    },
+    "xl": {
+      "height": {
+        "value": "{brk-opt-size.72}",
+        "type": "sizing",
+        "description": " "
+      }
+    }
+  },
+  "brk-secondary-info-jackpot": {
     "sm": {
       "padding-horizontal": {
-        "value": "{brk-opt-space.10}",
-        "type": "spacing",
-        "description": " "
-      },
-      "amount-digit-margin": {
-        "value": "{brk-opt-space.1}",
-        "type": "spacing",
-        "description": " "
-      },
-      "amount-group-margin": {
-        "value": "{brk-opt-space.4}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
       },
@@ -353,6 +410,86 @@
         "type": "spacing",
         "description": "NOTE : séparation entre les textes et le gros lot de la carte."
       },
+      "amount-digit-margin": {
+        "value": "{brk-opt-space.2}",
+        "type": "spacing",
+        "description": " "
+      },
+      "amount-group-margin": {
+        "value": "{brk-opt-space.4}",
+        "type": "spacing",
+        "description": " "
+      }
+    },
+    "md": {
+      "padding-horizontal": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": " "
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": "NOTE : séparation entre les textes et le gros lot de la carte."
+      },
+      "amount-digit-margin": {
+        "value": "{brk-opt-space.2}",
+        "type": "spacing",
+        "description": " "
+      },
+      "amount-group-margin": {
+        "value": "{brk-opt-space.5}",
+        "type": "spacing",
+        "description": " "
+      }
+    },
+    "lg": {
+      "padding-horizontal": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": " "
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.32}",
+        "type": "spacing",
+        "description": "NOTE : séparation entre les textes et le gros lot de la carte."
+      },
+      "amount-digit-margin": {
+        "value": "{brk-opt-space.3}",
+        "type": "spacing",
+        "description": " "
+      },
+      "amount-group-margin": {
+        "value": "{brk-opt-space.6}",
+        "type": "spacing",
+        "description": " "
+      }
+    },
+    "xl": {
+      "padding-horizontal": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": " "
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.32}",
+        "type": "spacing",
+        "description": "NOTE : séparation entre les textes et le gros lot de la carte."
+      },
+      "amount-digit-margin": {
+        "value": "{brk-opt-space.4}",
+        "type": "spacing",
+        "description": " "
+      },
+      "amount-group-margin": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing",
+        "description": " "
+      }
+    }
+  },
+  "brk-card-secondary-info-jackpot": {
+    "sm": {
       "heading": {
         "value": {
           "fontFamily": "{brk-opt-font-family.brand-main}",
@@ -381,43 +518,18 @@
         "type": "typography",
         "description": " "
       },
-      "height": {
-        "value": "{brk-opt-size.36}",
-        "type": "sizing",
-        "description": " "
-      },
       "amount-digit-height": {
         "value": "{brk-opt-size.20}",
         "type": "sizing",
         "description": " "
       },
       "amount-digit-width": {
-        "value": "{brk-opt-size.14}",
+        "value": "{brk-opt-size.12}",
         "type": "sizing",
         "description": " "
       }
     },
     "md": {
-      "padding-horizontal": {
-        "value": "{brk-opt-space.16}",
-        "type": "spacing",
-        "description": " "
-      },
-      "amount-digit-margin": {
-        "value": "{brk-opt-space.2}",
-        "type": "spacing",
-        "description": " "
-      },
-      "amount-group-margin": {
-        "value": "{brk-opt-space.5}",
-        "type": "spacing",
-        "description": " "
-      },
-      "content-gap": {
-        "value": "{brk-opt-space.16}",
-        "type": "spacing",
-        "description": "NOTE : séparation entre les textes et le gros lot de la carte."
-      },
       "heading": {
         "value": {
           "fontFamily": "{brk-opt-font-family.brand-main}",
@@ -446,43 +558,18 @@
         "type": "typography",
         "description": " "
       },
-      "height": {
-        "value": "{brk-opt-size.60}",
-        "type": "sizing",
-        "description": " "
-      },
       "amount-digit-height": {
-        "value": "{brk-opt-size.28}",
+        "value": "{brk-opt-size.32}",
         "type": "sizing",
         "description": " "
       },
       "amount-digit-width": {
-        "value": "{brk-opt-size.20}",
+        "value": "{brk-opt-size.16}",
         "type": "sizing",
         "description": " "
       }
     },
     "lg": {
-      "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
-        "type": "spacing",
-        "description": " "
-      },
-      "amount-digit-margin": {
-        "value": "{brk-opt-space.3}",
-        "type": "spacing",
-        "description": " "
-      },
-      "amount-group-margin": {
-        "value": "{brk-opt-space.6}",
-        "type": "spacing",
-        "description": " "
-      },
-      "content-gap": {
-        "value": "{brk-opt-space.24}",
-        "type": "spacing",
-        "description": "NOTE : séparation entre les textes et le gros lot de la carte."
-      },
       "heading": {
         "value": {
           "fontFamily": "{brk-opt-font-family.brand-main}",
@@ -511,43 +598,18 @@
         "type": "typography",
         "description": " "
       },
-      "height": {
-        "value": "{brk-opt-size.72}",
-        "type": "sizing",
-        "description": " "
-      },
       "amount-digit-height": {
         "value": "{brk-opt-size.40}",
         "type": "sizing",
         "description": " "
       },
       "amount-digit-width": {
-        "value": "{brk-opt-size.30}",
+        "value": "{brk-opt-size.24}",
         "type": "sizing",
         "description": " "
       }
     },
     "xl": {
-      "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
-        "type": "spacing",
-        "description": " "
-      },
-      "amount-digit-margin": {
-        "value": "{brk-opt-space.4}",
-        "type": "spacing",
-        "description": " "
-      },
-      "amount-group-margin": {
-        "value": "{brk-opt-space.8}",
-        "type": "spacing",
-        "description": " "
-      },
-      "content-gap": {
-        "value": "{brk-opt-space.24}",
-        "type": "spacing",
-        "description": "NOTE : séparation entre les textes et le gros lot de la carte."
-      },
       "heading": {
         "value": {
           "fontFamily": "{brk-opt-font-family.brand-main}",
@@ -576,18 +638,13 @@
         "type": "typography",
         "description": " "
       },
-      "height": {
-        "value": "{brk-opt-size.72}",
-        "type": "sizing",
-        "description": " "
-      },
       "amount-digit-height": {
         "value": "{brk-opt-size.44}",
         "type": "sizing",
         "description": " "
       },
       "amount-digit-width": {
-        "value": "{brk-opt-size.30}",
+        "value": "{brk-opt-size.28}",
         "type": "sizing",
         "description": " "
       }
@@ -598,12 +655,12 @@
       "description": "NOTE: Grosseur du contour de la boîte qui contient les numéros du lot progressif."
     },
     "amount-digit-border-radius": {
-      "value": "{brk-opt-border-radius.4}",
+      "value": "{brk-opt-border-radius.2}",
       "type": "borderRadius",
       "description": " NOTE: Rayon du contour de la boîte qui contient les numéros du lot progressif."
     }
   },
-  "brk-jackpot-hero-standard": {
+  "brk-card-secondary-info-jackpot-standard": {
     "heading-font-color": {
       "value": "{brk-opt-color-neutral.0}",
       "type": "color",
@@ -625,7 +682,39 @@
       "description": " "
     },
     "background-color": {
-      "value": "{brk-opt-color-neutral.975}",
+      "value": "{brk-opt-color-neutral.900}",
+      "type": "color",
+      "description": " "
+    },
+    "symbol-font-color": {
+      "value": "{brk-opt-color-neutral.0}",
+      "type": "color",
+      "description": " "
+    }
+  },
+  "brk-card-secondary-info-jackpot-inverted": {
+    "heading-font-color": {
+      "value": "{brk-opt-color-neutral.0}",
+      "type": "color",
+      "description": " "
+    },
+    "body-font-color": {
+      "value": "{brk-opt-color-lq-main.900}",
+      "type": "color",
+      "description": " "
+    },
+    "body-box-background-color": {
+      "value": "{brk-opt-color-neutral.0}",
+      "type": "color",
+      "description": " "
+    },
+    "body-box-border-color": {
+      "value": "{brk-opt-color-neutral.transparent}",
+      "type": "color",
+      "description": " "
+    },
+    "background-color": {
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
     },
@@ -1072,7 +1161,7 @@
       "description": " "
     },
     "background-color": {
-      "value": "{brk-opt-color-neutral.1000}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
     },
@@ -1095,7 +1184,7 @@
   "brk-promo-secondary": {
     "sm": {
       "image-height": {
-        "value": "{brk-opt-size.264}",
+        "value": "{brk-opt-size.172}",
         "type": "sizing",
         "description": " "
       },
@@ -1109,7 +1198,7 @@
           "fontFamily": "{brk-opt-font-family.webfont}",
           "fontWeight": "{brk-opt-font-weight.700}",
           "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.16}",
+          "fontSize": "{brk-opt-font-size.8}",
           "letterSpacing": "{brk-opt-letter-spacing.0%}",
           "paragraphSpacing": "",
           "textDecoration": "{brk-opt-text-decoration.none}",
@@ -1121,8 +1210,8 @@
         "value": {
           "fontFamily": "{brk-opt-font-family.brand-main}",
           "fontWeight": "{brk-opt-font-weight.950}",
-          "lineHeight": "{brk-opt-line-height.120%}",
-          "fontSize": "{brk-opt-font-size.24}",
+          "lineHeight": "{brk-opt-line-height.110%}",
+          "fontSize": "{brk-opt-font-size.15}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.none}",
@@ -1137,12 +1226,12 @@
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-space.15}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
       },
@@ -1154,7 +1243,7 @@
     },
     "md": {
       "image-height": {
-        "value": "{brk-opt-size.340}",
+        "value": "{brk-opt-size.270}",
         "type": "sizing",
         "description": " "
       },
@@ -1191,7 +1280,7 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.20}",
         "type": "spacing",
         "description": " "
       },
@@ -1201,7 +1290,7 @@
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-space.10}",
         "type": "spacing",
         "description": " "
       },
@@ -1213,12 +1302,71 @@
     },
     "lg": {
       "image-height": {
-        "value": "{brk-opt-size.680}",
+        "value": "{brk-opt-size.300}",
+        "type": "sizing",
+        "description": " "
+      },
+      "gradient-height": {
+        "value": "{brk-promo-secondary.lg.image-height}/4",
+        "type": "sizing",
+        "description": " "
+      },
+      "pretitle": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.110%}",
+          "fontSize": "{brk-opt-font-size.13}",
+          "letterSpacing": "{brk-opt-letter-spacing.0%}",
+          "paragraphSpacing": "",
+          "textDecoration": "{brk-opt-text-decoration.none}",
+          "textCase": "{brk-opt-text-transform.none}"
+        },
+        "type": "typography"
+      },
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.950}",
+          "lineHeight": "{brk-opt-line-height.110%}",
+          "fontSize": "{brk-opt-font-size.32}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.none}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      },
+      "padding-horizontal": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": " "
+      },
+      "padding-vertical": {
+        "value": "{brk-opt-space.20}",
+        "type": "spacing",
+        "description": " "
+      },
+      "content-gap": {
+        "value": "{brk-opt-space.12}",
+        "type": "spacing",
+        "description": " "
+      },
+      "pretitle-margin-bottom": {
+        "value": "{brk-opt-space.4}",
+        "type": "spacing",
+        "description": " "
+      }
+    },
+    "xl": {
+      "image-height": {
+        "value": "{brk-opt-size.568}",
         "type": "sizing",
         "description": "NOTE : la valeur assignée à ce token est seulement pour Figma. À partir du dernier point de rupture, la composition de la promo secondaire devient horizontale. La hauteur de l'image sera déterminée alors par la hauteur du composant."
       },
       "gradient-height": {
-        "value": "{brk-promo-secondary.lg.image-height}/4",
+        "value": "{brk-promo-secondary.xl.image-height}/4",
         "type": "sizing",
         "description": " "
       },
@@ -1243,7 +1391,7 @@
         "description": " "
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.8}",
+        "value": "{brk-opt-space.12}",
         "type": "spacing",
         "description": " "
       },
@@ -1252,7 +1400,7 @@
           "fontFamily": "{brk-opt-font-family.webfont}",
           "fontWeight": "{brk-opt-font-weight.700}",
           "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.24}",
+          "fontSize": "{brk-opt-font-size.16}",
           "letterSpacing": "{brk-opt-letter-spacing.0%}",
           "paragraphSpacing": "",
           "textDecoration": "{brk-opt-text-decoration.none}",
@@ -1265,7 +1413,7 @@
           "fontFamily": "{brk-opt-font-family.brand-main}",
           "fontWeight": "{brk-opt-font-weight.950}",
           "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.48}",
+          "fontSize": "{brk-opt-font-size.42}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.none}",
@@ -1363,7 +1511,7 @@
   "brk-promo-tertiary": {
     "sm": {
       "image-height": {
-        "value": "{brk-opt-size.264}",
+        "value": "{brk-opt-size.172}",
         "type": "sizing",
         "description": " "
       },
@@ -1506,7 +1654,7 @@
         "description": " "
       },
       "gradient-height": {
-        "value": "{brk-promo-secondary.md.image-height}/4",
+        "value": "{brk-promo-secondary.lg.image-height}/4",
         "type": "sizing",
         "description": " "
       },
@@ -1575,7 +1723,7 @@
         "description": "NOTE : la valeur assignée à ce token est seulement pour Figma. À partir du dernier point de rupture, la composition de la promo secondaire devient horizontale. La hauteur de l'image sera déterminée alors par la hauteur du composant."
       },
       "gradient-height": {
-        "value": "{brk-promo-secondary.lg.image-height}/4",
+        "value": "{brk-promo-secondary.xl.image-height}/4",
         "type": "sizing",
         "description": " "
       },
@@ -1986,7 +2134,21 @@
   },
   "brk-card-high-density-standard": {
     "heading-font-color": {
-      "value": "{brk-opt-color-neutral.975}",
+      "value": "{brk-opt-color-neutral.900}",
+      "type": "color"
+    },
+    "subtitle-font-color": {
+      "value": "#285EB1",
+      "type": "color"
+    },
+    "body-font-color": {
+      "value": "{brk-opt-color-neutral.900}",
+      "type": "color"
+    }
+  },
+  "brk-card-high-density-inverted": {
+    "heading-font-color": {
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color"
     },
     "subtitle-font-color": {
@@ -2105,6 +2267,152 @@
       "hover": {
         "value": "{brk-opt-box-shadow.blur-standard}",
         "type": "boxShadow"
+      }
+    }
+  },
+  "brk-card-high-density-list-inverted": {
+    "background-color": {
+      "value": "{brk-opt-color-neutral.0}",
+      "type": "color"
+    },
+    "border-color": {
+      "value": "{brk-opt-color-neutral.100}",
+      "type": "color"
+    },
+    "separator-color": {
+      "value": "{brk-opt-color-neutral.100}",
+      "type": "color"
+    },
+    "box-shadow": {
+      "default": {
+        "value": "{brk-opt-box-shadow.none}",
+        "type": "boxShadow"
+      },
+      "hover": {
+        "value": "{brk-opt-box-shadow.blur-standard}",
+        "type": "boxShadow"
+      }
+    }
+  },
+  "brk-card-secondary-info-text": {
+    "sm": {
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.110%}",
+          "fontSize": "{brk-opt-font-size.10}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.none}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      },
+      "body": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.8}",
+          "letterSpacing": "{brk-opt-letter-spacing.0%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.none}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      }
+    },
+    "md": {
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.110%}",
+          "fontSize": "{brk-opt-font-size.16}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.none}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      },
+      "body": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.20}",
+          "letterSpacing": "{brk-opt-letter-spacing.0%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.none}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      }
+    },
+    "lg": {
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.110%}",
+          "fontSize": "{brk-opt-font-size.20}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.none}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      },
+      "body": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.24}",
+          "letterSpacing": "{brk-opt-letter-spacing.2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.none}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      }
+    },
+    "xl": {
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.110%}",
+          "fontSize": "{brk-opt-font-size.20}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.none}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      },
+      "body": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.110%}",
+          "fontSize": "{brk-opt-font-size.28}",
+          "letterSpacing": "{brk-opt-letter-spacing.0%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.none}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
       }
     }
   }
