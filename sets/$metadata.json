@@ -1,0 +1,15 @@
+{
+  "tokenSetOrder": [
+    "options",
+    "actions-jel",
+    "actions-lq",
+    "actions-moj",
+    "collections-jel",
+    "collections-lq",
+    "collections-moj",
+    "templates-jel",
+    "templates-lq",
+    "resources-jel",
+    "resources-lq"
+  ]
+}
