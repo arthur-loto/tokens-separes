@@ -81,6 +81,10 @@
       "value": "{brk-opt-size-ratio.06}",
       "type": "spacing"
     },
+    "border-radius": {
+      "value": "{brk-button-primary.height}/11",
+      "type": "borderRadius"
+    },
     "font-family": {
       "value": "{brk-opt-font-family.webfont}",
       "type": "fontFamilies"
@@ -269,7 +273,7 @@
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{brk-button-secondary.height}*8",
+      "value": "{brk-button-primary.height}/11",
       "type": "borderRadius"
     },
     "font-family": {
@@ -460,7 +464,7 @@
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{brk-button-tertiary.height}*8",
+      "value": "{brk-button-primary.height}/11",
       "type": "borderRadius"
     },
     "font-family": {
@@ -651,7 +655,7 @@
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{brk-button-text.height}*8",
+      "value": "{brk-button-primary.height}/11",
       "type": "borderRadius"
     },
     "font-family": {
