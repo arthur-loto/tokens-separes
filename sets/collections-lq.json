@@ -507,18 +507,6 @@
         "description": " "
       }
     },
-    "xl": {
-      "amount-digit-height": {
-        "value": "{brk-opt-size.44}",
-        "type": "sizing",
-        "description": " "
-      },
-      "amount-digit-width": {
-        "value": "{brk-opt-size.28}",
-        "type": "sizing",
-        "description": " "
-      }
-    },
     "amount-digit-border-radius": {
       "value": "{brk-opt-border-radius.2}",
       "type": "borderRadius",
@@ -906,11 +894,6 @@
         "value": "{brk-opt-space.12}",
         "type": "spacing"
       },
-      "image-height": {
-        "value": "568",
-        "type": "sizing",
-        "description": " NOTE : la valeur assignée à ce token est seulement pour Figma. À partir du dernier point de rupture, la composition de la promo secondaire devient horizontale. La hauteur de l'image sera déterminée alors par la hauteur du composant."
-      },
       "pretitle": {
         "value": {
           "fontFamily": "{brk-opt-font-family.brand-main}",
@@ -952,18 +935,6 @@
         },
         "type": "typography",
         "description": " "
-      },
-      "gradient-height": {
-        "value": "{brk-promo-primary.xl.image-height}/4",
-        "type": "sizing"
-      },
-      "content-width": {
-        "value": "{brk-opt-size-alt.40%}",
-        "type": "sizing"
-      },
-      "content-max-width": {
-        "value": "{brk-opt-size.470}",
-        "type": "sizing"
       }
     },
     "2xl": {
@@ -1240,15 +1211,6 @@
       }
     },
     "xl": {
-      "image-height": {
-        "value": "568",
-        "type": "sizing",
-        "description": " NOTE : la valeur assignée à ce token est seulement pour Figma. À partir du dernier point de rupture, la composition de la promo secondaire devient horizontale. La hauteur de l'image sera déterminée alors par la hauteur du composant."
-      },
-      "gradient-height": {
-        "value": "{brk-promo-secondary.xl.image-height}/4",
-        "type": "sizing"
-      },
       "padding-horizontal": {
         "value": "{brk-promo-primary.xl.padding-horizontal}",
         "type": "spacing",
@@ -1295,10 +1257,6 @@
         },
         "type": "typography",
         "description": " "
-      },
-      "content-width": {
-        "value": "{brk-opt-size-alt.50%}",
-        "type": "sizing"
       }
     }
   },
@@ -1648,23 +1606,6 @@
       "pretitle-margin-bottom": {
         "value": "{brk-opt-space.6}",
         "type": "spacing"
-      },
-      "gradient-height": {
-        "value": "{brk-promo-tertiary.xl.image-height}/4",
-        "type": "sizing"
-      },
-      "image-height": {
-        "value": "{brk-opt-size.568}",
-        "type": "sizing",
-        "description": " NOTE : la valeur assignée à ce token est seulement pour Figma. À partir du dernier point de rupture, la composition de la promo secondaire devient horizontale. La hauteur de l'image sera déterminée alors par la hauteur du composant."
-      },
-      "content-width": {
-        "value": "{brk-opt-size-alt.40%}",
-        "type": "sizing"
-      },
-      "content-max-width": {
-        "value": "{brk-opt-size.470}",
-        "type": "sizing"
       }
     }
   },
@@ -1937,14 +1878,6 @@
       }
     },
     "xl": {
-      "image-height": {
-        "value": "{brk-opt-size.115}",
-        "type": "sizing"
-      },
-      "card-height": {
-        "value": "{brk-opt-size.115}",
-        "type": "sizing"
-      },
       "content-gap": {
         "value": "{brk-opt-space.30}",
         "type": "spacing"
@@ -2310,6 +2243,29 @@
           "textDecoration": "{brk-opt-text-decoration.none}"
         },
         "type": "typography",
+        "description": " "
+      }
+    }
+  },
+  "brk-card-secondary-info-logo": {
+    "sm": {
+      "logo-height": {
+        "value": "{brk-opt-sizing.48}",
+        "type": "sizing",
+        "description": " "
+      }
+    },
+    "md": {
+      "logo-height": {
+        "value": "{brk-opt-sizing.72}",
+        "type": "sizing",
+        "description": " "
+      }
+    },
+    "lg": {
+      "logo-height": {
+        "value": "{brk-opt-sizing.96}",
+        "type": "sizing",
         "description": " "
       }
     }
