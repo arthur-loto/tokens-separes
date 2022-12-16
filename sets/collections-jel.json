@@ -1784,11 +1784,11 @@
   "brk-card-high-density": {
     "sm": {
       "image-height": {
-        "value": "{brk-opt-size.42}",
+        "value": "{brk-opt-size.80}",
         "type": "sizing"
       },
       "card-height": {
-        "value": "{brk-opt-size.50}",
+        "value": "{brk-opt-size.80}",
         "type": "sizing"
       },
       "content-gap": {
@@ -1849,11 +1849,11 @@
     },
     "md": {
       "image-height": {
-        "value": "{brk-opt-size.80}",
+        "value": "{brk-opt-size.88}",
         "type": "sizing"
       },
       "card-height": {
-        "value": "{brk-opt-size.80}",
+        "value": "{brk-opt-size.88}",
         "type": "sizing"
       },
       "content-gap": {
@@ -1914,11 +1914,11 @@
     },
     "lg": {
       "image-height": {
-        "value": "{brk-opt-size.90}",
+        "value": "{brk-opt-size.120}",
         "type": "sizing"
       },
       "card-height": {
-        "value": "{brk-opt-size.90}",
+        "value": "{brk-opt-size.120}",
         "type": "sizing"
       },
       "content-gap": {
@@ -1978,18 +1978,6 @@
       }
     },
     "xl": {
-      "content-gap": {
-        "value": "{brk-opt-space.30}",
-        "type": "spacing"
-      },
-      "heading-margin-bottom": {
-        "value": "{brk-opt-space.3}",
-        "type": "spacing"
-      },
-      "subtitle-margin-bottom": {
-        "value": "{brk-opt-space.3}",
-        "type": "spacing"
-      },
       "image-border-radius": {
         "value": "{brk-opt-border-radius.30}",
         "type": "borderRadius"
@@ -2032,14 +2020,6 @@
           "textCase": "{brk-opt-text-transform.none}"
         },
         "type": "typography"
-      },
-      "image-height": {
-        "value": "{brk-opt-size.115}",
-        "type": "sizing"
-      },
-      "card-height": {
-        "value": "{brk-opt-size.115}",
-        "type": "sizing"
       }
     }
   },
@@ -2120,24 +2100,6 @@
         "type": "spacing"
       }
     },
-    "xl": {
-      "padding-vertical": {
-        "value": "{brk-opt-space.30}",
-        "type": "spacing"
-      },
-      "padding-horizontal": {
-        "value": "{brk-opt-space.35}",
-        "type": "spacing"
-      },
-      "separator-padding-left": {
-        "value": "{brk-opt-space.145}",
-        "type": "spacing"
-      },
-      "separator-padding-vertical": {
-        "value": "{brk-opt-space.15}",
-        "type": "spacing"
-      }
-    },
     "separator-width": {
       "value": "{brk-opt-border-width.1}",
       "type": "borderWidth"
@@ -2164,6 +2126,38 @@
       "hover": {
         "value": "{brk-opt-box-shadow.blur-standard}",
         "type": "boxShadow"
+      }
+    }
+  },
+  "brk-card-high-density-list-title": {
+    "sm": {
+      "card-height": {
+        "value": "{brk-opt-size.80}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-opt-size.20}",
+        "type": "sizing"
+      }
+    },
+    "md": {
+      "card-height": {
+        "value": "{brk-opt-size.88}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-opt-size.24}",
+        "type": "sizing"
+      }
+    },
+    "lg": {
+      "card-height": {
+        "value": "{brk-opt-size.120}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{brk-opt-size.28}",
+        "type": "sizing"
       }
     }
   }
