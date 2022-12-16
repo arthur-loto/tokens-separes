@@ -722,7 +722,7 @@
         "type": "spacing"
       },
       "image-height": {
-        "value": "{brk-opt-size.172}",
+        "value": "{brk-opt-size.264}",
         "type": "sizing",
         "description": " "
       },
@@ -1110,17 +1110,17 @@
   "brk-promo-secondary": {
     "sm": {
       "padding-horizontal": {
-        "value": "{brk-opt-space.12}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.12}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.10}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
@@ -1129,7 +1129,7 @@
         "type": "spacing"
       },
       "image-height": {
-        "value": "{brk-opt-size.172}",
+        "value": "{brk-opt-size.264}",
         "type": "sizing",
         "description": " "
       },
@@ -1137,8 +1137,8 @@
         "value": {
           "fontFamily": "{brk-opt-font-family.brand-main}",
           "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-font-size.8}",
-          "fontSize": "{brk-opt-font-size.8}",
+          "lineHeight": "{brk-opt-line-height.100%}",
+          "fontSize": "{brk-opt-font-size.16}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.uppercase}",
@@ -1151,8 +1151,22 @@
         "value": {
           "fontFamily": "{brk-opt-font-family.webfont}",
           "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.18}",
+          "lineHeight": "{brk-opt-line-height.110%}",
+          "fontSize": "{brk-opt-font-size.28}",
+          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
+          "paragraphSpacing": "",
+          "textCase": "{brk-opt-text-transform.none}",
+          "textDecoration": "{brk-opt-text-decoration.none}"
+        },
+        "type": "typography",
+        "description": " "
+      },
+      "heading-copy": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.webfont}",
+          "fontWeight": "{brk-opt-font-weight.400}",
+          "lineHeight": "{brk-opt-line-height.110%}",
+          "fontSize": "{brk-opt-font-size.28}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.none}",
@@ -1168,7 +1182,7 @@
     },
     "md": {
       "image-height": {
-        "value": "{brk-opt-size.270}",
+        "value": "{brk-opt-size.340}",
         "type": "sizing",
         "description": " "
       },
@@ -1182,17 +1196,17 @@
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.20}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.20}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.6}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
       "pretitle": {
@@ -1200,7 +1214,7 @@
           "fontFamily": "{brk-opt-font-family.brand-main}",
           "fontWeight": "{brk-opt-font-weight.700}",
           "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.12}",
+          "fontSize": "{brk-opt-font-size.20}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.uppercase}",
@@ -1213,8 +1227,8 @@
         "value": {
           "fontFamily": "{brk-opt-font-family.webfont}",
           "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.30}",
+          "lineHeight": "{brk-opt-line-height.110%}",
+          "fontSize": "{brk-opt-font-size.36}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.none}",
@@ -1226,7 +1240,7 @@
     },
     "lg": {
       "image-height": {
-        "value": "{brk-opt-size.300}",
+        "value": "{brk-opt-size.340}",
         "type": "sizing",
         "description": " "
       },
@@ -1245,20 +1259,20 @@
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.12}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.6}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
       "pretitle": {
         "value": {
           "fontFamily": "{brk-opt-font-family.brand-main}",
           "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.13}",
+          "lineHeight": "{brk-opt-line-height.120%}",
+          "fontSize": "{brk-opt-font-size.24}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.uppercase}",
@@ -1272,7 +1286,7 @@
           "fontFamily": "{brk-opt-font-family.webfont}",
           "fontWeight": "{brk-opt-font-weight.400}",
           "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.36}",
+          "fontSize": "{brk-opt-font-size.48}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.none}",
@@ -1280,68 +1294,6 @@
         },
         "type": "typography",
         "description": " "
-      }
-    },
-    "xl": {
-      "image-height": {
-        "value": "568",
-        "type": "sizing",
-        "description": " NOTE : la valeur assignée à ce token est seulement pour Figma. À partir du dernier point de rupture, la composition de la promo secondaire devient horizontale. La hauteur de l'image sera déterminée alors par la hauteur du composant."
-      },
-      "gradient-height": {
-        "value": "{brk-promo-secondary.xl.image-height}/4",
-        "type": "sizing"
-      },
-      "padding-horizontal": {
-        "value": "{brk-promo-primary.xl.padding-horizontal}",
-        "type": "spacing",
-        "description": " "
-      },
-      "padding-vertical": {
-        "value": "{brk-promo-primary.xl.padding-vertical}",
-        "type": "spacing",
-        "description": " "
-      },
-      "content-gap": {
-        "value": "{brk-promo-primary.xl.content-gap}",
-        "type": "spacing",
-        "description": " "
-      },
-      "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.16}",
-        "type": "spacing"
-      },
-      "pretitle": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.15}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.uppercase}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
-      },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.40}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
-      },
-      "content-width": {
-        "value": "{brk-opt-size-alt.50%}",
-        "type": "sizing"
       }
     }
   },
@@ -1489,7 +1441,7 @@
         "type": "spacing"
       },
       "image-height": {
-        "value": "{brk-opt-size.172}",
+        "value": "{brk-opt-size.264}",
         "type": "sizing",
         "description": " "
       },
