@@ -1,33 +1,13 @@
 [
   {
-    "id": "60593858f62ef4dd49196f5203d36cdcc70bd1cb",
-    "name": "MOJ",
-    "selectedTokenSets": {
-      "options": "enabled",
-      "actions-jel": "disabled",
-      "actions-lq": "disabled",
-      "actions-moj": "enabled",
-      "collections-jel": "disabled",
-      "collections-lq": "disabled",
-      "collections-moj": "enabled",
-      "templates-jel": "disabled",
-      "templates-lq": "disabled",
-      "resources-jel": "disabled",
-      "resources-lq": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "ac7acb877a0c3f4c4fc9e080e1be1c066bf7de26",
     "name": "JEL",
     "selectedTokenSets": {
       "options": "enabled",
       "actions-jel": "enabled",
       "actions-lq": "disabled",
-      "actions-moj": "disabled",
       "collections-jel": "enabled",
       "collections-lq": "disabled",
-      "collections-moj": "disabled",
       "templates-jel": "enabled",
       "templates-lq": "disabled",
       "resources-jel": "enabled",
@@ -42,10 +22,8 @@
       "options": "enabled",
       "actions-jel": "disabled",
       "actions-lq": "enabled",
-      "actions-moj": "disabled",
       "collections-jel": "disabled",
       "collections-lq": "enabled",
-      "collections-moj": "disabled",
       "templates-jel": "disabled",
       "templates-lq": "enabled",
       "resources-jel": "disabled",
