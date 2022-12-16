@@ -1117,6 +1117,10 @@
       "type": "spacing",
       "description": " "
     },
+    "128": {
+      "value": "128px",
+      "type": "spacing"
+    },
     "145": {
       "value": "145px",
       "type": "spacing",

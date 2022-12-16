@@ -1860,6 +1860,24 @@
           "textCase": "{brk-opt-text-transform.none}"
         },
         "type": "typography"
+      },
+      "title": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.130%}",
+          "fontSize": "{brk-opt-font-size.24}",
+          "paragraphSpacing": "{brk-opt-paragraph-spacing.100%}"
+        },
+        "type": "typography"
+      },
+      "title-icon-size": {
+        "value": "20px",
+        "type": "sizing"
+      },
+      "title-content-gap": {
+        "value": "{brk-opt-space.64}",
+        "type": "spacing"
       }
     },
     "md": {
@@ -1938,6 +1956,23 @@
           "textCase": "{brk-opt-text-transform.none}"
         },
         "type": "typography"
+      },
+      "title": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.130%}",
+          "fontSize": "{brk-opt-font-size.32}"
+        },
+        "type": "typography"
+      },
+      "title-icon-size": {
+        "value": "{brk-opt-size.24}",
+        "type": "sizing"
+      },
+      "title-content-gap": {
+        "value": "{brk-opt-space.96}",
+        "type": "spacing"
       }
     },
     "lg": {
@@ -2016,6 +2051,23 @@
           "textCase": "{brk-opt-text-transform.none}"
         },
         "type": "typography"
+      },
+      "title": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.130%}",
+          "fontSize": "{brk-opt-font-size.40}"
+        },
+        "type": "typography"
+      },
+      "title-icon-size": {
+        "value": "{brk-opt-size.28}",
+        "type": "sizing"
+      },
+      "title-content-gap": {
+        "value": "{brk-opt-space.128}",
+        "type": "spacing"
       }
     }
   },
@@ -2025,11 +2077,19 @@
       "type": "color"
     },
     "subtitle-font-color": {
-      "value": "{brk-opt-color-lq-main.800}",
+      "value": "{brk-opt-color-lq-main.728}",
+      "type": "color"
+    },
+    "subtitle2-font-color": {
+      "value": "{brk-opt-color-neutral.675}",
       "type": "color"
     },
     "body-font-color": {
       "value": "{brk-opt-color-lq-main.728}",
+      "type": "color"
+    },
+    "title-font-color": {
+      "value": "{brk-opt-color-lq-main.650}",
       "type": "color"
     }
   },
