@@ -629,11 +629,6 @@
       "value": "138px",
       "type": "sizing"
     },
-    "172": {
-      "value": "172px",
-      "type": "sizing",
-      "description": " "
-    },
     "180": {
       "value": "180px",
       "type": "sizing",
@@ -649,6 +644,11 @@
     },
     "245": {
       "value": "245px",
+      "type": "sizing",
+      "description": " "
+    },
+    "264": {
+      "value": "264px",
       "type": "sizing",
       "description": " "
     },
