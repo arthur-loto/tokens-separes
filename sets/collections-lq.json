@@ -2214,5 +2214,19 @@
       "type": "color",
       "description": " "
     }
+  },
+  "brk-card-secondary-info-logo-standard": {
+    "background-color": {
+      "value": "{brk-opt-color-lq-main.800}",
+      "type": "color",
+      "description": " "
+    }
+  },
+  "brk-card-secondary-info-logo-inverted": {
+    "background-color": {
+      "value": "{brk-opt-color-lq-main.100}",
+      "type": "color",
+      "description": " "
+    }
   }
 }
