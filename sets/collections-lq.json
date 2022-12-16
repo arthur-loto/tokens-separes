@@ -2081,7 +2081,7 @@
       "type": "color"
     },
     "subtitle2-font-color": {
-      "value": "{brk-opt-color-neutral.675}",
+      "value": "{brk-opt-color-lq-main.400}",
       "type": "color"
     },
     "body-font-color": {
