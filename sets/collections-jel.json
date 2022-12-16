@@ -2021,20 +2021,34 @@
         },
         "type": "typography"
       }
-    }
-  },
-  "brk-card-high-density-standard": {
-    "heading-font-color": {
-      "value": "{brk-opt-color-neutral.975}",
-      "type": "color"
     },
-    "subtitle-font-color": {
-      "value": "#285EB1",
-      "type": "color"
+    "standard": {
+      "heading-font-color": {
+        "value": "{brk-opt-color-neutral.975}",
+        "type": "color"
+      },
+      "subtitle-font-color": {
+        "value": "#285EB1",
+        "type": "color"
+      },
+      "body-font-color": {
+        "value": "{brk-opt-color-neutral.900}",
+        "type": "color"
+      }
     },
-    "body-font-color": {
-      "value": "{brk-opt-color-neutral.900}",
-      "type": "color"
+    "inverted": {
+      "heading-font-color": {
+        "value": "{brk-opt-color-neutral.975}",
+        "type": "color"
+      },
+      "subtitle-font-color": {
+        "value": "#285EB1",
+        "type": "color"
+      },
+      "body-font-color": {
+        "value": "{brk-opt-color-neutral.900}",
+        "type": "color"
+      }
     }
   },
   "brk-card-high-density-list": {
@@ -2062,6 +2076,18 @@
       "separator-padding-vertical": {
         "value": "{brk-opt-space.10}",
         "type": "spacing"
+      },
+      "heading-height": {
+        "value": "{brk-opt-size.80}",
+        "type": "sizing"
+      },
+      "heading-icon-size": {
+        "value": "{brk-opt-size.20}",
+        "type": "sizing"
+      },
+      "heading-content-gap": {
+        "value": "{brk-opt-space.64}",
+        "type": "spacing"
       }
     },
     "md": {
@@ -2079,6 +2105,18 @@
       },
       "separator-padding-vertical": {
         "value": "{brk-opt-space.14}",
+        "type": "spacing"
+      },
+      "heading-height": {
+        "value": "{brk-opt-size.88}",
+        "type": "sizing"
+      },
+      "heading-icon-size": {
+        "value": "{brk-opt-size.24}",
+        "type": "sizing"
+      },
+      "heading-content-gap": {
+        "value": "{brk-opt-space.96}",
         "type": "spacing"
       }
     },
@@ -2098,26 +2136,52 @@
       "separator-padding-vertical": {
         "value": "{brk-opt-space.15}",
         "type": "spacing"
+      },
+      "heading-height": {
+        "value": "{brk-opt-size.120}",
+        "type": "sizing"
+      },
+      "heading-icon-size": {
+        "value": "{brk-opt-size.28}",
+        "type": "sizing"
+      },
+      "heading-content-gap": {
+        "value": "{brk-opt-space.128}",
+        "type": "spacing"
       }
     },
     "separator-width": {
       "value": "{brk-opt-border-width.1}",
       "type": "borderWidth"
+    },
+    "standard": {
+      "background-color": {
+        "value": "{brk-opt-color-neutral.0}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{brk-opt-color-neutral.100}",
+        "type": "color"
+      },
+      "separator-color": {
+        "value": "{brk-opt-color-neutral.100}",
+        "type": "color"
+      },
+      "heading-font-color": {
+        "value": "{brk-opt-color-neutral.900}",
+        "type": "color"
+      },
+      "heading-icon-fill-focus": {
+        "value": "{brk-opt-color-neutral.500}",
+        "type": "color"
+      },
+      "heading-icon-fill-hover": {
+        "value": "{brk-opt-color-neutral.675}",
+        "type": "color"
+      }
     }
   },
   "brk-card-high-density-list-standard": {
-    "background-color": {
-      "value": "{brk-opt-color-neutral.0}",
-      "type": "color"
-    },
-    "border-color": {
-      "value": "{brk-opt-color-neutral.100}",
-      "type": "color"
-    },
-    "separator-color": {
-      "value": "{brk-opt-color-neutral.100}",
-      "type": "color"
-    },
     "box-shadow": {
       "default": {
         "value": "{brk-opt-box-shadow.none}",
@@ -2126,38 +2190,6 @@
       "hover": {
         "value": "{brk-opt-box-shadow.blur-standard}",
         "type": "boxShadow"
-      }
-    }
-  },
-  "brk-card-high-density-list-title": {
-    "sm": {
-      "card-height": {
-        "value": "{brk-opt-size.80}",
-        "type": "sizing"
-      },
-      "icon-size": {
-        "value": "{brk-opt-size.20}",
-        "type": "sizing"
-      }
-    },
-    "md": {
-      "card-height": {
-        "value": "{brk-opt-size.88}",
-        "type": "sizing"
-      },
-      "icon-size": {
-        "value": "{brk-opt-size.24}",
-        "type": "sizing"
-      }
-    },
-    "lg": {
-      "card-height": {
-        "value": "{brk-opt-size.120}",
-        "type": "sizing"
-      },
-      "icon-size": {
-        "value": "{brk-opt-size.28}",
-        "type": "sizing"
       }
     }
   }
