@@ -1277,6 +1277,11 @@
         "type": "sizing",
         "description": " "
       },
+      "content-width": {
+        "value": "{brk-opt-size-alt.50%}",
+        "type": "sizing",
+        "description": " "
+      },
       "gradient-height": {
         "value": "{brk-promo-secondary.lg.image-height}/4",
         "type": "sizing",
