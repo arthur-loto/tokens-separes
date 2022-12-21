@@ -1214,7 +1214,7 @@
     },
     "md": {
       "image-height": {
-        "value": "{brk-opt-size.340}",
+        "value": "{brk-opt-size.40}*8",
         "type": "sizing",
         "description": " "
       },
