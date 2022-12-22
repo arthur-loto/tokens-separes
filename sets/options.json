@@ -717,6 +717,11 @@
       "value": "50%",
       "type": "sizing",
       "description": " "
+    },
+    "100%": {
+      "value": "100%",
+      "type": "sizing",
+      "description": " "
     }
   },
   "brk-opt-size-alt-unitless": {

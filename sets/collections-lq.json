@@ -1069,6 +1069,14 @@
       "gradient-height": {
         "value": "{brk-promo-secondary.sm.image-height}/4",
         "type": "sizing"
+      },
+      "content-width": {
+        "value": "{brk-opt-size-alt.100%}",
+        "type": "sizing"
+      },
+      "content-max-width": {
+        "value": "{brk-opt-size.64}*25",
+        "type": "sizing"
       }
     },
     "md": {
@@ -1079,6 +1087,14 @@
       },
       "gradient-height": {
         "value": "{brk-promo-secondary.md.image-height}/4",
+        "type": "sizing"
+      },
+      "content-width": {
+        "value": "{brk-opt-size-alt.100%}",
+        "type": "sizing"
+      },
+      "content-max-width": {
+        "value": "{brk-opt-size.64}*25",
         "type": "sizing"
       },
       "padding-horizontal": {
@@ -1135,14 +1151,19 @@
         "type": "sizing",
         "description": " "
       },
+      "gradient-height": {
+        "value": "{brk-promo-secondary.lg.image-height}/4",
+        "type": "sizing"
+      },
       "content-width": {
         "value": "{brk-opt-size-alt.50%}",
         "type": "sizing",
         "description": " "
       },
-      "gradient-height": {
-        "value": "{brk-promo-secondary.lg.image-height}/4",
-        "type": "sizing"
+      "content-max-width": {
+        "value": "{brk-opt-size.64}*25",
+        "type": "sizing",
+        "description": " "
       },
       "padding-horizontal": {
         "value": "{brk-opt-space.32}",
