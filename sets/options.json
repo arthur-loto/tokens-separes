@@ -728,11 +728,13 @@
     },
     "100%": {
       "value": "100%",
-      "type": "sizing"
+      "type": "sizing",
+      "description": " "
     },
     "56,25%": {
       "value": "56.25%",
-      "type": "sizing"
+      "type": "sizing",
+      "description": " "
     }
   },
   "brk-opt-size-alt-unitless": {
