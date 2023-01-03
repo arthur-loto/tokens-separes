@@ -5,13 +5,9 @@
     "selectedTokenSets": {
       "options": "enabled",
       "actions-jel": "enabled",
-      "actions-lq": "disabled",
       "collections-jel": "enabled",
-      "collections-lq": "disabled",
       "templates-jel": "enabled",
-      "templates-lq": "disabled",
-      "resources-jel": "enabled",
-      "resources-lq": "disabled"
+      "resources-jel": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -20,13 +16,9 @@
     "name": "LQ",
     "selectedTokenSets": {
       "options": "enabled",
-      "actions-jel": "disabled",
       "actions-lq": "enabled",
-      "collections-jel": "disabled",
       "collections-lq": "enabled",
-      "templates-jel": "disabled",
       "templates-lq": "enabled",
-      "resources-jel": "disabled",
       "resources-lq": "enabled"
     },
     "$figmaStyleReferences": {}
