@@ -2163,17 +2163,5 @@
         "type": "color"
       }
     }
-  },
-  "brk-card-high-density-list-inverted": {
-    "box-shadow": {
-      "default": {
-        "value": "{brk-opt-box-shadow.none}",
-        "type": "boxShadow"
-      },
-      "hover": {
-        "value": "{brk-opt-box-shadow.blur-standard}",
-        "type": "boxShadow"
-      }
-    }
   }
 }
