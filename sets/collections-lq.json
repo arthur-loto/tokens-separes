@@ -1635,7 +1635,7 @@
       "heading": {
         "value": {
           "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
+          "fontWeight": "{brk-opt-font-weight.700}",
           "lineHeight": "{brk-opt-line-height.100%}",
           "fontSize": "{brk-opt-font-size.20}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
@@ -2014,7 +2014,7 @@
         "value": "{brk-opt-color-lq-main.728}",
         "type": "color"
       },
-      "hadeing-icon-fill-hover": {
+      "heading-icon-fill-hover": {
         "value": "{brk-opt-color-lq-main.500}",
         "type": "color"
       },
@@ -2086,32 +2086,6 @@
           "fontSize": "{brk-opt-font-size.40}"
         },
         "type": "typography"
-      }
-    }
-  },
-  "brk-card-high-density-list-inverted": {
-    "box-shadow": {
-      "default": {
-        "value": {
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "0",
-          "color": "#000000",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "hover": {
-        "value": {
-          "x": "0",
-          "y": "2",
-          "blur": "8",
-          "spread": "0",
-          "color": "#e6e6e6",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
       }
     }
   },
