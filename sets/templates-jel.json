@@ -139,21 +139,13 @@
   },
   "brk-info-product": {
     "sm": {
-      "height": {
-        "value": "{brk-opt-size.32}",
-        "type": "sizing"
-      },
-      "text-horizontal-padding": {
+      "content-gap": {
         "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
-      "heading-padding-bottom": {
+      "text-content-gap": {
         "value": "{brk-opt-space.4}",
         "type": "spacing"
-      },
-      "separator-height": {
-        "value": "{brk-opt-size.32}",
-        "type": "sizing"
       },
       "heading": {
         "value": {
@@ -177,19 +169,11 @@
       }
     },
     "md": {
-      "height": {
-        "value": "{brk-opt-size.40}",
-        "type": "sizing"
-      },
-      "separator-height": {
-        "value": "{brk-opt-size.40}",
-        "type": "sizing"
-      },
-      "text-horizontal-padding": {
+      "content-gap": {
         "value": "{brk-opt-space.12}",
         "type": "spacing"
       },
-      "heading-padding-bottom": {
+      "text-content-gap": {
         "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
@@ -215,19 +199,11 @@
       }
     },
     "lg": {
-      "height": {
-        "value": "{brk-opt-size.40}",
-        "type": "sizing"
-      },
-      "separator-height": {
-        "value": "{brk-opt-size.40}",
-        "type": "sizing"
-      },
-      "text-horizontal-padding": {
+      "content-gap": {
         "value": "{brk-opt-space.24}",
         "type": "spacing"
       },
-      "heading-padding-bottom": {
+      "text-content-gap": {
         "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
@@ -255,6 +231,10 @@
     "separator-width": {
       "value": "{brk-opt-border-width.1}",
       "type": "borderWidth"
+    },
+    "separator-height": {
+      "value": "{brk-opt-size-alt.100%}",
+      "type": "sizing"
     }
   },
   "brk-info-product-standard": {
@@ -263,7 +243,7 @@
       "type": "color"
     },
     "body-font-color": {
-      "value": "{brk-opt-color-neutral.1000}",
+      "value": "{brk-opt-color-jel.main}",
       "type": "color"
     },
     "separator-color": {
@@ -277,7 +257,7 @@
       "type": "color"
     },
     "body-font-color": {
-      "value": "{brk-opt-color-neutral.1000}",
+      "value": "{brk-opt-color-jel.main}",
       "type": "color"
     },
     "separator-color": {
