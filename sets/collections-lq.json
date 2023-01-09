@@ -2092,7 +2092,7 @@
   "brk-card-secondary-info-logo": {
     "sm": {
       "logo-height": {
-        "value": "{brk-opt-sizing.48}",
+        "value": "{brk-opt-size.48}",
         "type": "sizing",
         "description": " "
       },
@@ -2104,7 +2104,7 @@
     },
     "md": {
       "logo-height": {
-        "value": "{brk-opt-sizing.72}",
+        "value": "{brk-opt-size.72}",
         "type": "sizing",
         "description": " "
       },
@@ -2116,7 +2116,7 @@
     },
     "lg": {
       "logo-height": {
-        "value": "{brk-opt-sizing.96}",
+        "value": "{brk-opt-size.96}",
         "type": "sizing",
         "description": " "
       },
