@@ -455,13 +455,13 @@
     }
   },
   "brk-opt-size": {
-    "4": {
-      "value": "4px",
+    "2": {
+      "value": "2px",
       "type": "sizing",
       "description": " "
     },
-    "7": {
-      "value": "7px",
+    "4": {
+      "value": "4px",
       "type": "sizing",
       "description": " "
     },
