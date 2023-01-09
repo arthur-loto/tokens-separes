@@ -1164,11 +1164,13 @@
   "brk-opt-size-ratio": {
     "12": {
       "value": "1.2307",
-      "type": "sizing"
+      "type": "sizing",
+      "description": "NOTE : ce token d'option correspond au ratio basé sur la taille de la typographie utilisé sur le bouton. Utilisé pour les tokens de référence, il permet de réduire la quantité des tokens, ainsi que de créer des boutons proportionnels peu importe le point de rupture."
     },
     "27": {
       "value": "2.7692",
-      "type": "sizing"
+      "type": "sizing",
+      "description": "NOTE : ce token d'option correspond au ratio basé sur la taille de la typographie utilisé sur le bouton. Utilisé pour les tokens de référence, il permet de réduire la quantité des tokens, ainsi que de créer des boutons proportionnels peu importe le point de rupture."
     },
     "06": {
       "value": "0.6153",
