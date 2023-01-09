@@ -23,7 +23,7 @@
         "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
       },
       "image-height": {
-        "value": "{brk-opt-sizing.32}*10",
+        "value": "{brk-opt-size.32}*10",
         "type": "sizing",
         "description": " "
       },
@@ -302,7 +302,7 @@
   "brk-card-secondary-info": {
     "sm": {
       "height": {
-        "value": "{brk-opt-sizing.64}",
+        "value": "{brk-opt-size.64}",
         "type": "sizing",
         "description": " "
       }
@@ -581,7 +581,7 @@
   "brk-card-secondary-info-logo": {
     "sm": {
       "logo-height": {
-        "value": "{brk-opt-sizing.48}",
+        "value": "{brk-opt-size.48}",
         "type": "sizing",
         "description": " "
       },
@@ -593,7 +593,7 @@
     },
     "md": {
       "logo-height": {
-        "value": "{brk-opt-sizing.72}",
+        "value": "{brk-opt-size.72}",
         "type": "sizing",
         "description": " "
       },
@@ -605,7 +605,7 @@
     },
     "lg": {
       "logo-height": {
-        "value": "{brk-opt-sizing.96}",
+        "value": "{brk-opt-size.96}",
         "type": "sizing",
         "description": " "
       },
@@ -845,9 +845,9 @@
   "brk-promo-primary": {
     "sm": {
       "image-height": {
-        "value": "{brk-opt-size.245}",
+        "value": "{brk-opt-size.120}*2",
         "type": "sizing",
-        "description": " "
+        "description": "NOTE: à vérifier cette référence. Originalement était 245px."
       },
       "gradient-height": {
         "value": "{brk-promo-primary.sm.image-height}/4",
@@ -948,7 +948,7 @@
         "description": " "
       },
       "image-height": {
-        "value": "{brk-opt-size.270}",
+        "value": "{brk-promo-primary.sm.image-height}+30px",
         "type": "sizing",
         "description": " "
       },
@@ -1001,7 +1001,7 @@
     },
     "lg": {
       "image-height": {
-        "value": "{brk-opt-size.300}",
+        "value": "{brk-promo-primary.md.image-height}+30px",
         "type": "sizing",
         "description": " "
       },
@@ -1448,7 +1448,7 @@
   "brk-promo-tertiary": {
     "sm": {
       "image-height": {
-        "value": "{brk-opt-size.264}",
+        "value": "{brk-opt-size.8}*33",
         "type": "sizing",
         "description": " "
       },
@@ -1517,7 +1517,7 @@
     },
     "md": {
       "image-height": {
-        "value": "{brk-opt-size.270}",
+        "value": "{brk-promo-tertiary.sm.image-height}+6px",
         "type": "sizing",
         "description": " "
       },
@@ -1586,7 +1586,7 @@
     },
     "lg": {
       "image-height": {
-        "value": "{brk-opt-size.300}",
+        "value": "{brk-promo-tertiary.md.image-height}+30px",
         "type": "sizing",
         "description": " "
       },
