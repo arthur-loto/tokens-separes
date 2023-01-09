@@ -1731,11 +1731,11 @@
   "brk-card-high-density": {
     "sm": {
       "image-height": {
-        "value": "{brk-opt-size.80}",
+        "value": "{brk-opt-size.8}*10",
         "type": "sizing"
       },
       "card-height": {
-        "value": "{brk-opt-size.80}",
+        "value": "{brk-opt-size.8}*10",
         "type": "sizing"
       },
       "content-gap": {
@@ -1809,11 +1809,11 @@
     },
     "md": {
       "image-height": {
-        "value": "{brk-opt-size.88}",
+        "value": "{brk-opt-size.8}*11",
         "type": "sizing"
       },
       "card-height": {
-        "value": "{brk-opt-size.88}",
+        "value": "{brk-opt-size.8}*11",
         "type": "sizing"
       },
       "content-gap": {
@@ -2027,7 +2027,7 @@
         "type": "spacing"
       },
       "heading-height": {
-        "value": "{brk-opt-size.80}",
+        "value": "{brk-opt-size.8}*10",
         "type": "sizing"
       },
       "heading-icon-size": {
@@ -2057,7 +2057,7 @@
         "type": "spacing"
       },
       "heading-height": {
-        "value": "{brk-opt-size.88}",
+        "value": "{brk-opt-size.8}*11",
         "type": "sizing"
       },
       "heading-icon-size": {
