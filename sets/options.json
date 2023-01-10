@@ -533,18 +533,8 @@
     }
   },
   "brk-opt-size-alt": {
-    "40%": {
-      "value": "40%",
-      "type": "sizing",
-      "description": " "
-    },
     "50%": {
       "value": "50%",
-      "type": "sizing",
-      "description": " "
-    },
-    "100%": {
-      "value": "100%",
       "type": "sizing",
       "description": " "
     },
@@ -552,24 +542,14 @@
       "value": "56.25%",
       "type": "sizing",
       "description": " "
+    },
+    "100%": {
+      "value": "100%",
+      "type": "sizing",
+      "description": " "
     }
   },
   "brk-opt-size-alt-unitless": {
-    "80%": {
-      "value": "0.8",
-      "type": "sizing",
-      "description": " "
-    },
-    "100%": {
-      "value": "1",
-      "type": "sizing",
-      "description": " "
-    },
-    "110%": {
-      "value": "1.1",
-      "type": "sizing",
-      "description": " "
-    },
     "120%": {
       "value": "1.2",
       "type": "sizing",
@@ -580,40 +560,10 @@
       "type": "sizing",
       "description": " "
     },
-    "113%": {
-      "value": "1.125",
-      "type": "sizing",
-      "description": " "
-    },
-    "125%": {
-      "value": "1.25",
-      "type": "sizing",
-      "description": " "
-    },
     "128%": {
       "value": "1.28",
       "type": "sizing",
       "description": " "
-    },
-    "150%": {
-      "value": "1.5",
-      "type": "sizing"
-    },
-    "180%": {
-      "value": "1.8",
-      "type": "sizing"
-    },
-    "200%": {
-      "value": "2",
-      "type": "sizing"
-    },
-    "220%": {
-      "value": "2.2",
-      "type": "sizing"
-    },
-    "280%": {
-      "value": "2.8",
-      "type": "sizing"
     }
   },
   "brk-opt-breakpoint": {
@@ -1167,14 +1117,6 @@
     },
     "06": {
       "value": "0.6153",
-      "type": "sizing"
-    },
-    "05": {
-      "value": "0.5",
-      "type": "sizing"
-    },
-    "00": {
-      "value": "0.0769",
       "type": "sizing"
     }
   },
