@@ -771,23 +771,8 @@
     }
   },
   "brk-opt-space": {
-    "0": {
-      "value": "0",
-      "type": "spacing",
-      "description": " "
-    },
-    "1": {
-      "value": "1px",
-      "type": "spacing",
-      "description": " "
-    },
     "2": {
       "value": "2px",
-      "type": "spacing",
-      "description": " "
-    },
-    "3": {
-      "value": "3px",
       "type": "spacing",
       "description": " "
     },
@@ -796,38 +781,13 @@
       "type": "spacing",
       "description": " "
     },
-    "5": {
-      "value": "5px",
-      "type": "spacing",
-      "description": " "
-    },
-    "6": {
-      "value": "6px",
-      "type": "spacing",
-      "description": " "
-    },
     "8": {
       "value": "8px",
       "type": "spacing",
       "description": " "
     },
-    "10": {
-      "value": "10px",
-      "type": "spacing",
-      "description": " "
-    },
     "12": {
       "value": "12px",
-      "type": "spacing",
-      "description": " "
-    },
-    "14": {
-      "value": "14px",
-      "type": "spacing",
-      "description": " "
-    },
-    "15": {
-      "value": "15px",
       "type": "spacing",
       "description": " "
     },
@@ -841,21 +801,13 @@
       "type": "spacing",
       "description": " "
     },
-    "22": {
-      "value": "22px",
-      "type": "spacing"
-    },
     "24": {
       "value": "24px",
       "type": "spacing",
       "description": " "
     },
-    "25": {
-      "value": "25px",
-      "type": "spacing"
-    },
-    "30": {
-      "value": "30px",
+    "28": {
+      "value": "28px",
       "type": "spacing",
       "description": " "
     },
@@ -863,14 +815,6 @@
       "value": "32px",
       "type": "spacing",
       "description": " "
-    },
-    "35": {
-      "value": "35px",
-      "type": "spacing"
-    },
-    "36": {
-      "value": "36px",
-      "type": "spacing"
     },
     "40": {
       "value": "40px",
