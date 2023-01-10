@@ -290,7 +290,7 @@
         "description": "NOTE : Correspond à la marge minimale horizontale entre le viewport et le contenu. "
       },
       "margin-top": {
-        "value": "{brk-opt-space.0}",
+        "value": "{brk-opt-space.2}-2px",
         "type": "spacing",
         "description": "NOTE : Correspond à l'espace vertical en haut du template."
       },
@@ -321,7 +321,7 @@
         "description": "NOTE : Correspond à la marge minimale horizontale entre le viewport et le contenu. "
       },
       "margin-top": {
-        "value": "{brk-opt-space.0}",
+        "value": "{brk-opt-space.2}-2px",
         "type": "spacing",
         "description": "NOTE : Correspond à l'espace vertical en haut du template."
       },
@@ -348,7 +348,7 @@
         "description": "NOTE : Correspond à la marge minimale horizontale entre le viewport et le contenu. "
       },
       "margin-top": {
-        "value": "{brk-opt-space.0}",
+        "value": "{brk-opt-space.2}-2px",
         "type": "spacing",
         "description": "NOTE : Correspond à l'espace vertical en haut du template."
       },
