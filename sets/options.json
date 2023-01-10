@@ -659,13 +659,6 @@
         "type": "sizing",
         "description": " "
       }
-    },
-    "sm-copy": {
-      "230": {
-        "value": "230",
-        "type": "sizing",
-        "description": " "
-      }
     }
   },
   "brk-opt-border-radius": {
