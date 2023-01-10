@@ -1977,7 +1977,7 @@
         "type": "sizing"
       },
       "heading-content-gap": {
-        "value": "{brk-opt-space.128}",
+        "value": "{brk-opt-space.120}",
         "type": "spacing"
       }
     },
