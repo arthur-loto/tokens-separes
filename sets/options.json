@@ -553,17 +553,17 @@
     "120%": {
       "value": "1.2",
       "type": "sizing",
-      "description": " "
+      "description": "  NOTE : ce token d'option correspond au ratio utilisé pour la hiérarchie de la typographie. Cela permet de réduire la quantité des tokens, ainsi que de créer des textes proportionnels peu importe le point de rupture."
     },
     "124%": {
       "value": "1.24",
       "type": "sizing",
-      "description": " "
+      "description": " NOTE : ce token d'option correspond au ratio utilisé pour la hiérarchie de la typographie. Cela permet de réduire la quantité des tokens, ainsi que de créer des textes proportionnels peu importe le point de rupture."
     },
     "128%": {
       "value": "1.28",
       "type": "sizing",
-      "description": " "
+      "description": " NOTE : ce token d'option correspond au ratio utilisé pour la hiérarchie de la typographie. Cela permet de réduire la quantité des tokens, ainsi que de créer des textes proportionnels peu importe le point de rupture."
     }
   },
   "brk-opt-breakpoint": {
@@ -584,13 +584,6 @@
     "lg": {
       "800": {
         "value": "800px",
-        "type": "sizing",
-        "description": " "
-      }
-    },
-    "xl": {
-      "780": {
-        "value": "780",
         "type": "sizing",
         "description": " "
       }
