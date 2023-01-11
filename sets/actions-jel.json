@@ -645,7 +645,7 @@
       "type": "sizing"
     },
     "padding-horizontal": {
-      "value": "{brk-opt-space.0}",
+      "value": "{brk-opt-space.2}-2px",
       "type": "spacing",
       "description": " "
     },

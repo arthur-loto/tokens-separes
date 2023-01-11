@@ -553,26 +553,21 @@
     "120%": {
       "value": "1.2",
       "type": "sizing",
-      "description": " "
+      "description": "  NOTE : ce token d'option correspond au ratio utilisé pour la hiérarchie de la typographie. Cela permet de réduire la quantité des tokens, ainsi que de créer des textes proportionnels peu importe le point de rupture."
     },
     "124%": {
       "value": "1.24",
       "type": "sizing",
-      "description": " "
+      "description": " NOTE : ce token d'option correspond au ratio utilisé pour la hiérarchie de la typographie. Cela permet de réduire la quantité des tokens, ainsi que de créer des textes proportionnels peu importe le point de rupture."
     },
     "128%": {
       "value": "1.28",
       "type": "sizing",
-      "description": " "
+      "description": " NOTE : ce token d'option correspond au ratio utilisé pour la hiérarchie de la typographie. Cela permet de réduire la quantité des tokens, ainsi que de créer des textes proportionnels peu importe le point de rupture."
     }
   },
   "brk-opt-breakpoint": {
     "sm": {
-      "230": {
-        "value": "230",
-        "type": "sizing",
-        "description": " "
-      },
       "376": {
         "value": "376px",
         "type": "sizing",
@@ -580,11 +575,6 @@
       }
     },
     "md": {
-      "450": {
-        "value": "450",
-        "type": "sizing",
-        "description": " "
-      },
       "640": {
         "value": "640px",
         "type": "sizing",
@@ -592,20 +582,8 @@
       }
     },
     "lg": {
-      "630": {
-        "value": "630",
-        "type": "sizing",
-        "description": " "
-      },
       "800": {
         "value": "800px",
-        "type": "sizing",
-        "description": " "
-      }
-    },
-    "xl": {
-      "780": {
-        "value": "780",
         "type": "sizing",
         "description": " "
       }
@@ -771,23 +749,8 @@
     }
   },
   "brk-opt-space": {
-    "0": {
-      "value": "0",
-      "type": "spacing",
-      "description": " "
-    },
-    "1": {
-      "value": "1px",
-      "type": "spacing",
-      "description": " "
-    },
     "2": {
       "value": "2px",
-      "type": "spacing",
-      "description": " "
-    },
-    "3": {
-      "value": "3px",
       "type": "spacing",
       "description": " "
     },
@@ -796,38 +759,13 @@
       "type": "spacing",
       "description": " "
     },
-    "5": {
-      "value": "5px",
-      "type": "spacing",
-      "description": " "
-    },
-    "6": {
-      "value": "6px",
-      "type": "spacing",
-      "description": " "
-    },
     "8": {
       "value": "8px",
       "type": "spacing",
       "description": " "
     },
-    "10": {
-      "value": "10px",
-      "type": "spacing",
-      "description": " "
-    },
     "12": {
       "value": "12px",
-      "type": "spacing",
-      "description": " "
-    },
-    "14": {
-      "value": "14px",
-      "type": "spacing",
-      "description": " "
-    },
-    "15": {
-      "value": "15px",
       "type": "spacing",
       "description": " "
     },
@@ -841,21 +779,13 @@
       "type": "spacing",
       "description": " "
     },
-    "22": {
-      "value": "22px",
-      "type": "spacing"
-    },
     "24": {
       "value": "24px",
       "type": "spacing",
       "description": " "
     },
-    "25": {
-      "value": "25px",
-      "type": "spacing"
-    },
-    "30": {
-      "value": "30px",
+    "28": {
+      "value": "28px",
       "type": "spacing",
       "description": " "
     },
@@ -864,21 +794,8 @@
       "type": "spacing",
       "description": " "
     },
-    "35": {
-      "value": "35px",
-      "type": "spacing"
-    },
-    "36": {
-      "value": "36px",
-      "type": "spacing"
-    },
     "40": {
       "value": "40px",
-      "type": "spacing",
-      "description": " "
-    },
-    "45": {
-      "value": "45px",
       "type": "spacing",
       "description": " "
     },
@@ -887,13 +804,8 @@
       "type": "spacing",
       "description": " "
     },
-    "50": {
-      "value": "50px",
-      "type": "spacing",
-      "description": " "
-    },
-    "60": {
-      "value": "60px",
+    "56": {
+      "value": "56px",
       "type": "spacing",
       "description": " "
     },
@@ -902,8 +814,8 @@
       "type": "spacing",
       "description": " "
     },
-    "80": {
-      "value": "80px",
+    "72": {
+      "value": "72px",
       "type": "spacing",
       "description": " "
     },
@@ -912,72 +824,19 @@
       "type": "spacing",
       "description": " "
     },
-    "100": {
-      "value": "100px",
-      "type": "spacing",
-      "description": " "
-    },
-    "112": {
-      "value": "112px",
+    "120": {
+      "value": "120px",
       "type": "spacing"
-    },
-    "115": {
-      "value": "115px",
-      "type": "spacing",
-      "description": " "
-    },
-    "128": {
-      "value": "128px",
-      "type": "spacing"
-    },
-    "145": {
-      "value": "145px",
-      "type": "spacing",
-      "description": " "
-    },
-    "152": {
-      "value": "152px",
-      "type": "spacing"
-    },
-    "160": {
-      "value": "160px",
-      "type": "spacing",
-      "description": " "
     }
   },
   "brk-opt-space-alt": {
-    "30%": {
-      "value": "0.3em",
-      "type": "spacing",
-      "description": " "
-    },
     "50%": {
       "value": "0.5em",
       "type": "spacing",
       "description": " "
     },
-    "60%": {
-      "value": "0.6em",
-      "type": "spacing",
-      "description": " "
-    },
-    "80%": {
-      "value": "0.8em",
-      "type": "spacing",
-      "description": " "
-    },
     "100%": {
       "value": "1em",
-      "type": "spacing",
-      "description": " "
-    },
-    "120%": {
-      "value": "1.2em",
-      "type": "spacing",
-      "description": " "
-    },
-    "160%": {
-      "value": "1.6em",
       "type": "spacing",
       "description": " "
     },
@@ -991,13 +850,13 @@
       "type": "spacing",
       "description": " "
     },
-    "250%": {
-      "value": "2.5em",
+    "230%": {
+      "value": "2.25em",
       "type": "spacing",
       "description": " "
     },
-    "230%": {
-      "value": "2.25em",
+    "250%": {
+      "value": "2.5em",
       "type": "spacing",
       "description": " "
     }
@@ -1118,72 +977,6 @@
     "06": {
       "value": "0.6153",
       "type": "sizing"
-    }
-  },
-  "brk-opt-spacing": {
-    "2": {
-      "value": "2px",
-      "type": "spacing"
-    },
-    "4": {
-      "value": "4px",
-      "type": "spacing"
-    },
-    "8": {
-      "value": "8px",
-      "type": "spacing"
-    },
-    "12": {
-      "value": "12px",
-      "type": "spacing"
-    },
-    "16": {
-      "value": "16px",
-      "type": "spacing"
-    },
-    "20": {
-      "value": "20px",
-      "type": "spacing"
-    },
-    "24": {
-      "value": "24px",
-      "type": "spacing"
-    },
-    "28": {
-      "value": "28px",
-      "type": "spacing"
-    },
-    "32": {
-      "value": "32px",
-      "type": "spacing"
-    },
-    "40": {
-      "value": "40px",
-      "type": "spacing"
-    },
-    "48": {
-      "value": "48px",
-      "type": "spacing"
-    },
-    "56": {
-      "value": "56px",
-      "type": "spacing"
-    },
-    "64": {
-      "value": "64px",
-      "type": "spacing"
-    },
-    "72": {
-      "value": "72px",
-      "type": "spacing"
-    },
-    "96": {
-      "value": "96px",
-      "type": "spacing"
-    },
-    "120": {
-      "value": "120px",
-      "type": "spacing"
     }
   }
 }

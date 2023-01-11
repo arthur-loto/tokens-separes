@@ -28,22 +28,22 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-spacing.16}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-spacing.16}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
       "heading-margin-vertical": {
-        "value": "{brk-opt-spacing.4}",
+        "value": "{brk-opt-space.4}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-spacing.16}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le bouton de la carte en petit format."
       },
@@ -97,22 +97,22 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-spacing.24}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-spacing.24}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "heading-margin-vertical": {
-        "value": "{brk-opt-spacing.8}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-spacing.24}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le bouton de la carte en format moyen."
       },
@@ -166,22 +166,22 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-spacing.24}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-spacing.24}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "heading-margin-vertical": {
-        "value": "{brk-opt-spacing.8}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-spacing.24}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le bouton de la carte en format large."
       },
@@ -363,22 +363,22 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-spacing.16}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-spacing.16}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en petit format."
       },
       "amount-digit-margin": {
-        "value": "{brk-opt-spacing.2}",
+        "value": "{brk-opt-space.2}",
         "type": "spacing",
         "description": " "
       },
       "amount-group-margin": {
-        "value": "{brk-opt-spacing.4}",
+        "value": "{brk-opt-space.4}",
         "type": "spacing",
         "description": " "
       }
@@ -423,22 +423,22 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-spacing.24}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-spacing.24}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format moyen."
       },
       "amount-digit-margin": {
-        "value": "{brk-opt-spacing.4}",
+        "value": "{brk-opt-space.4}",
         "type": "spacing",
         "description": " "
       },
       "amount-group-margin": {
-        "value": "{brk-opt-spacing.8}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
       }
@@ -483,22 +483,22 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-spacing.32}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-spacing.32}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format large."
       },
       "amount-digit-margin": {
-        "value": "{brk-opt-spacing.8}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
       },
       "amount-group-margin": {
-        "value": "{brk-opt-spacing.16}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       }
@@ -586,7 +586,7 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-spacing.16}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       }
@@ -598,7 +598,7 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-spacing.24}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       }
@@ -610,7 +610,7 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-spacing.32}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": " "
       }
@@ -633,12 +633,12 @@
   "brk-card-secondary-info-text": {
     "sm": {
       "padding-horizontal": {
-        "value": "{brk-opt-spacing.16}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-spacing.4}",
+        "value": "{brk-opt-space.4}",
         "type": "spacing"
       },
       "heading": {
@@ -672,12 +672,12 @@
     },
     "md": {
       "padding-horizontal": {
-        "value": "{brk-opt-spacing.24}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-spacing.8}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
       "heading": {
@@ -711,12 +711,12 @@
     },
     "lg": {
       "padding-horizontal": {
-        "value": "{brk-opt-spacing.32}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-spacing.16}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing"
       },
       "heading": {
@@ -883,7 +883,7 @@
         "type": "typography"
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.6}",
+        "value": "{brk-opt-space.4}+2px",
         "type": "spacing",
         "description": " "
       },
@@ -938,7 +938,7 @@
         "description": " "
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.6}",
+        "value": "{brk-opt-space.4}+2px",
         "type": "spacing",
         "description": " "
       },
@@ -1067,12 +1067,12 @@
         "description": " "
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.6}",
+        "value": "{brk-opt-space.4}+2px",
         "type": "spacing",
         "description": " "
       },
       "body-margin-top": {
-        "value": "{brk-opt-space.10}",
+        "value": "{brk-opt-space.8}+2px",
         "type": "spacing",
         "description": " "
       }
@@ -1552,7 +1552,7 @@
         "description": " "
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.6}",
+        "value": "{brk-opt-space.4}+2px",
         "type": "spacing",
         "description": " "
       },
@@ -1621,7 +1621,7 @@
         "description": " "
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.6}",
+        "value": "{brk-opt-space.4}+2px",
         "type": "spacing",
         "description": " "
       },
@@ -2049,7 +2049,7 @@
         "type": "spacing"
       },
       "separator-padding-left": {
-        "value": "{brk-opt-space.112}",
+        "value": "{brk-opt-space.8}*14",
         "type": "spacing"
       },
       "separator-padding-vertical": {
@@ -2079,7 +2079,7 @@
         "type": "spacing"
       },
       "separator-padding-left": {
-        "value": "{brk-opt-space.152}",
+        "value": "{brk-opt-space.8}*19",
         "type": "spacing"
       },
       "separator-padding-vertical": {
@@ -2095,7 +2095,7 @@
         "type": "sizing"
       },
       "heading-content-gap": {
-        "value": "{brk-opt-space.128}",
+        "value": "{brk-opt-space.120}",
         "type": "spacing"
       }
     },
