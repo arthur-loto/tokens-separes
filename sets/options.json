@@ -595,11 +595,6 @@
       "type": "borderRadius",
       "description": " "
     },
-    "1": {
-      "value": "1px",
-      "type": "borderRadius",
-      "description": " "
-    },
     "2": {
       "value": "2px",
       "type": "borderRadius",
@@ -610,22 +605,8 @@
       "type": "borderRadius",
       "description": " "
     },
-    "6": {
-      "value": "6px",
-      "type": "borderRadius"
-    },
     "8": {
       "value": "8px",
-      "type": "borderRadius",
-      "description": " "
-    },
-    "10": {
-      "value": "10px",
-      "type": "borderRadius",
-      "description": " "
-    },
-    "15": {
-      "value": "15px",
       "type": "borderRadius",
       "description": " "
     },
@@ -643,27 +624,13 @@
       "value": "24px",
       "type": "borderRadius",
       "description": " "
-    },
-    "25": {
-      "value": "25px",
-      "type": "borderRadius",
-      "description": " "
-    },
-    "30": {
-      "value": "30px",
-      "type": "borderRadius",
-      "description": " "
-    },
-    "32": {
-      "value": "32px",
-      "type": "borderRadius"
     }
   },
   "brk-opt-border-radius-alt": {
     "20%": {
       "value": "0.2em",
       "type": "borderRadius",
-      "description": " "
+      "description": "NOTE : ce token d'option correspond au ratio basé sur la taille de la typographie utilisé sur le bouton ainsi que le style de la marque. Utilisé pour les tokens de décision, il permet de réduire la quantité des tokens, ainsi que de créer des boutons proportionnels peu importe le point de rupture."
     },
     "120%": {
       "value": "1.2em",
@@ -967,16 +934,17 @@
     "12": {
       "value": "1.2307",
       "type": "sizing",
-      "description": "NOTE : ce token d'option correspond au ratio basé sur la taille de la typographie utilisé sur le bouton. Utilisé pour les tokens de référence, il permet de réduire la quantité des tokens, ainsi que de créer des boutons proportionnels peu importe le point de rupture."
+      "description": "NOTE : ce token d'option correspond au ratio basé sur la taille de la typographie utilisé sur le bouton. Utilisé pour les tokens de décision, il permet de réduire la quantité des tokens, ainsi que de créer des boutons proportionnels peu importe le point de rupture."
     },
     "27": {
       "value": "2.7692",
       "type": "sizing",
-      "description": "NOTE : ce token d'option correspond au ratio basé sur la taille de la typographie utilisé sur le bouton. Utilisé pour les tokens de référence, il permet de réduire la quantité des tokens, ainsi que de créer des boutons proportionnels peu importe le point de rupture."
+      "description": "NOTE : ce token d'option correspond au ratio basé sur la taille de la typographie utilisé sur le bouton. Utilisé pour les tokens de décision, il permet de réduire la quantité des tokens, ainsi que de créer des boutons proportionnels peu importe le point de rupture."
     },
     "06": {
       "value": "0.6153",
-      "type": "sizing"
+      "type": "sizing",
+      "description": "NOTE : ce token d'option correspond au ratio basé sur la taille de la typographie utilisé sur le bouton. Utilisé pour les tokens de décision, il permet de réduire la quantité des tokens, ainsi que de créer des boutons proportionnels peu importe le point de rupture."
     }
   }
 }
