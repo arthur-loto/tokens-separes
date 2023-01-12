@@ -1270,12 +1270,20 @@
       "type": "lineHeights"
     },
     "text-case-pretitle": {
-      "value": "{brk-opt-text-transform.none}",
+      "value": "{brk-opt-text-transform.uppercase}",
       "type": "textCase"
     },
     "text-case-heding": {
       "value": "{brk-opt-text-transform.none}",
       "type": "textCase"
+    },
+    "text-decoration-pretitle": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "text-decoration-heading": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
     }
   },
   "brk-promo-secondary-standard": {
