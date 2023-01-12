@@ -1077,6 +1077,14 @@
       "content-max-width": {
         "value": "{brk-opt-size.64}*25",
         "type": "sizing"
+      },
+      "font-size-pretitle": {
+        "value": "{brk-opt-font-size.16}",
+        "type": "fontSizes"
+      },
+      "font-size-heading": {
+        "value": "{brk-opt-font-size.28}",
+        "type": "fontSizes"
       }
     },
     "md": {
@@ -1143,6 +1151,14 @@
         },
         "type": "typography",
         "description": " "
+      },
+      "font-size-pretitle": {
+        "value": "{brk-opt-font-size.20}",
+        "type": "fontSizes"
+      },
+      "font-size-heading": {
+        "value": "{brk-opt-font-size.36}",
+        "type": "fontSizes"
       }
     },
     "lg": {
@@ -1211,7 +1227,55 @@
         },
         "type": "typography",
         "description": " "
+      },
+      "font-size-pretitle": {
+        "value": "{brk-opt-font-size.20}",
+        "type": "fontSizes"
+      },
+      "font-size-heading": {
+        "value": "{brk-opt-font-size.40}",
+        "type": "fontSizes"
       }
+    },
+    "font-weight-pretitle": {
+      "value": "{brk-opt-font-weight.400}",
+      "type": "fontWeights"
+    },
+    "font-weight-heading": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "font-family-pretitle": {
+      "value": "{brk-opt-font-family.webfont}",
+      "type": "fontFamilies"
+    },
+    "font-family-heading": {
+      "value": "{brk-opt-font-family.brand-main}",
+      "type": "fontFamilies"
+    },
+    "letter-spacing-pretitle": {
+      "value": "{brk-opt-letter-spacing.-2%}",
+      "type": "letterSpacing"
+    },
+    "letter-spacing-heading": {
+      "value": "{brk-opt-letter-spacing.-2%}",
+      "type": "letterSpacing"
+    },
+    "line-height-pretitle": {
+      "value": "{brk-opt-line-height.100%}",
+      "type": "lineHeights"
+    },
+    "line-height-heading": {
+      "value": "{brk-opt-line-height.110%}",
+      "type": "lineHeights"
+    },
+    "text-case-pretitle": {
+      "value": "{brk-opt-text-transform.none}",
+      "type": "textCase"
+    },
+    "text-case-heding": {
+      "value": "{brk-opt-text-transform.none}",
+      "type": "textCase"
     }
   },
   "brk-promo-secondary-standard": {
