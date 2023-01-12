@@ -1220,6 +1220,14 @@
         "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
+      },
+      "font-size-pretitle": {
+        "value": "{brk-opt-font-size.16}",
+        "type": "fontSizes"
+      },
+      "font-size-heading": {
+        "value": "{brk-opt-font-size.28}",
+        "type": "fontSizes"
       }
     },
     "md": {
@@ -1289,6 +1297,14 @@
         "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
+      },
+      "font-size-pretitle": {
+        "value": "{brk-opt-font-size.16}",
+        "type": "fontSizes"
+      },
+      "font-size-heading": {
+        "value": "{brk-opt-font-size.32}",
+        "type": "fontSizes"
       }
     },
     "lg": {
@@ -1358,7 +1374,55 @@
         "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
+      },
+      "font-size-pretitle": {
+        "value": "{brk-opt-font-size.20}",
+        "type": "fontSizes"
+      },
+      "font-size-heading": {
+        "value": "{brk-opt-font-size.40}",
+        "type": "fontSizes"
       }
+    },
+    "font-family-pretitle": {
+      "value": "{brk-opt-font-family.webfont}",
+      "type": "fontFamilies"
+    },
+    "font-family-heading": {
+      "value": "{brk-opt-font-family.brand-main}",
+      "type": "fontFamilies"
+    },
+    "font-weight-pretitle": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "font-weight-heading": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "line-height-pretitle": {
+      "value": "{brk-opt-line-height.110%}",
+      "type": "lineHeights"
+    },
+    "line-height-heading": {
+      "value": "{brk-opt-line-height.120%}",
+      "type": "lineHeights"
+    },
+    "letter-spacing-pretitle": {
+      "value": "{brk-opt-letter-spacing.0%}",
+      "type": "letterSpacing"
+    },
+    "letter-spacing-heading": {
+      "value": "{brk-opt-letter-spacing.-2%}",
+      "type": "letterSpacing"
+    },
+    "text-case-pretitle": {
+      "value": "{brk-opt-text-transform.none}",
+      "type": "textCase"
+    },
+    "text-case-heading": {
+      "value": "{brk-opt-text-transform.none}",
+      "type": "textCase"
     }
   },
   "brk-promo-secondary-standard": {
