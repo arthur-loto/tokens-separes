@@ -1423,6 +1423,14 @@
     "text-case-heading": {
       "value": "{brk-opt-text-transform.none}",
       "type": "textCase"
+    },
+    "text-decoration-pretitle": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "text-decoration-heading": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
     }
   },
   "brk-promo-secondary-standard": {
