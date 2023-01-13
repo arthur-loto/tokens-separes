@@ -2274,5 +2274,15 @@
       "type": "color",
       "description": " "
     }
+  },
+  "brk-doc-promo": {
+    "inverted-gradient-color": {
+      "value": "linear-gradient(180deg, {brk-promo-secondary-inverted.background-color}00 0%, {brk-promo-secondary-inverted.background-color} 100%)",
+      "type": "color"
+    },
+    "standard-gradient-color": {
+      "value": "linear-gradient(180deg, {brk-promo-secondary-standard.background-color}00 0%, {brk-promo-secondary-standard.background-color} 100%)",
+      "type": "color"
+    }
   }
 }
