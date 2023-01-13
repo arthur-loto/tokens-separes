@@ -1378,11 +1378,6 @@
       "type": "color",
       "description": " "
     },
-    "gradient-color": {
-      "value": "linear-gradient(180deg, {brk-promo-secondary-standard.background-color}00 0%, {brk-promo-secondary-standard.background-color} 100%)",
-      "type": "color",
-      "description": " "
-    },
     "box-shadow": {
       "default": {
         "value": "{brk-opt-box-shadow.none}",
@@ -1422,11 +1417,6 @@
     },
     "border-color": {
       "value": "{brk-opt-color-neutral.100}",
-      "type": "color",
-      "description": " "
-    },
-    "gradient-color": {
-      "value": "linear-gradient(180deg, {brk-promo-secondary-inverted.background-color}00 0%, {brk-promo-secondary-inverted.background-color} 100%)",
       "type": "color",
       "description": " "
     },

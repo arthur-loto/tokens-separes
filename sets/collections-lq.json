@@ -1241,10 +1241,6 @@
         "description": " "
       }
     },
-    "gradient-color": {
-      "value": "linear-gradient(180deg, {brk-promo-secondary-standard.background-color}00 0%, {brk-promo-secondary-standard.background-color} 100%)",
-      "type": "color"
-    },
     "frame-color": {
       "value": "{brk-opt-color-neutral.transparent}",
       "type": "color",
@@ -1276,10 +1272,6 @@
       "value": "{brk-opt-color-lq-main.50}",
       "type": "color",
       "description": " "
-    },
-    "gradient-color": {
-      "value": "linear-gradient(180deg, {brk-promo-secondary-inverted.background-color}00 0%, {brk-promo-secondary-inverted.background-color} 100%)",
-      "type": "color"
     },
     "frame-color": {
       "value": "{brk-opt-color-neutral.transparent}",
