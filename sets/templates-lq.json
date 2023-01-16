@@ -150,27 +150,6 @@
       "text-content-gap": {
         "value": "{brk-opt-space.4}",
         "type": "spacing"
-      },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.11}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "textCase": "{brk-opt-text-transform.uppercase}"
-        },
-        "type": "typography"
-      },
-      "body": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.13}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}"
-        },
-        "type": "typography"
       }
     },
     "md": {
@@ -181,27 +160,6 @@
       "text-content-gap": {
         "value": "{brk-opt-space.8}",
         "type": "spacing"
-      },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.13}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "textCase": "{brk-opt-text-transform.uppercase}"
-        },
-        "type": "typography"
-      },
-      "body": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.15}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}"
-        },
-        "type": "typography"
       }
     },
     "lg": {
@@ -212,27 +170,6 @@
       "text-content-gap": {
         "value": "{brk-opt-space.8}",
         "type": "spacing"
-      },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.13}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "textCase": "{brk-opt-text-transform.uppercase}"
-        },
-        "type": "typography"
-      },
-      "body": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.15}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}"
-        },
-        "type": "typography"
       }
     },
     "font-family-heading": {
