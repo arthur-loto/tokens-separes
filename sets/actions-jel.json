@@ -103,11 +103,11 @@
       "type": "fontSizes"
     },
     "md-font-size": {
-      "value": "{brk-opt-font-size.24}",
+      "value": "{brk-opt-font-size.20}",
       "type": "fontSizes"
     },
     "lg-font-size": {
-      "value": "{brk-opt-font-size.32}",
+      "value": "{brk-opt-font-size.24}",
       "type": "fontSizes"
     },
     "letter-spacing": {
@@ -294,11 +294,11 @@
       "type": "fontSizes"
     },
     "md-font-size": {
-      "value": "{brk-opt-font-size.24}",
+      "value": "{brk-opt-font-size.20}",
       "type": "fontSizes"
     },
     "lg-font-size": {
-      "value": "{brk-opt-font-size.32}",
+      "value": "{brk-opt-font-size.24}",
       "type": "fontSizes"
     },
     "letter-spacing": {
@@ -483,11 +483,11 @@
       "type": "fontSizes"
     },
     "md-font-size": {
-      "value": "{brk-opt-font-size.24}",
+      "value": "{brk-opt-font-size.20}",
       "type": "fontSizes"
     },
     "lg-font-size": {
-      "value": "{brk-opt-font-size.32}",
+      "value": "{brk-opt-font-size.24}",
       "type": "fontSizes"
     },
     "letter-spacing": {
@@ -674,11 +674,11 @@
       "type": "fontSizes"
     },
     "md-font-size": {
-      "value": "{brk-opt-font-size.24}",
+      "value": "{brk-opt-font-size.20}",
       "type": "fontSizes"
     },
     "lg-font-size": {
-      "value": "{brk-opt-font-size.32}",
+      "value": "{brk-opt-font-size.24}",
       "type": "fontSizes"
     },
     "letter-spacing": {
