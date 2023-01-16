@@ -148,11 +148,6 @@
     }
   },
   "brk-opt-line-height": {
-    "85%": {
-      "value": "85%",
-      "type": "lineHeights",
-      "description": " "
-    },
     "100%": {
       "value": "100%",
       "type": "lineHeights",
@@ -212,11 +207,6 @@
     }
   },
   "brk-opt-font-size": {
-    "12": {
-      "value": "12px",
-      "type": "fontSizes",
-      "description": " "
-    },
     "14": {
       "value": "14px",
       "type": "fontSizes",
@@ -227,23 +217,8 @@
       "type": "fontSizes",
       "description": " "
     },
-    "18": {
-      "value": "18px",
-      "type": "fontSizes",
-      "description": " "
-    },
-    "19": {
-      "value": "19px",
-      "type": "fontSizes",
-      "description": " "
-    },
     "20": {
       "value": "20px",
-      "type": "fontSizes",
-      "description": " "
-    },
-    "22": {
-      "value": "22px",
       "type": "fontSizes",
       "description": " "
     },
@@ -252,22 +227,8 @@
       "type": "fontSizes",
       "description": " "
     },
-    "25": {
-      "value": "25px",
-      "type": "fontSizes"
-    },
-    "26": {
-      "value": "26px",
-      "type": "fontSizes",
-      "description": " "
-    },
     "28": {
       "value": "28px",
-      "type": "fontSizes",
-      "description": " "
-    },
-    "30": {
-      "value": "30px",
       "type": "fontSizes",
       "description": " "
     },
@@ -275,10 +236,6 @@
       "value": "32px",
       "type": "fontSizes",
       "description": " "
-    },
-    "34": {
-      "value": "34px",
-      "type": "fontSizes"
     },
     "36": {
       "value": "36px",
@@ -290,8 +247,8 @@
       "type": "fontSizes",
       "description": " "
     },
-    "42": {
-      "value": "42px",
+    "44": {
+      "value": "44px",
       "type": "fontSizes",
       "description": " "
     },
@@ -300,13 +257,28 @@
       "type": "fontSizes",
       "description": " "
     },
+    "52": {
+      "value": "52px",
+      "type": "fontSizes",
+      "description": " "
+    },
     "56": {
       "value": "56px",
       "type": "fontSizes",
       "description": " "
     },
+    "60": {
+      "value": "60px",
+      "type": "fontSizes",
+      "description": " "
+    },
     "64": {
       "value": "64px",
+      "type": "fontSizes",
+      "description": " "
+    },
+    "68": {
+      "value": "68px",
       "type": "fontSizes",
       "description": " "
     },
