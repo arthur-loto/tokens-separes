@@ -150,31 +150,7 @@
       "text-content-gap": {
         "value": "{brk-opt-space.4}",
         "type": "spacing"
-      }
-    },
-    "md": {
-      "content-gap": {
-        "value": "{brk-opt-space.12}",
-        "type": "spacing"
       },
-      "text-content-gap": {
-        "value": "{brk-opt-space.8}",
-        "type": "spacing"
-      }
-    },
-    "lg": {
-      "content-gap": {
-        "value": "{brk-opt-space.24}",
-        "type": "spacing"
-      },
-      "text-content-gap": {
-        "value": "{brk-opt-space.8}",
-        "type": "spacing"
-      }
-    }
-  },
-  "brk-info-product": {
-    "sm": {
       "heading": {
         "value": {
           "fontFamily": "{brk-opt-font-family.webfont}",
@@ -198,6 +174,14 @@
       }
     },
     "md": {
+      "content-gap": {
+        "value": "{brk-opt-space.12}",
+        "type": "spacing"
+      },
+      "text-content-gap": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      },
       "heading": {
         "value": {
           "fontFamily": "{brk-opt-font-family.webfont}",
@@ -221,6 +205,14 @@
       }
     },
     "lg": {
+      "content-gap": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing"
+      },
+      "text-content-gap": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      },
       "heading": {
         "value": {
           "fontFamily": "{brk-opt-font-family.webfont}",
@@ -243,6 +235,16 @@
         "type": "typography"
       }
     },
+    "font-family-heading": {
+      "value": "{brk-opt-font-family.webfont}",
+      "type": "fontFamilies"
+    },
+    "font-family-heading-body": {
+      "value": "{brk-opt-font-family.brand-main}",
+      "type": "fontFamilies"
+    }
+  },
+  "brk-info-product": {
     "separator-width": {
       "value": "{brk-opt-border-width.1}",
       "type": "borderWidth"
