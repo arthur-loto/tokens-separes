@@ -35,11 +35,6 @@
       "type": "color",
       "description": " "
     },
-    "975": {
-      "value": "hsl({brk-opt-color-neutral.hue}, {brk-opt-color-neutral.saturation}%, 2.5%)",
-      "type": "color",
-      "description": " "
-    },
     "transparent": {
       "value": "transparent",
       "type": "color",
@@ -832,7 +827,7 @@
       "description": " "
     }
   },
-  "brk-opt-color-doc": {
+  "brk-doc-color": {
     "main": {
       "value": "#7B61FF",
       "type": "color",
