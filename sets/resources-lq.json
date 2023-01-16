@@ -292,15 +292,15 @@
   },
   "brk-text-ratio": {
     "sm": {
-      "value": "{brk-opt-size-alt-unitless.120%}",
+      "value": "{brk-opt-size-ratio.120%}",
       "type": "sizing"
     },
     "md": {
-      "value": "{brk-opt-size-alt-unitless.124%}",
+      "value": "{brk-opt-size-ratio.124%}",
       "type": "sizing"
     },
     "lg": {
-      "value": "{brk-opt-size-alt-unitless.128%}",
+      "value": "{brk-opt-size-ratio.128%}",
       "type": "sizing"
     }
   },

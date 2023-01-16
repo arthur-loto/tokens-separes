@@ -66,20 +66,20 @@
   },
   "brk-button-primary": {
     "height": {
-      "value": "{brk-opt-size-ratio.27}",
+      "value": "{brk-opt-size-ratio.276%}",
       "type": "sizing"
     },
     "icon-size": {
-      "value": "{brk-opt-size-ratio.12}",
+      "value": "{brk-opt-size-ratio.123%}",
       "type": "sizing"
     },
     "padding-horizontal": {
-      "value": "{brk-opt-size-ratio.12}",
+      "value": "{brk-opt-size-ratio.123%}",
       "type": "spacing",
       "description": " "
     },
     "icon-gap": {
-      "value": "{brk-opt-size-ratio.06}",
+      "value": "{brk-opt-size-ratio.61%}",
       "type": "spacing"
     },
     "border-radius": {
@@ -257,20 +257,20 @@
   },
   "brk-button-secondary": {
     "padding-horizontal": {
-      "value": "{brk-opt-size-ratio.12}",
+      "value": "{brk-opt-size-ratio.123%}",
       "type": "spacing",
       "description": " "
     },
     "height": {
-      "value": "{brk-opt-size-ratio.27}",
+      "value": "{brk-opt-size-ratio.276%}",
       "type": "sizing"
     },
     "icon-size": {
-      "value": "{brk-opt-size-ratio.12}",
+      "value": "{brk-opt-size-ratio.123%}",
       "type": "sizing"
     },
     "icon-gap": {
-      "value": "{brk-opt-size-ratio.06}",
+      "value": "{brk-opt-size-ratio.61%}",
       "type": "spacing"
     },
     "border-radius": {
@@ -446,20 +446,20 @@
   },
   "brk-button-tertiary": {
     "padding-horizontal": {
-      "value": "{brk-opt-size-ratio.12}",
+      "value": "{brk-opt-size-ratio.123%}",
       "type": "spacing",
       "description": " "
     },
     "height": {
-      "value": "{brk-opt-size-ratio.27}",
+      "value": "{brk-opt-size-ratio.276%}",
       "type": "sizing"
     },
     "icon-size": {
-      "value": "{brk-opt-size-ratio.12}",
+      "value": "{brk-opt-size-ratio.123%}",
       "type": "sizing"
     },
     "icon-gap": {
-      "value": "{brk-opt-size-ratio.06}",
+      "value": "{brk-opt-size-ratio.61%}",
       "type": "spacing"
     },
     "border-radius": {
@@ -637,11 +637,11 @@
   },
   "brk-button-text": {
     "height": {
-      "value": "{brk-opt-size-ratio.12}",
+      "value": "{brk-opt-size-ratio.123%}",
       "type": "sizing"
     },
     "icon-size": {
-      "value": "{brk-opt-size-ratio.12}",
+      "value": "{brk-opt-size-ratio.123%}",
       "type": "sizing"
     },
     "padding-horizontal": {
@@ -650,7 +650,7 @@
       "description": " "
     },
     "icon-gap": {
-      "value": "{brk-opt-size-ratio.06}",
+      "value": "{brk-opt-size-ratio.61%}",
       "type": "spacing"
     },
     "border-radius": {
