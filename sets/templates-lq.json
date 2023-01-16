@@ -150,6 +150,14 @@
       "text-content-gap": {
         "value": "{brk-opt-space.4}",
         "type": "spacing"
+      },
+      "font-size-heading": {
+        "value": "{brk-opt-font-size.14}",
+        "type": "fontSizes"
+      },
+      "font-size-body": {
+        "value": "{brk-opt-font-size.16}",
+        "type": "fontSizes"
       }
     },
     "md": {
@@ -160,6 +168,14 @@
       "text-content-gap": {
         "value": "{brk-opt-space.8}",
         "type": "spacing"
+      },
+      "font-size-heading": {
+        "value": "{brk-product-details.sm.font-size-heading}+2px",
+        "type": "fontSizes"
+      },
+      "font-size-body": {
+        "value": "{brk-opt-font-size.20}",
+        "type": "fontSizes"
       }
     },
     "lg": {
@@ -170,6 +186,14 @@
       "text-content-gap": {
         "value": "{brk-opt-space.8}",
         "type": "spacing"
+      },
+      "font-size-heading": {
+        "value": "{brk-product-details.md.font-size-heading}+2px",
+        "type": "fontSizes"
+      },
+      "font-size-body": {
+        "value": "{brk-opt-font-size.24}",
+        "type": "fontSizes"
       }
     },
     "separator-width": {
@@ -184,9 +208,41 @@
       "value": "{brk-opt-font-family.webfont}",
       "type": "fontFamilies"
     },
-    "font-family-heading-body": {
+    "font-family-body": {
       "value": "{brk-opt-font-family.brand-main}",
       "type": "fontFamilies"
+    },
+    "font-weight-heading": {
+      "value": "{brk-opt-font-weight.400}",
+      "type": "fontWeights"
+    },
+    "font-weight-body": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "line-height-heading": {
+      "value": "{brk-opt-line-height.100%}",
+      "type": "lineHeights"
+    },
+    "line-height-body": {
+      "value": "{brk-opt-line-height.100%}",
+      "type": "lineHeights"
+    },
+    "letter-spacing-heading": {
+      "value": "{brk-opt-letter-spacing.-2%}",
+      "type": "letterSpacing"
+    },
+    "letter-spacing-body": {
+      "value": "{brk-opt-letter-spacing.-2%}",
+      "type": "letterSpacing"
+    },
+    "text-transform-heading": {
+      "value": "{brk-opt-text-transform.uppercase}",
+      "type": "textCase"
+    },
+    "text-transform-body": {
+      "value": "{brk-opt-text-transform.none}",
+      "type": "textCase"
     }
   },
   "brk-product-details-standard": {
