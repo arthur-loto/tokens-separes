@@ -192,6 +192,14 @@
         "type": "fontSizes"
       }
     },
+    "separator-width": {
+      "value": "{brk-opt-border-width.1}",
+      "type": "borderWidth"
+    },
+    "separator-height": {
+      "value": "{brk-opt-size-alt.100%}",
+      "type": "sizing"
+    },
     "font-family-heading": {
       "value": "{brk-opt-font-family.webfont}",
       "type": "fontFamilies"
@@ -233,17 +241,7 @@
       "type": "textCase"
     }
   },
-  "brk-info-product": {
-    "separator-width": {
-      "value": "{brk-opt-border-width.1}",
-      "type": "borderWidth"
-    },
-    "separator-height": {
-      "value": "{brk-opt-size-alt.100%}",
-      "type": "sizing"
-    }
-  },
-  "brk-info-product-standard": {
+  "brk-product-details-standard": {
     "heading-font-color": {
       "value": "{brk-opt-color-neutral.900}",
       "type": "color"
@@ -257,7 +255,7 @@
       "type": "color"
     }
   },
-  "brk-info-product-inverted": {
+  "brk-product-details-inverted": {
     "heading-font-color": {
       "value": "{brk-opt-color-neutral.900}",
       "type": "color"
