@@ -235,6 +235,14 @@
     "font-family-body": {
       "value": "{brk-opt-font-family.brand-main}",
       "type": "fontFamilies"
+    },
+    "font-weight-heading": {
+      "value": "{brk-opt-font-weight.400}",
+      "type": "fontWeights"
+    },
+    "font-weight-body": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
     }
   },
   "brk-info-product": {
