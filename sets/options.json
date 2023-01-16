@@ -217,48 +217,13 @@
     }
   },
   "brk-opt-font-size": {
-    "7": {
-      "value": "7px",
-      "type": "fontSizes",
-      "description": " "
-    },
-    "8": {
-      "value": "8px",
-      "type": "fontSizes",
-      "description": " "
-    },
-    "9": {
-      "value": "9px",
-      "type": "fontSizes",
-      "description": " "
-    },
-    "10": {
-      "value": "10px",
-      "type": "fontSizes",
-      "description": " "
-    },
-    "11": {
-      "value": "11px",
-      "type": "fontSizes",
-      "description": " "
-    },
     "12": {
       "value": "12px",
       "type": "fontSizes",
       "description": " "
     },
-    "13": {
-      "value": "13px",
-      "type": "fontSizes",
-      "description": "  "
-    },
     "14": {
       "value": "14px",
-      "type": "fontSizes",
-      "description": " "
-    },
-    "15": {
-      "value": "15px",
       "type": "fontSizes",
       "description": " "
     },
@@ -690,18 +655,6 @@
     },
     "4": {
       "value": "4px",
-      "type": "borderWidth",
-      "description": " "
-    }
-  },
-  "brk-opt-border-width-alt": {
-    "10%": {
-      "value": "0.1em",
-      "type": "borderWidth",
-      "description": " "
-    },
-    "12%": {
-      "value": "0.12em",
       "type": "borderWidth",
       "description": " "
     }
