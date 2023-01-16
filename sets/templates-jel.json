@@ -283,6 +283,14 @@
     "letter-spacing-body": {
       "value": "{brk-opt-letter-spacing.-2%}",
       "type": "letterSpacing"
+    },
+    "text-transform-heading": {
+      "value": "{brk-opt-text-transform.uppercase}",
+      "type": "textCase"
+    },
+    "text-transform-body": {
+      "value": "{brk-opt-text-transform.none}",
+      "type": "textCase"
     }
   },
   "brk-info-product": {
