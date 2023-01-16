@@ -629,11 +629,11 @@
   "brk-opt-box-shadow": {
     "none": {
       "value": {
-        "x": "0",
-        "y": "0",
-        "blur": "0",
-        "spread": "0",
-        "color": "#000000",
+        "x": "0px",
+        "y": "0px",
+        "blur": "0px",
+        "spread": "0px",
+        "color": "{brk-opt-color-neutral.900}",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -641,10 +641,10 @@
     },
     "blur-standard": {
       "value": {
-        "x": "0",
-        "y": "2",
-        "blur": "8",
-        "spread": "0",
+        "x": "0px",
+        "y": "2px",
+        "blur": "8px",
+        "spread": "0px",
         "color": "{brk-opt-color-neutral.100}",
         "type": "dropShadow"
       },
@@ -653,10 +653,10 @@
     },
     "blur-inverted": {
       "value": {
-        "x": "0",
-        "y": "2",
-        "blur": "8",
-        "spread": "0",
+        "x": "0px",
+        "y": "2px",
+        "blur": "8px",
+        "spread": "0px",
         "color": "{brk-opt-color-neutral.900}",
         "type": "dropShadow"
       },
