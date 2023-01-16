@@ -141,7 +141,7 @@
       "type": "color"
     }
   },
-  "brk-info-product": {
+  "brk-product-details": {
     "sm": {
       "content-gap": {
         "value": "{brk-opt-space.8}",
@@ -150,7 +150,31 @@
       "text-content-gap": {
         "value": "{brk-opt-space.4}",
         "type": "spacing"
+      }
+    },
+    "md": {
+      "content-gap": {
+        "value": "{brk-opt-space.12}",
+        "type": "spacing"
       },
+      "text-content-gap": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      }
+    },
+    "lg": {
+      "content-gap": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing"
+      },
+      "text-content-gap": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      }
+    }
+  },
+  "brk-info-product": {
+    "sm": {
       "heading": {
         "value": {
           "fontFamily": "{brk-opt-font-family.webfont}",
@@ -174,14 +198,6 @@
       }
     },
     "md": {
-      "content-gap": {
-        "value": "{brk-opt-space.12}",
-        "type": "spacing"
-      },
-      "text-content-gap": {
-        "value": "{brk-opt-space.8}",
-        "type": "spacing"
-      },
       "heading": {
         "value": {
           "fontFamily": "{brk-opt-font-family.webfont}",
@@ -205,14 +221,6 @@
       }
     },
     "lg": {
-      "content-gap": {
-        "value": "{brk-opt-space.24}",
-        "type": "spacing"
-      },
-      "text-content-gap": {
-        "value": "{brk-opt-space.8}",
-        "type": "spacing"
-      },
       "heading": {
         "value": {
           "fontFamily": "{brk-opt-font-family.webfont}",
