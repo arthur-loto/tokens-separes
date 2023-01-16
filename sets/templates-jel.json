@@ -267,6 +267,14 @@
     "font-weight-body": {
       "value": "{brk-opt-font-weight.700}",
       "type": "fontWeights"
+    },
+    "line-height-heading": {
+      "value": "{brk-opt-line-height.100%}",
+      "type": "lineHeights"
+    },
+    "line-height-body": {
+      "value": "{brk-opt-line-height.100%}",
+      "type": "lineHeights"
     }
   },
   "brk-info-product": {
