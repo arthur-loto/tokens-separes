@@ -470,6 +470,11 @@
       "type": "sizing",
       "description": " "
     },
+    "40%": {
+      "value": "40%",
+      "type": "sizing",
+      "description": " "
+    },
     "56,25%": {
       "value": "56.25%",
       "type": "sizing",
