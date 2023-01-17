@@ -137,7 +137,7 @@
       "type": "color"
     }
   },
-  "brk-info-product": {
+  "brk-product-details": {
     "sm": {
       "content-gap": {
         "value": "{brk-opt-space.8}",
@@ -147,25 +147,13 @@
         "value": "{brk-opt-space.4}",
         "type": "spacing"
       },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.11}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}"
-        },
-        "type": "typography"
+      "font-size-heading": {
+        "value": "{brk-opt-font-size.14}",
+        "type": "fontSizes"
       },
-      "body": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.13}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}"
-        },
-        "type": "typography"
+      "font-size-body": {
+        "value": "{brk-opt-font-size.16}",
+        "type": "fontSizes"
       }
     },
     "md": {
@@ -177,25 +165,13 @@
         "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.13}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}"
-        },
-        "type": "typography"
+      "font-size-heading": {
+        "value": "{brk-product-details.sm.font-size-heading}+2px",
+        "type": "fontSizes"
       },
-      "body": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.15}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}"
-        },
-        "type": "typography"
+      "font-size-body": {
+        "value": "{brk-opt-font-size.20}",
+        "type": "fontSizes"
       }
     },
     "lg": {
@@ -207,25 +183,13 @@
         "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.13}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}"
-        },
-        "type": "typography"
+      "font-size-heading": {
+        "value": "{brk-product-details.md.font-size-heading}+2px",
+        "type": "fontSizes"
       },
-      "body": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.15}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}"
-        },
-        "type": "typography"
+      "font-size-body": {
+        "value": "{brk-opt-font-size.24}",
+        "type": "fontSizes"
       }
     },
     "separator-width": {
@@ -235,9 +199,49 @@
     "separator-height": {
       "value": "{brk-opt-size-alt.100%}",
       "type": "sizing"
+    },
+    "font-family-heading": {
+      "value": "{brk-opt-font-family.webfont}",
+      "type": "fontFamilies"
+    },
+    "font-family-body": {
+      "value": "{brk-opt-font-family.brand-main}",
+      "type": "fontFamilies"
+    },
+    "font-weight-heading": {
+      "value": "{brk-opt-font-weight.400}",
+      "type": "fontWeights"
+    },
+    "font-weight-body": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "line-height-heading": {
+      "value": "{brk-opt-line-height.100%}",
+      "type": "lineHeights"
+    },
+    "line-height-body": {
+      "value": "{brk-opt-line-height.100%}",
+      "type": "lineHeights"
+    },
+    "letter-spacing-heading": {
+      "value": "{brk-opt-letter-spacing.-2%}",
+      "type": "letterSpacing"
+    },
+    "letter-spacing-body": {
+      "value": "{brk-opt-letter-spacing.-2%}",
+      "type": "letterSpacing"
+    },
+    "text-transform-heading": {
+      "value": "{brk-opt-text-transform.uppercase}",
+      "type": "textCase"
+    },
+    "text-transform-body": {
+      "value": "{brk-opt-text-transform.none}",
+      "type": "textCase"
     }
   },
-  "brk-info-product-standard": {
+  "brk-product-details-standard": {
     "heading-font-color": {
       "value": "{brk-opt-color-neutral.900}",
       "type": "color"
@@ -251,7 +255,7 @@
       "type": "color"
     }
   },
-  "brk-info-product-inverted": {
+  "brk-product-details-inverted": {
     "heading-font-color": {
       "value": "{brk-opt-color-neutral.900}",
       "type": "color"
