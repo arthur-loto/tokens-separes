@@ -845,7 +845,7 @@
   "brk-promo-primary": {
     "sm": {
       "image-height": {
-        "value": "{brk-opt-size.120}*2",
+        "value": "{brk-opt-size.8}*47",
         "type": "sizing",
         "description": "NOTE: à vérifier cette référence. Originalement était 245px."
       },
@@ -958,7 +958,7 @@
         "description": " "
       },
       "image-height": {
-        "value": "{brk-promo-primary.sm.image-height}+30px",
+        "value": "{brk-opt-size.8}*52",
         "type": "sizing",
         "description": " "
       },
@@ -1021,7 +1021,7 @@
     },
     "lg": {
       "image-height": {
-        "value": "{brk-promo-primary.md.image-height}+30px",
+        "value": "{brk-opt-size.8}*85",
         "type": "sizing",
         "description": " "
       },
@@ -1106,6 +1106,14 @@
         "type": "spacing",
         "description": " "
       }
+    },
+    "font-family-pretitle": {
+      "value": "{brk-button-secondary.font-family}",
+      "type": "fontFamilies"
+    },
+    "font-family-heading": {
+      "value": "{brk-button-secondary.font-family}",
+      "type": "fontFamilies"
     }
   },
   "brk-promo-primary-standard": {
@@ -1449,7 +1457,7 @@
   "brk-promo-tertiary": {
     "sm": {
       "image-height": {
-        "value": "{brk-opt-size.8}*33",
+        "value": "{brk-opt-size.8}*47",
         "type": "sizing",
         "description": " "
       },
@@ -1528,7 +1536,7 @@
     },
     "md": {
       "image-height": {
-        "value": "{brk-promo-tertiary.sm.image-height}+6px",
+        "value": "{brk-opt-size.8}*52",
         "type": "sizing",
         "description": " "
       },
@@ -1607,7 +1615,7 @@
     },
     "lg": {
       "image-height": {
-        "value": "{brk-promo-tertiary.md.image-height}+30px",
+        "value": "{brk-opt-size.8}*85",
         "type": "sizing",
         "description": " "
       },
@@ -1683,6 +1691,14 @@
         "type": "typography",
         "description": " "
       }
+    },
+    "font-family-heading": {
+      "value": "{brk-button-tertiary.font-family}",
+      "type": "fontFamilies"
+    },
+    "font-family-pretitle": {
+      "value": "{brk-button-tertiary.font-family}",
+      "type": "fontFamilies"
     }
   },
   "brk-promo-tertiary-standard": {

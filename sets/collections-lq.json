@@ -667,7 +667,7 @@
         "type": "spacing"
       },
       "image-height": {
-        "value": "{brk-opt-size.12}*22",
+        "value": "{brk-opt-size.8}*47",
         "type": "sizing",
         "description": " "
       },
@@ -751,7 +751,7 @@
         "type": "spacing"
       },
       "image-height": {
-        "value": "{brk-promo-primary.sm.image-height}+6px",
+        "value": "{brk-opt-size.8}*52",
         "type": "sizing",
         "description": " NOTE À VLADA : à toi de vérifier si cette référence te convient ;)"
       },
@@ -835,7 +835,7 @@
         "type": "spacing"
       },
       "image-height": {
-        "value": "{brk-opt-size.12}*25",
+        "value": "{brk-opt-size.8}*85",
         "type": "sizing",
         "description": " "
       },
