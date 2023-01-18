@@ -261,7 +261,7 @@
   },
   "brk-product-details-inverted": {
     "heading-font-color": {
-      "value": "{brk-opt-color-neutral.900}",
+      "value": "{brk-opt-color-neutral.25}",
       "type": "color"
     },
     "body-font-color": {
