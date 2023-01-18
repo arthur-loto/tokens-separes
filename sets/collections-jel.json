@@ -870,64 +870,23 @@
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-space.12}",
         "type": "spacing",
         "description": " "
-      },
-      "pretitle": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.14}",
-          "letterSpacing": "{brk-opt-letter-spacing.0%}",
-          "paragraphSpacing": "",
-          "textDecoration": "{brk-opt-text-decoration.none}",
-          "textCase": "{brk-opt-text-transform.none}"
-        },
-        "type": "typography"
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.4}+2px",
-        "type": "spacing",
-        "description": " "
-      },
-      "body-margin-top": {
         "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
       },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.950}",
-          "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.28}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
-      },
-      "body": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.120%}",
-          "fontSize": "{brk-opt-font-size.16}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textDecoration": "{brk-opt-text-decoration.none}",
-          "textCase": "{brk-opt-text-transform.none}"
-        },
-        "type": "typography",
+      "body-margin-top": {
+        "value": "{brk-opt-space.12}",
+        "type": "spacing",
         "description": " "
       },
       "font-size-pretitle": {
@@ -945,22 +904,22 @@
     },
     "md": {
       "padding-horizontal": {
-        "value": "{brk-opt-space.20}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.20}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.4}+2px",
+        "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
       },
@@ -987,47 +946,6 @@
       "contente-max-width": {
         "value": "{brk-opt-size.64}*25",
         "type": "sizing",
-        "description": " "
-      },
-      "pretitle": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.14}",
-          "letterSpacing": "{brk-opt-letter-spacing.0%}",
-          "paragraphSpacing": "",
-          "textDecoration": "{brk-opt-text-decoration.none}",
-          "textCase": "{brk-opt-text-transform.none}"
-        },
-        "type": "typography"
-      },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.950}",
-          "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.28}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
-      },
-      "body": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.120%}",
-          "fontSize": "{brk-opt-font-size.16}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textDecoration": "{brk-opt-text-decoration.none}",
-          "textCase": "{brk-opt-text-transform.none}"
-        },
-        "type": "typography",
         "description": " "
       },
       "font-size-pretitle": {
@@ -1064,69 +982,28 @@
         "type": "sizing",
         "description": " "
       },
-      "pretitle": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.16}",
-          "letterSpacing": "{brk-opt-letter-spacing.0%}",
-          "paragraphSpacing": "",
-          "textDecoration": "{brk-opt-text-decoration.none}",
-          "textCase": "{brk-opt-text-transform.none}"
-        },
-        "type": "typography"
-      },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.950}",
-          "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.32}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
-      },
-      "body": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.120%}",
-          "fontSize": "{brk-opt-font-size.20}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textDecoration": "{brk-opt-text-decoration.none}",
-          "textCase": "{brk-opt-text-transform.none}"
-        },
-        "type": "typography",
-        "description": " "
-      },
       "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.4}+2px",
+        "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
       },
       "body-margin-top": {
-        "value": "{brk-opt-space.8}+2px",
+        "value": "{brk-opt-space.12}",
         "type": "spacing",
         "description": " "
       },
@@ -1612,7 +1489,7 @@
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
@@ -1627,40 +1504,13 @@
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-space.12}",
         "type": "spacing",
         "description": " "
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.4}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing",
-        "description": " "
-      },
-      "pretitle": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.14}",
-          "letterSpacing": "{brk-opt-letter-spacing.0%}",
-          "paragraphSpacing": "",
-          "textDecoration": "{brk-opt-text-decoration.none}",
-          "textCase": "{brk-opt-text-transform.none}"
-        },
-        "type": "typography"
-      },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.950}",
-          "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.28}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
         "description": " "
       },
       "font-size-pretitle": {
@@ -1694,12 +1544,12 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.20}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.20}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": " "
       },
@@ -1714,40 +1564,13 @@
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.4}+2px",
+        "value": "{brk-opt-space.8}",
         "type": "spacing",
-        "description": " "
-      },
-      "pretitle": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.14}",
-          "letterSpacing": "{brk-opt-letter-spacing.0%}",
-          "paragraphSpacing": "",
-          "textDecoration": "{brk-opt-text-decoration.none}",
-          "textCase": "{brk-opt-text-transform.none}"
-        },
-        "type": "typography"
-      },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.950}",
-          "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.28}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
         "description": " "
       },
       "font-size-pretitle": {
@@ -1781,12 +1604,12 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": " "
       },
@@ -1801,40 +1624,13 @@
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.4}+2px",
+        "value": "{brk-opt-space.8}",
         "type": "spacing",
-        "description": " "
-      },
-      "pretitle": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.16}",
-          "letterSpacing": "{brk-opt-letter-spacing.0%}",
-          "paragraphSpacing": "",
-          "textDecoration": "{brk-opt-text-decoration.none}",
-          "textCase": "{brk-opt-text-transform.none}"
-        },
-        "type": "typography"
-      },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.950}",
-          "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.32}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
         "description": " "
       },
       "font-size-pretitle": {

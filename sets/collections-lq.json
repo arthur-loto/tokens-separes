@@ -644,12 +644,12 @@
   "brk-promo-primary": {
     "sm": {
       "padding-horizontal": {
-        "value": "{brk-opt-space.8}+4px",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
@@ -659,58 +659,16 @@
         "description": " "
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.4}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
       "body-margin-top": {
-        "value": "{brk-opt-space.8}",
+        "value": "{brk-opt-space.12}",
         "type": "spacing"
       },
       "image-height": {
         "value": "{brk-opt-size.8}*47",
         "type": "sizing",
-        "description": " "
-      },
-      "pretitle": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-font-size.14}",
-          "fontSize": "{brk-opt-font-size.14}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.uppercase}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
-      },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.24}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
-      },
-      "body": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.115%}",
-          "fontSize": "{brk-opt-font-size.14}",
-          "letterSpacing": "{brk-opt-letter-spacing.0%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
         "description": " "
       },
       "gradient-height": {
@@ -755,59 +713,17 @@
         "description": " "
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.4} + 2px",
+        "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
       "body-margin-top": {
-        "value": "{brk-opt-space.8}",
+        "value": "{brk-opt-space.12}",
         "type": "spacing"
       },
       "image-height": {
         "value": "{brk-opt-size.8}*52",
         "type": "sizing",
         "description": " NOTE À VLADA : à toi de vérifier si cette référence te convient ;)"
-      },
-      "pretitle": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-font-size.14}",
-          "fontSize": "{brk-opt-font-size.14}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.uppercase}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
-      },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.32}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
-      },
-      "body": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.115%}",
-          "fontSize": "{brk-opt-font-size.20}",
-          "letterSpacing": "{brk-opt-letter-spacing.2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
       },
       "gradient-height": {
         "value": "{brk-promo-primary.md.image-height}/4",
@@ -851,58 +767,16 @@
         "description": " "
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.8}+2px",
+        "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
       "body-margin-top": {
-        "value": "{brk-opt-space.8}+2px",
+        "value": "{brk-opt-space.12}",
         "type": "spacing"
       },
       "image-height": {
         "value": "{brk-opt-size.8}*85",
         "type": "sizing",
-        "description": " "
-      },
-      "pretitle": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-font-size.14}",
-          "fontSize": "{brk-opt-font-size.14}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.uppercase}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": "NOTE : pour le spré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
-      },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.36}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
-      },
-      "body": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.115%}",
-          "fontSize": "{brk-opt-font-size.24}",
-          "letterSpacing": "{brk-opt-letter-spacing.2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
         "description": " "
       },
       "gradient-height": {
@@ -928,75 +802,6 @@
       "font-size-body": {
         "value": "{brk-opt-font-size.24}",
         "type": "fontSizes"
-      }
-    },
-    "xl": {
-      "pretitle": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.14}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.uppercase}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
-      },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.48}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
-      },
-      "body": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.115%}",
-          "fontSize": "{brk-opt-font-size.24}",
-          "letterSpacing": "{brk-opt-letter-spacing.2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
-      }
-    },
-    "2xl": {
-      "padding-horizontal": {
-        "value": "{brk-opt-space.32}",
-        "type": "spacing",
-        "description": " "
-      },
-      "padding-vertical": {
-        "value": "{brk-opt-space.32}",
-        "type": "spacing",
-        "description": " "
-      },
-      "content-gap": {
-        "value": "{brk-opt-space.16}",
-        "type": "spacing",
-        "description": " "
-      },
-      "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.4}",
-        "type": "spacing"
-      },
-      "body-margin-top": {
-        "value": "{brk-opt-space.12}",
-        "type": "spacing"
       }
     },
     "font-family-pretitle": {
@@ -1232,7 +1037,7 @@
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.12}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
@@ -1435,51 +1240,23 @@
   },
   "brk-promo-tertiary": {
     "sm": {
-      "pretitle": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.14}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.uppercase}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
-      },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.24}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
-      },
       "padding-horizontal": {
-        "value": "{brk-opt-space.8}+2px",
-        "type": "spacing",
-        "description": " "
-      },
-      "padding-vertical": {
         "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
+      "padding-vertical": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": " "
+      },
       "frame-padding-horizontal": {
-        "value": "{brk-opt-space.8}+2px",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
       "frame-padding-vertical": {
-        "value": "{brk-opt-space.8}+2",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
@@ -1489,7 +1266,7 @@
         "description": " "
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.4}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
       "image-height": {
@@ -1520,60 +1297,32 @@
     },
     "md": {
       "padding-horizontal": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": " "
       },
       "frame-padding-horizontal": {
-        "value": "{brk-opt-space.12}",
+        "value": "{brk-opt-space.20}",
         "type": "spacing",
         "description": " "
       },
       "frame-padding-vertical": {
-        "value": "{brk-opt-space.12}",
+        "value": "{brk-opt-space.20}",
         "type": "spacing",
         "description": " "
       },
-      "pretitle": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.14}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.uppercase}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
-      },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.32}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
-      },
       "content-gap": {
-        "value": "{brk-opt-space.8}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.4}+2px",
+        "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
       "image-height": {
@@ -1604,12 +1353,12 @@
     },
     "lg": {
       "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": " "
       },
@@ -1623,41 +1372,13 @@
         "type": "spacing",
         "description": " "
       },
-      "pretitle": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.14}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.uppercase}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": "NOTE : pour le spré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
-      },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.36}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
-      },
       "content-gap": {
-        "value": "{brk-opt-space.8}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.4}+2px",
+        "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
       "image-height": {
@@ -1684,36 +1405,6 @@
       "font-size-heading": {
         "value": "{brk-opt-font-size.44}",
         "type": "fontSizes"
-      }
-    },
-    "xl": {
-      "pretitle": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.brand-main}",
-          "fontWeight": "{brk-opt-font-weight.700}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.14}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.uppercase}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
-      },
-      "heading": {
-        "value": {
-          "fontFamily": "{brk-opt-font-family.webfont}",
-          "fontWeight": "{brk-opt-font-weight.400}",
-          "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.48}",
-          "letterSpacing": "{brk-opt-letter-spacing.-2%}",
-          "paragraphSpacing": "",
-          "textCase": "{brk-opt-text-transform.none}",
-          "textDecoration": "{brk-opt-text-decoration.none}"
-        },
-        "type": "typography",
-        "description": " "
       }
     },
     "font-family-pretitle": {
