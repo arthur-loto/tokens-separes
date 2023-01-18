@@ -662,10 +662,6 @@
         "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
-      "body-margin-top": {
-        "value": "{brk-opt-space.12}",
-        "type": "spacing"
-      },
       "image-height": {
         "value": "{brk-opt-size.8}*47",
         "type": "sizing",
@@ -694,6 +690,18 @@
       "font-size-body": {
         "value": "{brk-opt-font-size.20}",
         "type": "fontSizes"
+      },
+      "frame-padding-vertical": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing"
+      },
+      "frame-padding-horizontal": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing"
+      },
+      "body-margin-top": {
+        "value": "{brk-opt-space.12}",
+        "type": "spacing"
       }
     },
     "md": {
@@ -714,6 +722,14 @@
       },
       "pretitle-margin-bottom": {
         "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      },
+      "frame-padding-horizontal": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing"
+      },
+      "frame-padding-vertical": {
+        "value": "{brk-opt-space.0}",
         "type": "spacing"
       },
       "body-margin-top": {
@@ -768,6 +784,14 @@
       },
       "pretitle-margin-bottom": {
         "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      },
+      "frame-padding-horizontal": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing"
+      },
+      "frame-padding-vertical": {
+        "value": "{brk-opt-space.0}",
         "type": "spacing"
       },
       "body-margin-top": {
@@ -875,21 +899,25 @@
     "text-decoration-body": {
       "value": "{brk-opt-text-decoration.none}",
       "type": "textDecoration"
+    },
+    "body-display": {
+      "value": "{brk-opt-display.block}",
+      "type": "other"
     }
   },
   "brk-promo-primary-standard": {
     "heading-font-color": {
-      "value": "{brk-opt-color-lq-main.500}",
+      "value": "{brk-opt-color-lq-main.900}",
       "type": "color",
       "description": " "
     },
     "pretitle-font-color": {
-      "value": "{brk-opt-color-lq-main.728}",
+      "value": "{brk-opt-color-lq-main.900}",
       "type": "color",
       "description": " "
     },
     "body-font-color": {
-      "value": "{brk-opt-color-lq-main.728}",
+      "value": "{brk-opt-color-lq-main.900}",
       "type": "color",
       "description": " "
     },
@@ -926,7 +954,7 @@
       "description": " "
     },
     "pretitle-font-color": {
-      "value": "{brk-opt-color-jel.third}",
+      "value": "{brk-opt-color-neutral.0}",
       "type": "color",
       "description": " "
     },
@@ -980,6 +1008,18 @@
       },
       "pretitle-margin-bottom": {
         "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      },
+      "frame-padding-horizontal": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing"
+      },
+      "frame-padding-vertical": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing"
+      },
+      "body-margin-top": {
+        "value": "{brk-opt-space.12}",
         "type": "spacing"
       },
       "image-height": {
@@ -1045,6 +1085,20 @@
         "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
+      "frame-padding-horizontal": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing",
+        "description": " "
+      },
+      "frame-padding-vertical": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing",
+        "description": " "
+      },
+      "body-margin-top": {
+        "value": "{brk-opt-space.12}",
+        "type": "spacing"
+      },
       "font-size-pretitle": {
         "value": "{brk-opt-font-size.20}",
         "type": "fontSizes"
@@ -1093,6 +1147,20 @@
         "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
+      "frame-padding-horizontal": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing",
+        "description": " "
+      },
+      "frame-padding-vertical": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing",
+        "description": " "
+      },
+      "body-margin-top": {
+        "value": "{brk-opt-space.12}",
+        "type": "spacing"
+      },
       "font-size-pretitle": {
         "value": "{brk-opt-font-size.20}",
         "type": "fontSizes"
@@ -1118,11 +1186,23 @@
       "value": "{brk-opt-font-family.brand-main}",
       "type": "fontFamilies"
     },
+    "body-font-family": {
+      "value": "{brk-opt-display.none}",
+      "type": "fontFamilies"
+    },
+    "body-display": {
+      "value": "{brk-opt-display.block}",
+      "type": "other"
+    },
     "letter-spacing-pretitle": {
       "value": "{brk-opt-letter-spacing.0%}",
       "type": "letterSpacing"
     },
     "letter-spacing-heading": {
+      "value": "{brk-opt-letter-spacing.0%}",
+      "type": "letterSpacing"
+    },
+    "letter-spacing-body": {
       "value": "{brk-opt-letter-spacing.0%}",
       "type": "letterSpacing"
     },
@@ -1250,6 +1330,15 @@
         "type": "spacing",
         "description": " "
       },
+      "content-gap": {
+        "value": "{brk-opt-space.12}",
+        "type": "spacing",
+        "description": " "
+      },
+      "pretitle-margin-bottom": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      },
       "frame-padding-horizontal": {
         "value": "{brk-opt-space.16}",
         "type": "spacing",
@@ -1260,14 +1349,10 @@
         "type": "spacing",
         "description": " "
       },
-      "content-gap": {
+      "body-margin-top": {
         "value": "{brk-opt-space.12}",
         "type": "spacing",
         "description": " "
-      },
-      "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.8}",
-        "type": "spacing"
       },
       "image-height": {
         "value": "{brk-opt-size.8}*47",
@@ -1306,6 +1391,15 @@
         "type": "spacing",
         "description": " "
       },
+      "content-gap": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": " "
+      },
+      "pretitle-margin-bottom": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      },
       "frame-padding-horizontal": {
         "value": "{brk-opt-space.20}",
         "type": "spacing",
@@ -1316,14 +1410,10 @@
         "type": "spacing",
         "description": " "
       },
-      "content-gap": {
-        "value": "{brk-opt-space.16}",
+      "body-margin-top": {
+        "value": "{brk-opt-space.12}",
         "type": "spacing",
         "description": " "
-      },
-      "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.8}",
-        "type": "spacing"
       },
       "image-height": {
         "value": "{brk-opt-size.8}*52",
@@ -1362,16 +1452,6 @@
         "type": "spacing",
         "description": " "
       },
-      "frame-padding-horizontal": {
-        "value": "{brk-opt-space.20}",
-        "type": "spacing",
-        "description": " "
-      },
-      "frame-padding-vertical": {
-        "value": "{brk-opt-space.20}",
-        "type": "spacing",
-        "description": " "
-      },
       "content-gap": {
         "value": "{brk-opt-space.24}",
         "type": "spacing",
@@ -1379,6 +1459,20 @@
       },
       "pretitle-margin-bottom": {
         "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      },
+      "frame-padding-vertical": {
+        "value": "{brk-opt-space.20}",
+        "type": "spacing",
+        "description": " "
+      },
+      "frame-padding-horizontal": {
+        "value": "{brk-opt-space.20}",
+        "type": "spacing",
+        "description": " "
+      },
+      "body-margin-top": {
+        "value": "{brk-opt-space.12}",
         "type": "spacing"
       },
       "image-height": {
@@ -1454,6 +1548,10 @@
     "text-decoration-heading": {
       "value": "{brk-opt-text-decoration.none}",
       "type": "textDecoration"
+    },
+    "body-display": {
+      "value": "{brk-opt-display.block}",
+      "type": "other"
     }
   },
   "brk-promo-tertiary-standard": {
@@ -1468,7 +1566,7 @@
       "description": " "
     },
     "body-font-color": {
-      "value": "{brk-opt-color-lq-main.728}",
+      "value": "{brk-opt-color-lq-main.900}",
       "type": "color",
       "description": " "
     },

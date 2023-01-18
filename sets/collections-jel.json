@@ -884,11 +884,6 @@
         "type": "spacing",
         "description": " "
       },
-      "body-margin-top": {
-        "value": "{brk-opt-space.12}",
-        "type": "spacing",
-        "description": " "
-      },
       "font-size-pretitle": {
         "value": "{brk-opt-font-size.16}",
         "type": "fontSizes"
@@ -900,6 +895,21 @@
       "font-size-body": {
         "value": "{brk-opt-font-size.20}",
         "type": "fontSizes"
+      },
+      "frame-padding-vertical": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing",
+        "description": " "
+      },
+      "frame-padding-horizontal": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing",
+        "description": " "
+      },
+      "body-margin-top": {
+        "value": "{brk-opt-space.12}",
+        "type": "spacing",
+        "description": " "
       }
     },
     "md": {
@@ -920,11 +930,6 @@
       },
       "pretitle-margin-bottom": {
         "value": "{brk-opt-space.8}",
-        "type": "spacing",
-        "description": " "
-      },
-      "body-margin-top": {
-        "value": "{brk-opt-space.12}",
         "type": "spacing",
         "description": " "
       },
@@ -959,6 +964,21 @@
       "font-size-body": {
         "value": "{brk-opt-font-size.24}",
         "type": "fontSizes"
+      },
+      "frame-padding-vertical": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing",
+        "description": " "
+      },
+      "frame-padding-horizontal": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing",
+        "description": " "
+      },
+      "body-margin-top": {
+        "value": "{brk-opt-space.12}",
+        "type": "spacing",
+        "description": " "
       }
     },
     "lg": {
@@ -1002,11 +1022,6 @@
         "type": "spacing",
         "description": " "
       },
-      "body-margin-top": {
-        "value": "{brk-opt-space.12}",
-        "type": "spacing",
-        "description": " "
-      },
       "font-size-pretitle": {
         "value": "{brk-opt-font-size.20}",
         "type": "fontSizes"
@@ -1018,6 +1033,21 @@
       "font-size-body": {
         "value": "{brk-opt-font-size.24}",
         "type": "fontSizes"
+      },
+      "frame-padding-vertical": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing",
+        "description": " "
+      },
+      "frame-padding-horizontal": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing",
+        "description": " "
+      },
+      "body-margin-top": {
+        "value": "{brk-opt-space.12}",
+        "type": "spacing",
+        "description": " "
       }
     },
     "font-family-pretitle": {
@@ -1226,6 +1256,21 @@
       "font-size-heading": {
         "value": "{brk-opt-font-size.28}",
         "type": "fontSizes"
+      },
+      "frame-padding-vertical": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing",
+        "description": " "
+      },
+      "frame-padding-horizontal": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing",
+        "description": " "
+      },
+      "body-margin-top": {
+        "value": "{brk-opt-space.12}",
+        "type": "spacing",
+        "description": " "
       }
     },
     "md": {
@@ -1276,6 +1321,21 @@
       "font-size-heading": {
         "value": "{brk-opt-font-size.32}",
         "type": "fontSizes"
+      },
+      "frame-padding-vertical": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing",
+        "description": " "
+      },
+      "frame-padding-horizontal": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing",
+        "description": " "
+      },
+      "body-margin-top": {
+        "value": "{brk-opt-space.12}",
+        "type": "spacing",
+        "description": " "
       }
     },
     "lg": {
@@ -1326,6 +1386,21 @@
       "font-size-heading": {
         "value": "{brk-opt-font-size.40}",
         "type": "fontSizes"
+      },
+      "frame-padding-vertical": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing",
+        "description": " "
+      },
+      "frame-padding-horizontal": {
+        "value": "{brk-opt-space.0}",
+        "type": "spacing",
+        "description": " "
+      },
+      "body-margin-top": {
+        "value": "{brk-opt-space.12}",
+        "type": "spacing",
+        "description": " "
       }
     },
     "font-family-pretitle": {
@@ -1493,16 +1568,6 @@
         "type": "spacing",
         "description": " "
       },
-      "frame-padding-horizontal": {
-        "value": "{brk-opt-space.16}",
-        "type": "spacing",
-        "description": " "
-      },
-      "frame-padding-vertical": {
-        "value": "{brk-opt-space.16}",
-        "type": "spacing",
-        "description": " "
-      },
       "content-gap": {
         "value": "{brk-opt-space.12}",
         "type": "spacing",
@@ -1510,6 +1575,16 @@
       },
       "pretitle-margin-bottom": {
         "value": "{brk-opt-space.8}",
+        "type": "spacing",
+        "description": " "
+      },
+      "frame-padding-horizontal": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": " "
+      },
+      "frame-padding-vertical": {
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
@@ -1553,8 +1628,13 @@
         "type": "spacing",
         "description": " "
       },
-      "frame-padding-horizontal": {
-        "value": "{brk-opt-space.20}",
+      "content-gap": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": " "
+      },
+      "pretitle-margin-bottom": {
+        "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
       },
@@ -1563,13 +1643,8 @@
         "type": "spacing",
         "description": " "
       },
-      "content-gap": {
-        "value": "{brk-opt-space.24}",
-        "type": "spacing",
-        "description": " "
-      },
-      "pretitle-margin-bottom": {
-        "value": "{brk-opt-space.8}",
+      "frame-padding-horizontal": {
+        "value": "{brk-opt-space.20}",
         "type": "spacing",
         "description": " "
       },
@@ -1613,16 +1688,6 @@
         "type": "spacing",
         "description": " "
       },
-      "frame-padding-horizontal": {
-        "value": "{brk-opt-space.20}",
-        "type": "spacing",
-        "description": " "
-      },
-      "frame-padding-vertical": {
-        "value": "{brk-opt-space.20}",
-        "type": "spacing",
-        "description": " "
-      },
       "content-gap": {
         "value": "{brk-opt-space.24}",
         "type": "spacing",
@@ -1630,6 +1695,16 @@
       },
       "pretitle-margin-bottom": {
         "value": "{brk-opt-space.8}",
+        "type": "spacing",
+        "description": " "
+      },
+      "frame-padding-horizontal": {
+        "value": "{brk-opt-space.20}",
+        "type": "spacing",
+        "description": " "
+      },
+      "frame-padding-vertical": {
+        "value": "{brk-opt-space.20}",
         "type": "spacing",
         "description": " "
       },
