@@ -1444,7 +1444,7 @@
         "description": " "
       },
       "gradient-height": {
-        "value": "{brk-promo-secondary.sm.image-height}/4",
+        "value": "{brk-promo-tertiary.sm.image-height}/4",
         "type": "sizing",
         "description": " "
       },
@@ -1508,7 +1508,7 @@
         "description": " "
       },
       "gradient-height": {
-        "value": "{brk-promo-secondary.md.image-height}/4",
+        "value": "{brk-promo-tertiary.md.image-height}/4",
         "type": "sizing",
         "description": " "
       },
@@ -1533,7 +1533,7 @@
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": " "
       },
@@ -1572,7 +1572,7 @@
         "description": " "
       },
       "gradient-height": {
-        "value": "{brk-promo-secondary.lg.image-height}/4",
+        "value": "{brk-promo-tertiary.lg.image-height}/4",
         "type": "sizing",
         "description": " "
       },
