@@ -247,7 +247,7 @@
   },
   "brk-product-details-standard": {
     "heading-font-color": {
-      "value": "{brk-opt-color-neutral.900}",
+      "value": "{brk-opt-color-lq-main.600}",
       "type": "color"
     },
     "body-font-color": {
@@ -255,21 +255,21 @@
       "type": "color"
     },
     "separator-color": {
-      "value": "{brk-opt-color-neutral.100}",
+      "value": "{brk-opt-color-lq-main.100}",
       "type": "color"
     }
   },
   "brk-product-details-inverted": {
     "heading-font-color": {
-      "value": "{brk-opt-color-neutral.900}",
+      "value": "{brk-opt-color-lq-main.50}",
       "type": "color"
     },
     "body-font-color": {
-      "value": "{brk-opt-color-lq-main.800}",
+      "value": "{brk-opt-color-lq-main.200}",
       "type": "color"
     },
     "separator-color": {
-      "value": "{brk-opt-color-neutral.100}",
+      "value": "{brk-opt-color-lq-main.500}",
       "type": "color"
     }
   },
