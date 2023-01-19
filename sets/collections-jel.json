@@ -1181,11 +1181,11 @@
         "type": "spacing",
         "description": " "
       },
-      "font-size-pretitle": {
+      "pretitle-font-size": {
         "value": "{brk-opt-font-size.16}",
         "type": "fontSizes"
       },
-      "font-size-heading": {
+      "heading-font-size": {
         "value": "{brk-opt-font-size.28}",
         "type": "fontSizes"
       },
@@ -1250,11 +1250,11 @@
         "type": "spacing",
         "description": " "
       },
-      "font-size-pretitle": {
+      "pretitle-font-size": {
         "value": "{brk-opt-font-size.20}",
         "type": "fontSizes"
       },
-      "font-size-heading": {
+      "heading-font-size": {
         "value": "{brk-opt-font-size.32}",
         "type": "fontSizes"
       },
@@ -1319,11 +1319,11 @@
         "type": "spacing",
         "description": " "
       },
-      "font-size-pretitle": {
+      "pretitle-font-size": {
         "value": "{brk-opt-font-size.20}",
         "type": "fontSizes"
       },
-      "font-size-heading": {
+      "heading-font-size": {
         "value": "{brk-opt-font-size.40}",
         "type": "fontSizes"
       },
