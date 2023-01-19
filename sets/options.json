@@ -387,6 +387,11 @@
     }
   },
   "brk-opt-size": {
+    "0": {
+      "value": "0px",
+      "type": "sizing",
+      "description": " "
+    },
     "2": {
       "value": "2px",
       "type": "sizing",
@@ -467,6 +472,11 @@
   "brk-opt-size-alt": {
     "50%": {
       "value": "50%",
+      "type": "sizing",
+      "description": " "
+    },
+    "40%": {
+      "value": "40%",
       "type": "sizing",
       "description": " "
     },
@@ -665,6 +675,11 @@
     }
   },
   "brk-opt-space": {
+    "0": {
+      "value": "0px",
+      "type": "spacing",
+      "description": " "
+    },
     "2": {
       "value": "2px",
       "type": "spacing",
@@ -876,6 +891,16 @@
     },
     "inside": {
       "value": "inside",
+      "type": "other"
+    }
+  },
+  "brk-opt-display": {
+    "block": {
+      "value": "block",
+      "type": "other"
+    },
+    "none": {
+      "value": "none",
       "type": "other"
     }
   }
