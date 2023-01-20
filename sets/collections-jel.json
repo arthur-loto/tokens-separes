@@ -2381,5 +2381,40 @@
       "type": "color",
       "description": " "
     }
+  },
+  "brk-card-high-density-list-title": {
+    "sm": {
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.130%}",
+          "fontSize": "{brk-opt-font-size.24}"
+        },
+        "type": "typography"
+      }
+    },
+    "md": {
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.130%}",
+          "fontSize": "{brk-opt-font-size.32}"
+        },
+        "type": "typography"
+      }
+    },
+    "lg": {
+      "heading": {
+        "value": {
+          "fontFamily": "{brk-opt-font-family.brand-main}",
+          "fontWeight": "{brk-opt-font-weight.700}",
+          "lineHeight": "{brk-opt-line-height.130%}",
+          "fontSize": "{brk-opt-font-size.40}"
+        },
+        "type": "typography"
+      }
+    }
   }
 }
