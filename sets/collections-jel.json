@@ -815,7 +815,7 @@
       "description": " "
     },
     "primary-border-width": {
-      "value": "{brk-card-hero.border-width}",
+      "value": "{brk-opt-border-width.0}",
       "type": "borderWidth",
       "description": " "
     },
@@ -825,7 +825,7 @@
       "description": " "
     },
     "tertiary-border-width": {
-      "value": "{brk-card-hero.border-width}",
+      "value": "{brk-opt-border-width.0}",
       "type": "borderWidth",
       "description": " "
     },
