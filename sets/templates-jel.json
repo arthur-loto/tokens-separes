@@ -133,7 +133,7 @@
   },
   "brk-header-main-inverted": {
     "background-color": {
-      "value": "{brk-opt-color-jel.main}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color"
     }
   },
