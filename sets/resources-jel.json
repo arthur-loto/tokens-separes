@@ -224,11 +224,11 @@
       "type": "color"
     },
     "heading-1-font-color": {
-      "value": "{brk-opt-color-lq-main.728}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color"
     },
     "heading-2-font-color": {
-      "value": "{brk-opt-color-lq-main.728}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color"
     },
     "heading-3-font-color": {
@@ -262,11 +262,11 @@
       "type": "color"
     },
     "heading-1-font-color": {
-      "value": "{brk-opt-color-jel.second}",
+      "value": "{brk-opt-color-neutral.0}",
       "type": "color"
     },
     "heading-2-font-color": {
-      "value": "{brk-opt-color-jel.second}",
+      "value": "{brk-opt-color-neutral.0}",
       "type": "color"
     },
     "heading-3-font-color": {
