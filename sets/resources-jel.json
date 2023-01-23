@@ -232,7 +232,7 @@
       "type": "color"
     },
     "heading-3-font-color": {
-      "value": "{brk-opt-color-lq-main.728}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color"
     },
     "body-base-font-color": {
@@ -270,7 +270,7 @@
       "type": "color"
     },
     "heading-3-font-color": {
-      "value": "{brk-opt-color-jel.second}",
+      "value": "{brk-opt-color-neutral.0}",
       "type": "color"
     },
     "body-base-font-color": {

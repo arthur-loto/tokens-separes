@@ -127,7 +127,7 @@
   },
   "brk-header-main-standard": {
     "background-color": {
-      "value": "{brk-opt-color-jel.third}",
+      "value": "{brk-opt-color-neutral.100}",
       "type": "color"
     }
   },
