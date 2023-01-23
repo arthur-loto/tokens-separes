@@ -228,15 +228,15 @@
       "type": "color"
     },
     "heading-1-font-color": {
-      "value": "{brk-opt-color-lq-main.400}",
+      "value": "{brk-opt-color-lq-main.900}",
       "type": "color"
     },
     "heading-2-font-color": {
-      "value": "{brk-opt-color-lq-main.400}",
+      "value": "{brk-opt-color-lq-main.900}",
       "type": "color"
     },
     "heading-3-font-color": {
-      "value": "{brk-opt-color-lq-main.400}",
+      "value": "{brk-opt-color-lq-main.900}",
       "type": "color"
     },
     "body-base": {
