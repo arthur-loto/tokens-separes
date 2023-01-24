@@ -884,16 +884,6 @@
       "type": "other"
     }
   },
-  "brk-opt-list-style-position": {
-    "outside": {
-      "value": "outside",
-      "type": "other"
-    },
-    "inside": {
-      "value": "inside",
-      "type": "other"
-    }
-  },
   "brk-opt-display": {
     "block": {
       "value": "block",

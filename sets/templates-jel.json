@@ -127,13 +127,21 @@
   },
   "brk-header-main-standard": {
     "background-color": {
-      "value": "{brk-opt-color-jel.third}",
+      "value": "{brk-opt-color-neutral.100}",
+      "type": "color"
+    },
+    "icon-fill": {
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color"
     }
   },
   "brk-header-main-inverted": {
     "background-color": {
-      "value": "{brk-opt-color-jel.main}",
+      "value": "{brk-opt-color-neutral.900}",
+      "type": "color"
+    },
+    "icon-fill": {
+      "value": "{brk-opt-color-neutral.0}",
       "type": "color"
     }
   },
