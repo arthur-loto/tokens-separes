@@ -725,6 +725,11 @@
       "type": "spacing",
       "description": " "
     },
+    "36": {
+      "value": "32px",
+      "type": "spacing",
+      "description": " "
+    },
     "40": {
       "value": "40px",
       "type": "spacing",
