@@ -360,7 +360,7 @@
       "margin-bottom": {
         "value": "{brk-opt-space.64}",
         "type": "spacing",
-        "description": "NOTE : Correspond à la marge à mettre dans le bas du template."
+        "description": "NOTE : Correspond à la marge à mettre dans le bas du template groupe de contenus."
       }
     }
   },
