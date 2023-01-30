@@ -161,27 +161,27 @@
         "description": "NOTE : pour le spré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
       },
       "image-height": {
-        "value": "{brk-opt-size.8}*67",
+        "value": "{brk-opt-size.8}*65",
         "type": "sizing",
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": " "
       },
       "heading-margin-vertical": {
-        "value": "{brk-opt-space.8}",
+        "value": "{brk-opt-space.12}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le bouton de la carte en format large."
       },
@@ -313,14 +313,14 @@
     },
     "md": {
       "height": {
-        "value": "{brk-opt-size.8}*11",
+        "value": "{brk-opt-size.8}*10",
         "type": "sizing",
         "description": " "
       }
     },
     "lg": {
       "height": {
-        "value": "{brk-card-secondary-info.sm.height}*2",
+        "value": "{brk-opt-size.8}*14",
         "type": "sizing",
         "description": " "
       }
@@ -417,22 +417,22 @@
         "description": " "
       },
       "amount-digit-height": {
-        "value": "{brk-opt-size.40}",
+        "value": "{brk-opt-size.32}",
         "type": "sizing",
         "description": " "
       },
       "amount-digit-width": {
-        "value": "{brk-opt-size.24}",
+        "value": "{brk-opt-size.20}",
         "type": "sizing",
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.20}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.20}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format moyen."
       },
@@ -453,7 +453,7 @@
           "fontFamily": "{brk-opt-font-family.brand-main}",
           "fontWeight": "{brk-opt-font-weight.700}",
           "lineHeight": "{brk-opt-line-height.110%}",
-          "fontSize": "{brk-opt-font-size.32}",
+          "fontSize": "{brk-opt-font-size.24}",
           "letterSpacing": "{brk-opt-letter-spacing.-2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.none}",
@@ -467,7 +467,7 @@
           "fontFamily": "{brk-opt-font-family.webfont}",
           "fontWeight": "{brk-opt-font-weight.700}",
           "lineHeight": "{brk-opt-line-height.100%}",
-          "fontSize": "{brk-opt-font-size.32}",
+          "fontSize": "{brk-opt-font-size.24}",
           "letterSpacing": "{brk-opt-letter-spacing.2%}",
           "paragraphSpacing": "",
           "textCase": "{brk-opt-text-transform.none}",
@@ -477,22 +477,22 @@
         "description": " "
       },
       "amount-digit-height": {
-        "value": "{brk-opt-size.56}",
+        "value": "{brk-opt-size.40}",
         "type": "sizing",
         "description": " "
       },
       "amount-digit-width": {
-        "value": "{brk-opt-size.32}",
+        "value": "{brk-opt-size.28}",
         "type": "sizing",
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.32}",
+        "value": "{brk-opt-space.28}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.32}",
+        "value": "{brk-opt-space.28}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format large."
       },
