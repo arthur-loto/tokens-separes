@@ -320,7 +320,7 @@
     },
     "lg": {
       "height": {
-        "value": "{brk-opt-size.8}*14",
+        "value": "{brk-opt-size.8}*12",
         "type": "sizing",
         "description": " "
       }
@@ -382,7 +382,7 @@
         "description": " "
       },
       "amount-group-margin": {
-        "value": "{brk-opt-space.4}",
+        "value": "{brk-opt-space.2}+4px",
         "type": "spacing",
         "description": " "
       }
@@ -482,7 +482,7 @@
         "description": " "
       },
       "amount-digit-width": {
-        "value": "{brk-opt-size.28}",
+        "value": "{brk-opt-size.24}",
         "type": "sizing",
         "description": " "
       },
@@ -497,12 +497,12 @@
         "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format large."
       },
       "amount-digit-margin": {
-        "value": "{brk-opt-space.8}",
+        "value": "{brk-opt-space.4}+2px",
         "type": "spacing",
         "description": " "
       },
       "amount-group-margin": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-space.12}",
         "type": "spacing",
         "description": " "
       }
