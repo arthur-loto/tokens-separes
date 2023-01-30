@@ -23,7 +23,7 @@
         "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
       },
       "image-height": {
-        "value": "{brk-opt-size.32}*10",
+        "value": "{brk-opt-size.32}*8",
         "type": "sizing",
         "description": " "
       },
