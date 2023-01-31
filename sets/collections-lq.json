@@ -332,6 +332,18 @@
     "body-text-case": {
       "value": "{brk-opt-text-transform.none}",
       "type": "textCase"
+    },
+    "pretitle-text-decoration": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "heading-text-decoration": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "body-text-decoration": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
     }
   },
   "brk-card-hero-standard": {
@@ -697,6 +709,14 @@
     "body-text-case": {
       "value": "{brk-opt-text-transform.none}",
       "type": "textCase"
+    },
+    "heading-text-decoration": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "body-text-decoration": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
     }
   },
   "brk-card-secondary-info-jackpot-standard": {
@@ -2585,6 +2605,14 @@
     "body-text-case": {
       "value": "{brk-opt-text-transform.none}",
       "type": "textCase"
+    },
+    "heading-text-decoration": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "body-text-decoration": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
     }
   },
   "brk-card-secondary-info-text-standard": {
