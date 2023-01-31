@@ -74,6 +74,18 @@
         },
         "type": "typography",
         "description": " "
+      },
+      "pretitle-font-size": {
+        "value": "{brk-opt-font-size.16}",
+        "type": "fontSizes"
+      },
+      "heading-font-size": {
+        "value": "{brk-opt-font-size.24}",
+        "type": "fontSizes"
+      },
+      "body-font-size": {
+        "value": "{brk-opt-font-size.16}",
+        "type": "fontSizes"
       }
     },
     "md": {
@@ -143,6 +155,18 @@
         },
         "type": "typography",
         "description": " "
+      },
+      "pretitle-font-size": {
+        "value": "{brk-opt-font-size.20}",
+        "type": "fontSizes"
+      },
+      "heading-font-size": {
+        "value": "{brk-opt-font-size.28}",
+        "type": "fontSizes"
+      },
+      "body-font-size": {
+        "value": "{brk-opt-font-size.20}",
+        "type": "fontSizes"
       }
     },
     "lg": {
@@ -212,6 +236,18 @@
         },
         "type": "typography",
         "description": " "
+      },
+      "pretitle-font-size": {
+        "value": "{brk-opt-font-size.24}",
+        "type": "fontSizes"
+      },
+      "heading-font-size": {
+        "value": "{brk-opt-font-size.32}",
+        "type": "fontSizes"
+      },
+      "body-font-size": {
+        "value": "{brk-opt-font-size.24}",
+        "type": "fontSizes"
       }
     },
     "border-width": {
@@ -247,6 +283,18 @@
     "body-font-weight": {
       "value": "{brk-opt-font-weight.400}",
       "type": "fontWeights"
+    },
+    "pretitle-line-height": {
+      "value": "{brk-opt-line-height.110%}",
+      "type": "lineHeights"
+    },
+    "heading-line-height": {
+      "value": "{brk-opt-line-height.120%}",
+      "type": "lineHeights"
+    },
+    "body-line-height": {
+      "value": "{brk-opt-line-height.120%}",
+      "type": "lineHeights"
     }
   },
   "brk-card-hero-standard": {
@@ -556,6 +604,18 @@
     "body-font-weight": {
       "value": "{brk-opt-font-weight.700}",
       "type": "fontWeights"
+    },
+    "pretitle-line-height": {
+      "value": "{brk-opt-line-height.110%}",
+      "type": "lineHeights"
+    },
+    "heading-line-height": {
+      "value": "{brk-opt-line-height.120%}",
+      "type": "lineHeights"
+    },
+    "body-line-height": {
+      "value": "{brk-opt-line-height.120%}",
+      "type": "lineHeights"
     }
   },
   "brk-card-secondary-info-jackpot-standard": {
@@ -2454,6 +2514,70 @@
     "standard-gradient-color": {
       "value": "linear-gradient(180deg, {brk-promo-secondary-standard.background-color}00 0%, {brk-promo-secondary-standard.background-color} 100%)",
       "type": "color"
+    }
+  },
+  "brk-secondary-info-jackpot": {
+    "sm": {
+      "heading-font-size": {
+        "value": "{brk-opt-font-size.16}",
+        "type": "fontSizes"
+      },
+      "body-font-size": {
+        "value": "{brk-opt-font-size.16}",
+        "type": "fontSizes"
+      }
+    },
+    "md": {
+      "heading-font-size": {
+        "value": "{brk-opt-font-size.20}",
+        "type": "fontSizes"
+      },
+      "body-font-size": {
+        "value": "{brk-opt-font-size.20}",
+        "type": "fontSizes"
+      }
+    },
+    "lg": {
+      "heading-font-size": {
+        "value": "{brk-opt-font-size.24}",
+        "type": "fontSizes"
+      },
+      "body-font-size": {
+        "value": "{brk-opt-font-size.24}",
+        "type": "fontSizes"
+      }
+    }
+  },
+  "brk-secondary-info-text": {
+    "sm": {
+      "heading-font-size": {
+        "value": "{brk-opt-font-size.20}",
+        "type": "fontSizes"
+      },
+      "body-font-size": {
+        "value": "{brk-opt-font-size.16}",
+        "type": "fontSizes"
+      }
+    },
+    "md": {
+      "heading-font-size": {
+        "value": "{brk-opt-font-size.28}",
+        "type": "fontSizes"
+      },
+      "body-font-size": {
+        "value": "{brk-opt-font-size.20}",
+        "type": "fontSizes"
+      }
+    },
+    "lg": {
+      "heading-font-size": {
+        "value": "{brk-opt-font-size.28}",
+        "type": "fontSizes"
+      },
+      "body-font-size": {
+        "value": "{brk-opt-font-size.24}",
+        "type": "fontSizes"
+      }
     }
   }
 }
