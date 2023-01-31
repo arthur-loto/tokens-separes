@@ -75,6 +75,11 @@
         "type": "typography",
         "description": " "
       },
+      "pretitle-line-height": {
+        "value": "{brk-card-hero.sm.pretitle-font-size}",
+        "type": "lineHeights",
+        "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code."
+      },
       "pretitle-font-size": {
         "value": "{brk-opt-font-size.16}",
         "type": "fontSizes"
@@ -156,9 +161,15 @@
         "type": "typography",
         "description": " "
       },
+      "pretitle-line-height": {
+        "value": "{brk-card-hero.md.pretitle-font-size}",
+        "type": "lineHeights",
+        "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code."
+      },
       "pretitle-font-size": {
         "value": "{brk-opt-font-size.20}",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code."
       },
       "heading-font-size": {
         "value": "{brk-opt-font-size.28}",
@@ -237,9 +248,15 @@
         "type": "typography",
         "description": " "
       },
+      "pretitle-line-height": {
+        "value": "{brk-card-hero.lg.pretitle-font-size}",
+        "type": "lineHeights",
+        "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code."
+      },
       "pretitle-font-size": {
         "value": "{brk-opt-font-size.24}",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code."
       },
       "heading-font-size": {
         "value": "{brk-opt-font-size.32}",
@@ -284,10 +301,6 @@
       "value": "{brk-opt-font-weight.400}",
       "type": "fontWeights"
     },
-    "pretitle-line-height": {
-      "value": "{brk-opt-line-height.110%}",
-      "type": "lineHeights"
-    },
     "heading-line-height": {
       "value": "{brk-opt-line-height.120%}",
       "type": "lineHeights"
@@ -295,6 +308,30 @@
     "body-line-height": {
       "value": "{brk-opt-line-height.120%}",
       "type": "lineHeights"
+    },
+    "pretitle-letter-spacing": {
+      "value": "{brk-opt-letter-spacing.0%}",
+      "type": "letterSpacing"
+    },
+    "heading-letter-spacing": {
+      "value": "{brk-opt-letter-spacing.-2%}",
+      "type": "letterSpacing"
+    },
+    "body-letter-spacing": {
+      "value": "{brk-opt-letter-spacing.0%}",
+      "type": "letterSpacing"
+    },
+    "pretitle-text-case": {
+      "value": "{brk-opt-text-transform.none}",
+      "type": "textCase"
+    },
+    "heading-text-case": {
+      "value": "{brk-opt-text-transform.none}",
+      "type": "textCase"
+    },
+    "body-text-case": {
+      "value": "{brk-opt-text-transform.none}",
+      "type": "textCase"
     }
   },
   "brk-card-hero-standard": {
@@ -457,6 +494,14 @@
         "value": "{brk-opt-space.2}+4px",
         "type": "spacing",
         "description": " "
+      },
+      "heading-font-size": {
+        "value": "{brk-opt-font-size.16}",
+        "type": "fontSizes"
+      },
+      "body-font-size": {
+        "value": "{brk-opt-font-size.16}",
+        "type": "fontSizes"
       }
     },
     "md": {
@@ -517,6 +562,18 @@
         "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
+      },
+      "heading-font-size": {
+        "value": "{brk-opt-font-size.20}",
+        "type": "fontSizes"
+      },
+      "body-font-size": {
+        "value": "{brk-opt-font-size.20}",
+        "type": "fontSizes"
+      },
+      "pretitle-font-size": {
+        "value": "{brk-opt-font-size.20}",
+        "type": "fontSizes"
       }
     },
     "lg": {
@@ -577,6 +634,18 @@
         "value": "{brk-opt-space.8}+2px",
         "type": "spacing",
         "description": " "
+      },
+      "heading-font-size": {
+        "value": "{brk-opt-font-size.24}",
+        "type": "fontSizes"
+      },
+      "body-font-size": {
+        "value": "{brk-opt-font-size.24}",
+        "type": "fontSizes"
+      },
+      "pretitle-font-size": {
+        "value": "{brk-opt-font-size.24}",
+        "type": "fontSizes"
       }
     },
     "amount-digit-border-radius": {
@@ -605,10 +674,6 @@
       "value": "{brk-opt-font-weight.700}",
       "type": "fontWeights"
     },
-    "pretitle-line-height": {
-      "value": "{brk-opt-line-height.110%}",
-      "type": "lineHeights"
-    },
     "heading-line-height": {
       "value": "{brk-opt-line-height.120%}",
       "type": "lineHeights"
@@ -616,6 +681,22 @@
     "body-line-height": {
       "value": "{brk-opt-line-height.120%}",
       "type": "lineHeights"
+    },
+    "heading-letter-spacing": {
+      "value": "{brk-opt-letter-spacing.-2%}",
+      "type": "letterSpacing"
+    },
+    "body-letter-spacing": {
+      "value": "{brk-opt-letter-spacing.0%}",
+      "type": "letterSpacing"
+    },
+    "heading-text-case": {
+      "value": "{brk-opt-text-transform.none}",
+      "type": "textCase"
+    },
+    "body-text-case": {
+      "value": "{brk-opt-text-transform.none}",
+      "type": "textCase"
     }
   },
   "brk-card-secondary-info-jackpot-standard": {
@@ -2361,6 +2442,14 @@
         },
         "type": "typography",
         "description": " "
+      },
+      "heading-font-size": {
+        "value": "{brk-opt-font-size.20}",
+        "type": "fontSizes"
+      },
+      "body-font-size": {
+        "value": "{brk-opt-font-size.16}",
+        "type": "fontSizes"
       }
     },
     "md": {
@@ -2400,6 +2489,14 @@
         },
         "type": "typography",
         "description": " "
+      },
+      "heading-font-size": {
+        "value": "{brk-opt-font-size.28}",
+        "type": "fontSizes"
+      },
+      "body-font-size": {
+        "value": "{brk-opt-font-size.20}",
+        "type": "fontSizes"
       }
     },
     "lg": {
@@ -2439,6 +2536,14 @@
         },
         "type": "typography",
         "description": " "
+      },
+      "heading-font-size": {
+        "value": "{brk-opt-font-size.28}",
+        "type": "fontSizes"
+      },
+      "body-font-size": {
+        "value": "{brk-opt-font-size.24}",
+        "type": "fontSizes"
       }
     },
     "heading-font-family": {
@@ -2456,6 +2561,30 @@
     "body-font-weight": {
       "value": "{brk-opt-font-weight.700}",
       "type": "fontWeights"
+    },
+    "heading-line-height": {
+      "value": "{brk-opt-line-height.120%}",
+      "type": "lineHeights"
+    },
+    "body-line-height": {
+      "value": "{brk-opt-line-height.120%}",
+      "type": "lineHeights"
+    },
+    "heading-letter-spacing": {
+      "value": "{brk-opt-letter-spacing.-2%}",
+      "type": "letterSpacing"
+    },
+    "body-letter-spacing": {
+      "value": "{brk-opt-letter-spacing.0%}",
+      "type": "letterSpacing"
+    },
+    "heading-text-case": {
+      "value": "{brk-opt-text-transform.none}",
+      "type": "textCase"
+    },
+    "body-text-case": {
+      "value": "{brk-opt-text-transform.none}",
+      "type": "textCase"
     }
   },
   "brk-card-secondary-info-text-standard": {
@@ -2514,70 +2643,6 @@
     "standard-gradient-color": {
       "value": "linear-gradient(180deg, {brk-promo-secondary-standard.background-color}00 0%, {brk-promo-secondary-standard.background-color} 100%)",
       "type": "color"
-    }
-  },
-  "brk-secondary-info-jackpot": {
-    "sm": {
-      "heading-font-size": {
-        "value": "{brk-opt-font-size.16}",
-        "type": "fontSizes"
-      },
-      "body-font-size": {
-        "value": "{brk-opt-font-size.16}",
-        "type": "fontSizes"
-      }
-    },
-    "md": {
-      "heading-font-size": {
-        "value": "{brk-opt-font-size.20}",
-        "type": "fontSizes"
-      },
-      "body-font-size": {
-        "value": "{brk-opt-font-size.20}",
-        "type": "fontSizes"
-      }
-    },
-    "lg": {
-      "heading-font-size": {
-        "value": "{brk-opt-font-size.24}",
-        "type": "fontSizes"
-      },
-      "body-font-size": {
-        "value": "{brk-opt-font-size.24}",
-        "type": "fontSizes"
-      }
-    }
-  },
-  "brk-secondary-info-text": {
-    "sm": {
-      "heading-font-size": {
-        "value": "{brk-opt-font-size.20}",
-        "type": "fontSizes"
-      },
-      "body-font-size": {
-        "value": "{brk-opt-font-size.16}",
-        "type": "fontSizes"
-      }
-    },
-    "md": {
-      "heading-font-size": {
-        "value": "{brk-opt-font-size.28}",
-        "type": "fontSizes"
-      },
-      "body-font-size": {
-        "value": "{brk-opt-font-size.20}",
-        "type": "fontSizes"
-      }
-    },
-    "lg": {
-      "heading-font-size": {
-        "value": "{brk-opt-font-size.28}",
-        "type": "fontSizes"
-      },
-      "body-font-size": {
-        "value": "{brk-opt-font-size.24}",
-        "type": "fontSizes"
-      }
     }
   }
 }
