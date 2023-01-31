@@ -136,11 +136,6 @@
       "type": "fontFamilies",
       "description": "NOTE :  Police à privilégier pour toutes les marques Loto-Québec."
     },
-    "brand-alt-moj": {
-      "value": "Roboto Condensed",
-      "type": "fontFamilies",
-      "description": "NOTE :  Police à utiliser pour la marque Mise-o-jeu"
-    },
     "webfont": {
       "value": "Arial",
       "type": "fontFamilies",

@@ -2270,7 +2270,7 @@
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.8}",
+        "value": "{brk-opt-space.4}+2px",
         "type": "spacing"
       },
       "heading": {
@@ -2309,7 +2309,7 @@
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.12}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
       "heading": {
