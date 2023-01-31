@@ -323,12 +323,12 @@
   },
   "brk-button-secondary-standard": {
     "font-color-default": {
-      "value": "{brk-opt-color-lq-main.728}",
+      "value": "{brk-opt-color-lq-main.900}",
       "type": "color",
       "description": " "
     },
     "icon-fill-default": {
-      "value": "{brk-opt-color-lq-main.728}",
+      "value": "{brk-opt-color-lq-main.900}",
       "type": "color",
       "description": " "
     },
@@ -338,27 +338,27 @@
       "description": " "
     },
     "border-color-default": {
-      "value": "{brk-opt-color-lq-main.728}",
+      "value": "{brk-opt-color-lq-main.900}",
       "type": "color",
       "description": " "
     },
     "font-color-hover": {
-      "value": "{brk-opt-color-lq-main.600}",
+      "value": "{brk-opt-color-neutral.0}",
       "type": "color",
       "description": " "
     },
     "icon-fill-hover": {
-      "value": "{brk-opt-color-lq-main.600}",
+      "value": "{brk-opt-color-neutral.0}",
       "type": "color",
       "description": " "
     },
     "background-color-hover": {
-      "value": "{brk-opt-color-lq-main.50}",
+      "value": "{brk-opt-color-lq-main.900}",
       "type": "color",
       "description": " "
     },
     "border-color-hover": {
-      "value": "{brk-opt-color-lq-main.600}",
+      "value": "{brk-opt-color-lq-main.900}",
       "type": "color",
       "description": " "
     },
