@@ -223,6 +223,30 @@
       "value": "{brk-opt-border-radius.4}",
       "type": "borderRadius",
       "description": " "
+    },
+    "pretitle-font-family": {
+      "value": "{brk-opt-font-family.webfont}",
+      "type": "fontFamilies"
+    },
+    "heading-font-family": {
+      "value": "{brk-opt-font-family.brand-main}",
+      "type": "fontFamilies"
+    },
+    "body-font-family": {
+      "value": "{brk-opt-font-family.webfont}",
+      "type": "fontFamilies"
+    },
+    "pretitle-font-weight": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "heading-font-weight": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "body-font-weight": {
+      "value": "{brk-opt-font-weight.400}",
+      "type": "fontWeights"
     }
   },
   "brk-card-hero-standard": {
@@ -516,6 +540,22 @@
       "value": "{brk-opt-border-width.0}",
       "type": "borderWidth",
       "description": " "
+    },
+    "heading-font-family": {
+      "value": "{brk-opt-font-family.brand-main}",
+      "type": "fontFamilies"
+    },
+    "body-font-family": {
+      "value": "{brk-opt-font-family.webfont}",
+      "type": "fontFamilies"
+    },
+    "heading-font-weight": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "body-font-weight": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
     }
   },
   "brk-card-secondary-info-jackpot-standard": {
@@ -2340,6 +2380,22 @@
         "type": "typography",
         "description": " "
       }
+    },
+    "heading-font-family": {
+      "value": "{brk-opt-font-family.brand-main}",
+      "type": "fontFamilies"
+    },
+    "body-font-family": {
+      "value": "{brk-opt-font-family.webfont}",
+      "type": "fontFamilies"
+    },
+    "heading-font-weight": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "body-font-weight": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
     }
   },
   "brk-card-secondary-info-text-standard": {
