@@ -174,11 +174,11 @@
       "type": "fontWeights"
     },
     "heading-line-height": {
-      "value": "{brk-opt-line-height.120%}",
+      "value": "{brk-opt-line-height.100%}",
       "type": "lineHeights"
     },
     "body-line-height": {
-      "value": "{brk-opt-line-height.120%}",
+      "value": "{brk-opt-line-height.100%}",
       "type": "lineHeights"
     },
     "pretitle-letter-spacing": {
