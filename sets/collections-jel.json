@@ -23,7 +23,7 @@
         "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
       },
       "image-height": {
-        "value": "{brk-opt-size.8}*41",
+        "value": "{brk-opt-size.8}*40",
         "type": "sizing",
         "description": " "
       },
@@ -92,7 +92,7 @@
         "description": "NOTE : pour le pré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
       },
       "image-height": {
-        "value": "{brk-opt-size.8}*50",
+        "value": "{brk-opt-size.8}*51",
         "type": "sizing",
         "description": " "
       },
@@ -161,7 +161,7 @@
         "description": "NOTE : pour le spré-titre de la carte héros, il faut toujours utiliser le token \"font-size\" pour le \"line-height\". Ceci est important surtout pour les cas dans lesquels on n'aura pas de sous-titre, car cela permet de réserver cet espace du côté code. À noter que même si cette option n'est pas disponible dans le menu déroulant, on peut copier et coller l'information d'une caisse à l'autre."
       },
       "image-height": {
-        "value": "{brk-opt-size.8}*67",
+        "value": "{brk-opt-size.8}*65",
         "type": "sizing",
         "description": " "
       },
@@ -309,14 +309,14 @@
     },
     "md": {
       "height": {
-        "value": "{brk-card-secondary-info.sm.height}*1.5",
+        "value": "{brk-opt-size.8}*10",
         "type": "sizing",
         "description": " "
       }
     },
     "lg": {
       "height": {
-        "value": "{brk-card-secondary-info.sm.height}*2",
+        "value": "{brk-opt-size.8}*12",
         "type": "sizing",
         "description": " "
       }
@@ -413,12 +413,12 @@
         "description": " "
       },
       "amount-digit-height": {
-        "value": "{brk-opt-size.40}",
+        "value": "{brk-opt-size.32}+4px",
         "type": "sizing",
         "description": " "
       },
       "amount-digit-width": {
-        "value": "{brk-opt-size.24}",
+        "value": "{brk-opt-size.20}",
         "type": "sizing",
         "description": " "
       },
@@ -473,12 +473,12 @@
         "description": " "
       },
       "amount-digit-height": {
-        "value": "{brk-opt-size.56}",
+        "value": "{brk-opt-size.40}+2px",
         "type": "sizing",
         "description": " "
       },
       "amount-digit-width": {
-        "value": "{brk-opt-size.32}",
+        "value": "{brk-opt-size.24}",
         "type": "sizing",
         "description": " "
       },
@@ -593,7 +593,7 @@
     },
     "md": {
       "logo-height": {
-        "value": "{brk-opt-size.72}",
+        "value": "{brk-opt-size.64}",
         "type": "sizing",
         "description": " "
       },
@@ -605,7 +605,7 @@
     },
     "lg": {
       "logo-height": {
-        "value": "{brk-opt-size.96}",
+        "value": "{brk-opt-size.72}",
         "type": "sizing",
         "description": " "
       },
