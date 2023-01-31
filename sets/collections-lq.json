@@ -97,22 +97,22 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.20}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.20}",
         "type": "spacing",
         "description": " "
       },
       "heading-margin-vertical": {
-        "value": "{brk-opt-space.8}",
+        "value": "{brk-opt-space.4}+2px",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.20}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le bouton de la carte en format moyen."
       },
@@ -166,22 +166,22 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.32}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.32}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "heading-margin-vertical": {
-        "value": "{brk-opt-space.12}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.32}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le bouton de la carte en format large."
       },
@@ -417,7 +417,7 @@
         "description": " "
       },
       "amount-digit-height": {
-        "value": "{brk-opt-size.32}",
+        "value": "{brk-opt-size.32}+4px",
         "type": "sizing",
         "description": " "
       },
@@ -437,7 +437,7 @@
         "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format moyen."
       },
       "amount-digit-margin": {
-        "value": "{brk-opt-space.4}",
+        "value": "{brk-opt-space.2}+1px",
         "type": "spacing",
         "description": " "
       },
@@ -477,7 +477,7 @@
         "description": " "
       },
       "amount-digit-height": {
-        "value": "{brk-opt-size.40}",
+        "value": "{brk-opt-size.40}+2px",
         "type": "sizing",
         "description": " "
       },
@@ -487,22 +487,22 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.28}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.28}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format large."
       },
       "amount-digit-margin": {
-        "value": "{brk-opt-space.4}+2px",
+        "value": "{brk-opt-space.4}",
         "type": "spacing",
         "description": " "
       },
       "amount-group-margin": {
-        "value": "{brk-opt-space.12}",
+        "value": "{brk-opt-space.8}+2px",
         "type": "spacing",
         "description": " "
       }
@@ -2200,24 +2200,24 @@
     },
     "md": {
       "logo-height": {
-        "value": "{brk-opt-size.72}",
+        "value": "{brk-opt-size.64}",
         "type": "sizing",
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.20}",
         "type": "spacing",
         "description": " "
       }
     },
     "lg": {
       "logo-height": {
-        "value": "{brk-opt-size.96}",
+        "value": "{brk-opt-size.72}",
         "type": "sizing",
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.32}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       }
@@ -2265,7 +2265,7 @@
     },
     "md": {
       "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.20}",
         "type": "spacing",
         "description": " "
       },
@@ -2304,12 +2304,12 @@
     },
     "lg": {
       "padding-horizontal": {
-        "value": "{brk-opt-space.32}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.16}",
+        "value": "{brk-opt-space.12}",
         "type": "spacing"
       },
       "heading": {
