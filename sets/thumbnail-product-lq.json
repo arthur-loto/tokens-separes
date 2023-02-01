@@ -1,0 +1,16 @@
+{
+  "brk-thumbnail-product": {
+    "image-width": {
+      "value": "{brk-opt-size-alt.100%}",
+      "type": "sizing"
+    },
+    "image-height": {
+      "value": "{brk-opt-size-alt.56,25%}",
+      "type": "sizing"
+    },
+    "content-gap": {
+      "value": "{brk-opt-space.16}",
+      "type": "spacing"
+    }
+  }
+}
