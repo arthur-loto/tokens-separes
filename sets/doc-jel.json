@@ -1,0 +1,19 @@
+{
+  "brk-doc": {
+    "standard-background-color": {
+      "value": "{brk-opt-color-neutral.50}",
+      "type": "color",
+      "description": " "
+    },
+    "inverted-background-color": {
+      "value": "{brk-opt-color-neutral.900}",
+      "type": "color",
+      "description": " "
+    },
+    "standard-template-color": {
+      "value": "{brk-opt-color-neutral.50}",
+      "type": "color",
+      "description": " "
+    }
+  }
+}
