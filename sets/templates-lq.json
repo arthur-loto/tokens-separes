@@ -315,7 +315,7 @@
     },
     "md": {
       "content-gap-horizontal": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": "NOTE : Correspond à l'espace horizontal entre les colonnes."
       },
@@ -342,7 +342,7 @@
     },
     "lg": {
       "content-gap-horizontal": {
-        "value": "{brk-opt-space.32}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": "NOTE : Correspond à l'espace horizontal entre les colonnes."
       },

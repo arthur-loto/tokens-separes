@@ -338,7 +338,7 @@
     },
     "lg": {
       "content-gap-horizontal": {
-        "value": "{brk-opt-space.32}",
+        "value": "{brk-opt-space.16}",
         "type": "spacing",
         "description": "NOTE : Correspond à l'espace horizontal entre les colonnes."
       },
@@ -360,7 +360,7 @@
       "margin-bottom": {
         "value": "{brk-opt-space.64}",
         "type": "spacing",
-        "description": "NOTE : Correspond à la marge à mettre dans le bas du template."
+        "description": "NOTE : Correspond à la marge à mettre dans le bas du template groupe de contenus."
       }
     }
   },
