@@ -1,0 +1,89 @@
+{
+  "brk-template": {
+    "sm": {
+      "content-gap-horizontal": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à l'espace horizontal entre les colonnes."
+      },
+      "content-gap-vertical": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à l'espace vertical entre les rangées."
+      },
+      "margin-horizontal": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à la marge minimale horizontale entre le viewport et le contenu."
+      },
+      "margin-top": {
+        "value": "{brk-opt-space.2}-2px",
+        "type": "spacing",
+        "description": "NOTE : Correspond à l'espace vertical en haut du template."
+      },
+      "margin-bottom": {
+        "value": "{brk-opt-space.40}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à la marge à mettre dans le bas du template."
+      }
+    },
+    "content-max-width": {
+      "value": "{brk-opt-size.64}*25",
+      "type": "sizing"
+    },
+    "md": {
+      "content-gap-horizontal": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à l'espace horizontal entre les colonnes."
+      },
+      "content-gap-vertical": {
+        "value": "{brk-opt-space.32}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à l'espace vertical entre les rangées."
+      },
+      "margin-horizontal": {
+        "value": "{brk-opt-space.24}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à la marge minimale horizontale entre le viewport et le contenu."
+      },
+      "margin-top": {
+        "value": "{brk-opt-space.2}-2px",
+        "type": "spacing",
+        "description": "NOTE : Correspond à l'espace vertical en haut du template."
+      },
+      "margin-bottom": {
+        "value": "{brk-opt-space.48}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à la marge à mettre dans le bas du template."
+      }
+    },
+    "lg": {
+      "content-gap-horizontal": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à l'espace horizontal entre les colonnes."
+      },
+      "content-gap-vertical": {
+        "value": "{brk-opt-space.40}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à l'espace vertical entre les rangées."
+      },
+      "margin-horizontal": {
+        "value": "{brk-opt-space.32}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à la marge minimale horizontale entre le viewport et le contenu."
+      },
+      "margin-top": {
+        "value": "{brk-opt-space.2}-2px",
+        "type": "spacing",
+        "description": "NOTE : Correspond à l'espace vertical en haut du template."
+      },
+      "margin-bottom": {
+        "value": "{brk-opt-space.64}",
+        "type": "spacing",
+        "description": "NOTE : Correspond à la marge à mettre dans le bas du template groupe de contenus."
+      }
+    }
+  }
+}
