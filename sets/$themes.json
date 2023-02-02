@@ -25,19 +25,19 @@
     "name": "JEL",
     "selectedTokenSets": {
       "options": "enabled",
-      "jel/doc-lq": "enabled",
-      "jel/accordion-lq": "enabled",
-      "jel/button-lq": "enabled",
-      "jel/card-hero-lq": "enabled",
-      "jel/card-high-density-lq": "enabled",
-      "jel/card-secondary-info-lq": "enabled",
-      "jel/header-lq": "enabled",
-      "jel/interactive-lq": "enabled",
-      "jel/product-details-lq": "enabled",
-      "jel/promo-lq": "enabled",
-      "jel/template-lq": "enabled",
-      "jel/text-lq": "enabled",
-      "jel/thumbnail-product-lq": "enabled"
+      "jel/doc-jel": "enabled",
+      "jel/accordion-jel": "enabled",
+      "jel/button-jel": "enabled",
+      "jel/card-hero-jel": "enabled",
+      "jel/card-high-density-jel": "enabled",
+      "jel/card-secondary-info-jel": "enabled",
+      "jel/header-jel": "enabled",
+      "jel/interactive-jel": "enabled",
+      "jel/product-details-jel": "enabled",
+      "jel/promo-jel": "enabled",
+      "jel/template-jel": "enabled",
+      "jel/text-jel": "enabled",
+      "jel/thumbnail-product-jel": "enabled"
     },
     "$figmaStyleReferences": {}
   }
