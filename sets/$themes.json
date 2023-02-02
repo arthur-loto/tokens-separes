@@ -3,7 +3,20 @@
     "id": "5ef267e97e3c9c989535ca77c1673f048571661b",
     "name": "LQ",
     "selectedTokenSets": {
-      "options": "enabled"
+      "options": "enabled",
+      "lq/doc-lq": "enabled",
+      "lq/accordion-lq": "enabled",
+      "lq/button-lq": "enabled",
+      "lq/card-hero-lq": "enabled",
+      "lq/card-high-density-lq": "enabled",
+      "lq/card-secondary-info-lq": "enabled",
+      "lq/header-lq": "enabled",
+      "lq/interactive-lq": "enabled",
+      "lq/product-details-lq": "enabled",
+      "lq/promo-lq": "enabled",
+      "lq/template-lq": "enabled",
+      "lq/text-lq": "enabled",
+      "lq/thumbnail-product-lq": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -12,9 +25,19 @@
     "name": "JEL",
     "selectedTokenSets": {
       "options": "enabled",
-      "jel/accordion-jel": "enabled",
-      "jel/button-jel": "enabled",
-      "jel/card-hero-jel": "enabled"
+      "jel/doc-lq": "enabled",
+      "jel/accordion-lq": "enabled",
+      "jel/button-lq": "enabled",
+      "jel/card-hero-lq": "enabled",
+      "jel/card-high-density-lq": "enabled",
+      "jel/card-secondary-info-lq": "enabled",
+      "jel/header-lq": "enabled",
+      "jel/interactive-lq": "enabled",
+      "jel/product-details-lq": "enabled",
+      "jel/promo-lq": "enabled",
+      "jel/template-lq": "enabled",
+      "jel/text-lq": "enabled",
+      "jel/thumbnail-product-lq": "enabled"
     },
     "$figmaStyleReferences": {}
   }
