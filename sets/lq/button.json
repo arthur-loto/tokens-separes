@@ -539,17 +539,17 @@
   },
   "brk-button-tertiary-inverted": {
     "font-color-default": {
-      "value": "{brk-opt-color-lq-main.728}",
+      "value": "{brk-opt-color-neutral.0}",
       "type": "color",
       "description": " "
     },
     "icon-fill-default": {
-      "value": "{brk-opt-color-lq-main.728}",
+      "value": "{brk-opt-color-neutral.0}",
       "type": "color",
       "description": " "
     },
     "background-color-default": {
-      "value": "{brk-opt-color-neutral.0}",
+      "value": "{brk-opt-color-lq-main.600}",
       "type": "color",
       "description": " "
     },
