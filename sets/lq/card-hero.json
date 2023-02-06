@@ -58,12 +58,12 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.20}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.20}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
@@ -73,7 +73,7 @@
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.20}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le bouton de la carte en format moyen."
       },
@@ -103,12 +103,12 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": " "
       },
       "padding-vertical": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": " "
       },
@@ -118,7 +118,7 @@
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le bouton de la carte en format large."
       },

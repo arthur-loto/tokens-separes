@@ -75,12 +75,12 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.20}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.20}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format moyen."
       },
@@ -115,12 +115,12 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": "NOTE: Séparation minimale entre les textes et le montant du gros lot en format large."
       },
@@ -286,7 +286,7 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.20}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       }
@@ -298,7 +298,7 @@
         "description": " "
       },
       "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": " "
       }
@@ -340,7 +340,7 @@
     },
     "md": {
       "padding-horizontal": {
-        "value": "{brk-opt-space.20}",
+        "value": "{brk-opt-space.24}",
         "type": "spacing",
         "description": " "
       },
@@ -359,7 +359,7 @@
     },
     "lg": {
       "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
+        "value": "{brk-opt-space.32}",
         "type": "spacing",
         "description": " "
       },
@@ -393,11 +393,11 @@
       "type": "fontWeights"
     },
     "heading-line-height": {
-      "value": "{brk-opt-line-height.100%}",
+      "value": "{brk-opt-line-height.120%}",
       "type": "lineHeights"
     },
     "body-line-height": {
-      "value": "{brk-opt-line-height.100%}",
+      "value": "{brk-opt-line-height.120%}",
       "type": "lineHeights"
     },
     "heading-letter-spacing": {
