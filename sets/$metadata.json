@@ -26,6 +26,7 @@
     "lq/promo",
     "lq/template",
     "lq/text",
-    "lq/thumbnail-product"
+    "lq/thumbnail-product",
+    "lq/menu-vertical"
   ]
 }

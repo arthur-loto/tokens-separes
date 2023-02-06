@@ -42,6 +42,10 @@
       "font-color-hover": {
         "value": "#000",
         "type": "color"
+      },
+      "background-color-hover": {
+        "value": "#eee",
+        "type": "color"
       }
     }
   }
