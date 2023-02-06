@@ -1,0 +1,48 @@
+{
+  "brk-menu-vertical-item": {
+    "height": {
+      "value": "40px",
+      "type": "sizing"
+    },
+    "padding-left": {
+      "value": "50px",
+      "type": "spacing"
+    },
+    "icon": {
+      "height": {
+        "value": "20px",
+        "type": "sizing"
+      },
+      "height-minimized": {
+        "value": "20px",
+        "type": "sizing"
+      }
+    },
+    "font-size": {
+      "value": "16px",
+      "type": "fontSizes"
+    },
+    "font-size-minimized": {
+      "value": "16px",
+      "type": "fontSizes"
+    },
+    "primary": {
+      "item": {
+        "font-weight": {
+          "value": "normal",
+          "type": "fontWeights"
+        }
+      }
+    },
+    "standard": {
+      "font-color": {
+        "value": "#000",
+        "type": "color"
+      },
+      "font-color-hover": {
+        "value": "#000",
+        "type": "color"
+      }
+    }
+  }
+}
