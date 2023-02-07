@@ -150,7 +150,7 @@
         "description": " "
       },
       "image-height": {
-        "value": "{brk-opt-size.8}*52",
+        "value": "{brk-opt-size.8}*32",
         "type": "sizing",
         "description": " "
       },
@@ -427,7 +427,7 @@
     },
     "md": {
       "image-height": {
-        "value": "{brk-opt-size.2}*161",
+        "value": "{brk-opt-size.8}*40",
         "type": "sizing",
         "description": " "
       },

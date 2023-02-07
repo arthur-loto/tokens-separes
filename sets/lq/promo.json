@@ -368,7 +368,7 @@
         "type": "spacing"
       },
       "image-height": {
-        "value": "{brk-opt-size.2}*130",
+        "value": "{brk-opt-size.8}*32",
         "type": "sizing",
         "description": " "
       },
@@ -399,7 +399,7 @@
         "type": "fontSizes"
       },
       "image-height": {
-        "value": "{brk-opt-size.2}*154",
+        "value": "{brk-opt-size.8}*40",
         "type": "sizing",
         "description": " "
       },
