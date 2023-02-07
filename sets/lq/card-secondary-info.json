@@ -272,11 +272,6 @@
         "value": "{brk-opt-size.48}",
         "type": "sizing",
         "description": " "
-      },
-      "padding-horizontal": {
-        "value": "{brk-opt-space.16}",
-        "type": "spacing",
-        "description": " "
       }
     },
     "md": {
@@ -284,22 +279,12 @@
         "value": "{brk-opt-size.64}",
         "type": "sizing",
         "description": " "
-      },
-      "padding-horizontal": {
-        "value": "{brk-opt-space.24}",
-        "type": "spacing",
-        "description": " "
       }
     },
     "lg": {
       "logo-height": {
         "value": "{brk-opt-size.72}",
         "type": "sizing",
-        "description": " "
-      },
-      "padding-horizontal": {
-        "value": "{brk-opt-space.32}",
-        "type": "spacing",
         "description": " "
       }
     }
