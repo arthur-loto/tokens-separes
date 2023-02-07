@@ -358,7 +358,7 @@
     },
     "sm": {
       "image-height": {
-        "value": "{brk-opt-size.2}*130",
+        "value": "{brk-opt-size.8}*32",
         "type": "sizing",
         "description": " "
       },
