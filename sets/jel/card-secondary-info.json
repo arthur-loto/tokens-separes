@@ -438,12 +438,12 @@
   },
   "brk-card-secondary-info-text-inverted": {
     "heading-font-color": {
-      "value": "{brk-opt-color-neutral.900}",
+      "value": "{brk-opt-color-neutral.50}",
       "type": "color",
       "description": " "
     },
     "body-font-color": {
-      "value": "{brk-opt-color-neutral.900}",
+      "value": "{brk-opt-color-neutral.100}",
       "type": "color",
       "description": " "
     },
@@ -453,7 +453,7 @@
       "description": " "
     },
     "background-color": {
-      "value": "{brk-opt-color-neutral.100}",
+      "value": "{brk-opt-color-neutral.675}",
       "type": "color",
       "description": " "
     }
