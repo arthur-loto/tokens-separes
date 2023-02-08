@@ -408,7 +408,7 @@
       "description": " "
     },
     "separator-color": {
-      "value": "{brk-opt-color-lq-main.50}",
+      "value": "{brk-opt-color-lq-main.100}",
       "type": "color"
     },
     "background-color": {
