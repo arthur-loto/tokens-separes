@@ -82,7 +82,7 @@
       "value": {
         "fontFamily": "{brk-opt-font-family.webfont}",
         "fontWeight": "{brk-opt-font-weight.400}",
-        "lineHeight": "{brk-opt-line-height.160%}",
+        "lineHeight": "{brk-opt-line-height.150%}",
         "fontSize": "{brk-opt-font-size.16}",
         "letterSpacing": "{brk-opt-letter-spacing.0%}",
         "paragraphSpacing": "{brk-opt-paragraph-spacing.100%}",
@@ -212,11 +212,7 @@
       "value": "{brk-opt-color-lq-main.900}",
       "type": "color"
     },
-    "body-base": {
-      "value": "{brk-opt-color-lq-main.900}",
-      "type": "color"
-    },
-    "body-2-font-color": {
+    "body-base-font-color": {
       "value": "{brk-opt-color-lq-main.900}",
       "type": "color"
     },
@@ -251,10 +247,6 @@
       "type": "color"
     },
     "body-base-font-color": {
-      "value": "{brk-opt-color-neutral.0}",
-      "type": "color"
-    },
-    "body-2-font-color": {
       "value": "{brk-opt-color-neutral.0}",
       "type": "color"
     },

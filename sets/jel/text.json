@@ -216,10 +216,6 @@
       "value": "{brk-opt-color-neutral.900}",
       "type": "color"
     },
-    "body-2-font-color": {
-      "value": "{brk-opt-color-neutral.900}",
-      "type": "color"
-    },
     "caption-font-color": {
       "value": "{brk-opt-color-neutral.900}",
       "type": "color"
@@ -251,10 +247,6 @@
       "type": "color"
     },
     "body-base-font-color": {
-      "value": "{brk-opt-color-neutral.0}",
-      "type": "color"
-    },
-    "body-2-font-color": {
       "value": "{brk-opt-color-neutral.0}",
       "type": "color"
     },
