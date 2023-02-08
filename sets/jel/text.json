@@ -91,19 +91,6 @@
       },
       "type": "typography"
     },
-    "body-2": {
-      "value": {
-        "fontFamily": "{brk-opt-font-family.webfont}",
-        "fontWeight": "{brk-opt-font-weight.400}",
-        "lineHeight": "{brk-opt-line-height.150%}",
-        "fontSize": "",
-        "letterSpacing": "{brk-opt-letter-spacing.0%}",
-        "paragraphSpacing": "{brk-opt-paragraph-spacing.80%}",
-        "textDecoration": "{brk-opt-text-decoration.none}",
-        "textCase": "{brk-opt-text-transform.none}"
-      },
-      "type": "typography"
-    },
     "caption": {
       "value": {
         "fontFamily": "{brk-opt-font-family.webfont}",
@@ -111,7 +98,7 @@
         "lineHeight": "{brk-opt-line-height.150%}",
         "fontSize": "",
         "letterSpacing": "{brk-opt-letter-spacing.0%}",
-        "paragraphSpacing": "{brk-opt-paragraph-spacing.60%}",
+        "paragraphSpacing": "{brk-opt-paragraph-spacing.80%}",
         "textDecoration": "{brk-opt-text-decoration.none}",
         "textCase": "{brk-opt-text-transform.none}"
       },
@@ -137,12 +124,12 @@
       "value": "{brk-opt-space-alt.100%}",
       "type": "spacing"
     },
-    "caption-margin-top": {
-      "value": "{brk-opt-space-alt.100%}",
-      "type": "spacing"
-    },
     "body-base-margin-bottom": {
       "value": "{brk-opt-space-alt.150%}",
+      "type": "spacing"
+    },
+    "caption-margin-top": {
+      "value": "{brk-opt-space-alt.100%}",
       "type": "spacing"
     },
     "caption-margin-bottom": {
@@ -155,19 +142,17 @@
     },
     "list-element-padding-left": {
       "value": "{brk-opt-space-alt.50%}",
-      "type": "spacing"
-    },
-    "list-element-margin": {
-      "value": "{brk-opt-space-alt.150%}",
-      "type": "spacing"
+      "type": "spacing",
+      "description": "Espace entre la puces et le texte"
     },
     "list-margin-bottom": {
       "value": "{brk-opt-space-alt.150%}",
       "type": "spacing"
     },
     "list-padding-left": {
-      "value": "{brk-opt-space-alt.200%}",
-      "type": "spacing"
+      "value": "{brk-opt-space-alt.100%}",
+      "type": "spacing",
+      "description": "Paragraph indent"
     },
     "display-1-strong-font-weight": {
       "value": "{brk-opt-font-weight.950}",
