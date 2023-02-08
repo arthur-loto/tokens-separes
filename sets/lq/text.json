@@ -105,7 +105,7 @@
       "type": "typography"
     },
     "display-margin-top": {
-      "value": "{brk-opt-space-alt.250%}",
+      "value": "{brk-opt-space-alt.75%}",
       "type": "spacing"
     },
     "display-margin-bottom": {
@@ -141,7 +141,7 @@
       "type": "spacing"
     },
     "list-element-padding-left": {
-      "value": "{brk-opt-space-alt.50%}",
+      "value": "{brk-opt-space-alt.75%}",
       "type": "spacing",
       "description": "Espace entre la puces et le texte"
     },
