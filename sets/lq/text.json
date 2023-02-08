@@ -189,27 +189,23 @@
       "value": "{brk-opt-font-weight.700}",
       "type": "fontWeights"
     },
-    "header-1-strong-font-weight": {
+    "heading-1-strong-font-weight": {
       "value": "{brk-opt-font-weight.700}",
       "type": "fontWeights"
     },
-    "header-2-strong-font-weight": {
+    "heading-2-strong-font-weight": {
       "value": "{brk-opt-font-weight.700}",
       "type": "fontWeights"
     },
-    "header-3-strong-font-weight": {
-      "value": "{brk-opt-font-weight.700}",
-      "type": "fontWeights"
-    },
-    "body-2-strong-font-weight": {
-      "value": "{brk-opt-font-weight.700}",
-      "type": "fontWeights"
-    },
-    "body-base-strong-font-weight": {
+    "heading-3-strong-font-weight": {
       "value": "{brk-opt-font-weight.700}",
       "type": "fontWeights"
     },
     "caption-strong-font-weight": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "body-base-strong-font-weight": {
       "value": "{brk-opt-font-weight.700}",
       "type": "fontWeights"
     }

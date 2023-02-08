@@ -137,7 +137,7 @@
       "value": "{brk-opt-space-alt.100%}",
       "type": "spacing"
     },
-    "body-2-margin-top": {
+    "caption-margin-top": {
       "value": "{brk-opt-space-alt.100%}",
       "type": "spacing"
     },
@@ -145,7 +145,7 @@
       "value": "{brk-opt-space-alt.150%}",
       "type": "spacing"
     },
-    "body-2-margin-bottom": {
+    "caption-margin-bottom": {
       "value": "{brk-opt-space-alt.150%}",
       "type": "spacing"
     },
@@ -167,14 +167,6 @@
     },
     "list-padding-left": {
       "value": "{brk-opt-space-alt.200%}",
-      "type": "spacing"
-    },
-    "caption-margin-top": {
-      "value": "{brk-opt-space-alt.100%}",
-      "type": "spacing"
-    },
-    "caption-margin-bottom": {
-      "value": "{brk-opt-space-alt.150%}",
       "type": "spacing"
     },
     "display-1-strong-font-weight": {
