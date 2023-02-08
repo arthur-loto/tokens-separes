@@ -408,21 +408,30 @@
     "body-text-decoration": {
       "value": "{brk-opt-text-decoration.none}",
       "type": "textDecoration"
+    },
+    "separator-width": {
+      "value": "{brk-opt-border-width.1}",
+      "type": "borderWidth"
     }
   },
   "brk-card-secondary-info-text-standard": {
     "heading-font-color": {
-      "value": "{brk-opt-color-neutral.50}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
     },
     "body-font-color": {
+      "value": "{brk-opt-color-neutral.900}",
+      "type": "color",
+      "description": " "
+    },
+    "separator-color": {
       "value": "{brk-opt-color-neutral.100}",
       "type": "color",
       "description": " "
     },
     "background-color": {
-      "value": "{brk-opt-color-neutral.900}",
+      "value": "{brk-opt-color-neutral.0}",
       "type": "color",
       "description": " "
     }
@@ -434,6 +443,11 @@
       "description": " "
     },
     "body-font-color": {
+      "value": "{brk-opt-color-neutral.900}",
+      "type": "color",
+      "description": " "
+    },
+    "separator-color": {
       "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
