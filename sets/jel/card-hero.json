@@ -287,7 +287,7 @@
       "description": " "
     },
     "border-color": {
-      "value": "{brk-opt-color-neutral.100}",
+      "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
     }
