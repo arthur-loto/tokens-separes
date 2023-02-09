@@ -786,8 +786,8 @@
       "type": "spacing",
       "description": " "
     },
-    "250%": {
-      "value": "2.5em",
+    "75%": {
+      "value": "0.75em",
       "type": "spacing",
       "description": " "
     }
