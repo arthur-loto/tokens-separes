@@ -4,7 +4,7 @@
       "value": {
         "fontFamily": "{brk-opt-font-family.brand-main}",
         "fontWeight": "{brk-opt-font-weight.950}",
-        "lineHeight": "{brk-opt-line-height.110%}",
+        "lineHeight": "{brk-opt-line-height.120%}",
         "fontSize": "",
         "letterSpacing": "{brk-opt-letter-spacing.-2%}",
         "paragraphSpacing": "{brk-opt-paragraph-spacing.110%}",
@@ -17,7 +17,7 @@
       "value": {
         "fontFamily": "{brk-opt-font-family.brand-main}",
         "fontWeight": "{brk-opt-font-weight.950}",
-        "lineHeight": "{brk-opt-line-height.110%}",
+        "lineHeight": "{brk-opt-line-height.120%}",
         "fontSize": "",
         "letterSpacing": "{brk-opt-letter-spacing.-2%}",
         "paragraphSpacing": "{brk-opt-paragraph-spacing.110%}",
@@ -30,7 +30,7 @@
       "value": {
         "fontFamily": "{brk-opt-font-family.brand-main}",
         "fontWeight": "{brk-opt-font-weight.950}",
-        "lineHeight": "{brk-opt-line-height.110%}",
+        "lineHeight": "{brk-opt-line-height.120%}",
         "fontSize": "",
         "letterSpacing": "{brk-opt-letter-spacing.-2%}",
         "paragraphSpacing": "{brk-opt-paragraph-spacing.110%}",
@@ -43,7 +43,7 @@
       "value": {
         "fontFamily": "{brk-opt-font-family.brand-main}",
         "fontWeight": "{brk-opt-font-weight.950}",
-        "lineHeight": "{brk-opt-line-height.120%}",
+        "lineHeight": "{brk-opt-line-height.130%}",
         "fontSize": "",
         "letterSpacing": "{brk-opt-letter-spacing.0%}",
         "paragraphSpacing": "{brk-opt-paragraph-spacing.100%}",
@@ -56,7 +56,7 @@
       "value": {
         "fontFamily": "{brk-opt-font-family.brand-main}",
         "fontWeight": "{brk-opt-font-weight.700}",
-        "lineHeight": "{brk-opt-line-height.120%}",
+        "lineHeight": "{brk-opt-line-height.130%}",
         "fontSize": "",
         "letterSpacing": "{brk-opt-letter-spacing.0%}",
         "paragraphSpacing": "{brk-opt-paragraph-spacing.100%}",
@@ -69,7 +69,7 @@
       "value": {
         "fontFamily": "{brk-opt-font-family.brand-main}",
         "fontWeight": "{brk-opt-font-weight.700}",
-        "lineHeight": "{brk-opt-line-height.120%}",
+        "lineHeight": "{brk-opt-line-height.130%}",
         "fontSize": "",
         "letterSpacing": "{brk-opt-letter-spacing.0%}",
         "paragraphSpacing": "{brk-opt-paragraph-spacing.100%}",
