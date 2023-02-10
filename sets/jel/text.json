@@ -300,7 +300,7 @@
     }
   },
   "brk-text-link-inverted": {
-    "body-font-color-defaut": {
+    "body-font-color-default": {
       "value": "{brk-opt-color-jel.second}",
       "type": "color"
     },
