@@ -394,6 +394,10 @@
     "body-text-decoration": {
       "value": "{brk-opt-text-decoration.none}",
       "type": "textDecoration"
+    },
+    "separator-width": {
+      "value": "{brk-opt-border-width.1}",
+      "type": "borderWidth"
     }
   },
   "brk-card-secondary-info-text-standard": {
