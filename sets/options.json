@@ -490,12 +490,17 @@
     "61%": {
       "value": "0.6153",
       "type": "sizing",
-      "description": "IMPORTANT! À noter que sur token transformer, on ajoute un \"em\".\nNOTE : ce token d'option correspond au ratio basé sur la taille de la typographie utilisé sur le bouton. Utilisé pour les tokens de référence, il permet de réduire la quantité des tokens, ainsi que de créer des boutons proportionnels peu importe le point de rupture."
+      "description": "IMPORTANT! À noter que sur token transformer, on ajoute un \"em\". /// NOTE : ce token d'option correspond au ratio basé sur la taille de la typographie utilisé sur le bouton. Utilisé pour les tokens de référence, il permet de réduire la quantité des tokens, ainsi que de créer des boutons proportionnels peu importe le point de rupture."
     },
     "276%": {
       "value": "2.7692",
       "type": "sizing",
-      "description": "IMPORTANT! À noter que sur token transformer, on ajoute un \"em\".\nNOTE : ce token d'option correspond au ratio basé sur la taille de la typographie utilisé sur le bouton. Utilisé pour les tokens de référence, il permet de réduire la quantité des tokens, ainsi que de créer des boutons proportionnels peu importe le point de rupture."
+      "description": "IMPORTANT! À noter que sur token transformer, on ajoute un \"em\". /// NOTE : ce token d'option correspond au ratio basé sur la taille de la typographie utilisé sur le bouton. Utilisé pour les tokens de référence, il permet de réduire la quantité des tokens, ainsi que de créer des boutons proportionnels peu importe le point de rupture."
+    },
+    "123%": {
+      "value": "1.2307",
+      "type": "sizing",
+      "description": "IMPORTANT! À noter que sur token transformer, on ajoute un \"em\". /// NOTE : ce token d'option correspond au ratio basé sur la taille de la typographie utilisé sur le bouton. Utilisé pour les tokens de référence, il permet de réduire la quantité des tokens, ainsi que de créer des boutons proportionnels peu importe le point de rupture."
     }
   },
   "brk-opt-size-ratio": {
@@ -513,11 +518,6 @@
       "value": "1.24",
       "type": "sizing",
       "description": " NOTE : ce token d'option correspond au ratio utilisé pour la hiérarchie de la typographie. Cela permet de réduire la quantité des tokens, ainsi que de créer des textes proportionnels peu importe le point de rupture."
-    },
-    "123%": {
-      "value": "1.2307",
-      "type": "sizing",
-      "description": "NOTE : ce token d'option correspond au ratio basé sur la taille de la typographie utilisé sur le bouton. Utilisé pour les tokens de référence, il permet de réduire la quantité des tokens, ainsi que de créer des boutons proportionnels peu importe le point de rupture."
     },
     "125%": {
       "value": "1.25",
