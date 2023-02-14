@@ -76,6 +76,10 @@
       "subtitle-margin-bottom": {
         "value": "{brk-opt-space.4}",
         "type": "spacing"
+      },
+      "subtitle-content-gap": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing"
       }
     },
     "md": {
@@ -154,6 +158,10 @@
       "subtitle-margin-bottom": {
         "value": "{brk-opt-space.8}",
         "type": "spacing"
+      },
+      "subtitle-content-gap": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing"
       }
     },
     "lg": {
@@ -230,6 +238,10 @@
         "type": "spacing"
       },
       "subtitle-margin-bottom": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      },
+      "subtitle-content-gap": {
         "value": "{brk-opt-space.8}",
         "type": "spacing"
       }
