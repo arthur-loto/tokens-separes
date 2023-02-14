@@ -26,6 +26,10 @@
       "content-gap": {
         "value": "{brk-opt-space.16}",
         "type": "spacing"
+      },
+      "icon-padding-left": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing"
       }
     },
     "border-width": {
