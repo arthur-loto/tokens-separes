@@ -316,7 +316,7 @@
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.4}",
+        "value": "{brk-opt-space.2}+1px",
         "type": "spacing"
       },
       "heading-font-size": {
@@ -335,7 +335,7 @@
         "description": " "
       },
       "content-gap": {
-        "value": "{brk-opt-space.4}+2px",
+        "value": "{brk-opt-space.4}",
         "type": "spacing"
       },
       "heading-font-size": {
