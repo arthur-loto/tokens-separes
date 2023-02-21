@@ -16,8 +16,7 @@
       "jel/promo": "enabled",
       "jel/template": "enabled",
       "jel/text": "enabled",
-      "jel/thumbnail-product": "enabled",
-      "lq/card-medium-density": "disabled"
+      "jel/thumbnail-product": "enabled"
     },
     "$figmaStyleReferences": {}
   },
