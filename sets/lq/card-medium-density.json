@@ -5,6 +5,10 @@
         "value": "{brk-opt-size.96}+2px",
         "type": "sizing"
       },
+      "jackpot-height": {
+        "value": "{brk-opt-size.24}+2px",
+        "type": "sizing"
+      },
       "padding": {
         "value": "{brk-opt-space.16}",
         "type": "spacing"
