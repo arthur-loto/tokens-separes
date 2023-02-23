@@ -17,10 +17,6 @@
         "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
-      "subtitle-margin-top": {
-        "value": "{brk-opt-space.0}",
-        "type": "spacing"
-      },
       "subtitle2-margin-top": {
         "value": "{brk-opt-space.8}",
         "type": "spacing"
@@ -101,14 +97,42 @@
     "border-radius": {
       "value": "{brk-opt-border-radius.4}",
       "type": "borderRadius"
+    },
+    "md": {
+      "image-height": {
+        "value": "{brk-opt-size.120}-4px",
+        "type": "sizing"
+      },
+      "jackpot-height": {
+        "value": "{brk-opt-size.32}-2px",
+        "type": "sizing"
+      },
+      "padding": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing"
+      },
+      "heading-margin-top": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      },
+      "subtitle2-margin-top": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      },
+      "body-margin-top": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      },
+      "image-border-radius": {
+        "value": "{brk-opt-border-radius.24}",
+        "type": "borderRadius"
+      }
     }
   },
   "brk-card-medium-density-list": {
-    "sm": {
-      "gap": {
-        "value": "{brk-opt-space.8}",
-        "type": "spacing"
-      }
+    "gap": {
+      "value": "{brk-opt-space.8}",
+      "type": "spacing"
     }
   },
   "brk-card-medium-density-standard": {
@@ -168,23 +192,23 @@
       "value": "{brk-opt-font-weight.400}",
       "type": "fontWeights"
     },
+    "heading-line-height": {
+      "value": "{brk-opt-line-height.100%}",
+      "type": "lineHeights"
+    },
+    "subtitle-line-height": {
+      "value": "{brk-opt-line-height.100%}",
+      "type": "lineHeights"
+    },
+    "subtitle2-line-height": {
+      "value": "{brk-opt-line-height.100%}",
+      "type": "lineHeights"
+    },
+    "body-line-height": {
+      "value": "{brk-opt-line-height.100%}",
+      "type": "lineHeights"
+    },
     "sm": {
-      "heading-line-height": {
-        "value": "{brk-opt-line-height.100%}",
-        "type": "lineHeights"
-      },
-      "subtitle-line-height": {
-        "value": "{brk-opt-line-height.100%}",
-        "type": "lineHeights"
-      },
-      "subtitle2-line-height": {
-        "value": "{brk-opt-line-height.100%}",
-        "type": "lineHeights"
-      },
-      "body-line-height": {
-        "value": "{brk-opt-line-height.100%}",
-        "type": "lineHeights"
-      },
       "heading-font-size": {
         "value": "{brk-opt-font-size.20}",
         "type": "fontSizes"
@@ -249,6 +273,24 @@
     "body-text-decoration": {
       "value": "{brk-opt-text-decoration.none}",
       "type": "textDecoration"
+    },
+    "md": {
+      "heading-font-size": {
+        "value": "{brk-opt-font-size.28}",
+        "type": "fontSizes"
+      },
+      "subtitle-font-size": {
+        "value": "{brk-opt-font-size.20}",
+        "type": "fontSizes"
+      },
+      "subtitle2-font-size": {
+        "value": "{brk-opt-font-size.16}",
+        "type": "fontSizes"
+      },
+      "body-font-size": {
+        "value": "{brk-opt-font-size.20}",
+        "type": "fontSizes"
+      }
     }
   }
 }
