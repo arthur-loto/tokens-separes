@@ -94,10 +94,6 @@
       "value": "{brk-opt-border-width.1}",
       "type": "borderWidth"
     },
-    "border-radius": {
-      "value": "{brk-opt-border-radius.4}",
-      "type": "borderRadius"
-    },
     "md": {
       "image-height": {
         "value": "{brk-opt-size.120}-4px",
@@ -112,7 +108,7 @@
         "type": "spacing"
       },
       "heading-margin-top": {
-        "value": "{brk-opt-space.8}",
+        "value": "{brk-opt-space.12}",
         "type": "spacing"
       },
       "subtitle2-margin-top": {
@@ -127,6 +123,40 @@
         "value": "{brk-opt-border-radius.24}",
         "type": "borderRadius"
       }
+    },
+    "lg": {
+      "image-height": {
+        "value": "{brk-opt-size.8}*19",
+        "type": "sizing"
+      },
+      "jackpot-height": {
+        "value": "{brk-opt-size.32}+6px",
+        "type": "sizing"
+      },
+      "padding": {
+        "value": "{brk-opt-space.20}",
+        "type": "spacing"
+      },
+      "heading-margin-top": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing"
+      },
+      "subtitle2-margin-top": {
+        "value": "{brk-opt-space.12}",
+        "type": "spacing"
+      },
+      "body-margin-top": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      },
+      "image-border-radius": {
+        "value": "{brk-opt-border-radius.32}",
+        "type": "borderRadius"
+      }
+    },
+    "border-radius": {
+      "value": "{brk-opt-border-radius.4}",
+      "type": "borderRadius"
     }
   },
   "brk-card-medium-density-list": {
@@ -239,7 +269,7 @@
       "type": "letterSpacing"
     },
     "body-letter-spacing": {
-      "value": "{brk-opt-letter-spacing.-2%}",
+      "value": "{brk-opt-letter-spacing.2%}",
       "type": "letterSpacing"
     },
     "heading-text-case": {
@@ -289,6 +319,24 @@
       },
       "body-font-size": {
         "value": "{brk-opt-font-size.20}",
+        "type": "fontSizes"
+      }
+    },
+    "lg": {
+      "heading-font-size": {
+        "value": "{brk-opt-font-size.32}",
+        "type": "fontSizes"
+      },
+      "subtitle-font-size": {
+        "value": "{brk-opt-font-size.24}",
+        "type": "fontSizes"
+      },
+      "subtitle2-font-size": {
+        "value": "{brk-opt-font-size.20}",
+        "type": "fontSizes"
+      },
+      "body-font-size": {
+        "value": "{brk-opt-font-size.24}",
         "type": "fontSizes"
       }
     }
