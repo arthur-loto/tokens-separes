@@ -1,27 +1,5 @@
 [
   {
-    "id": "ac7acb877a0c3f4c4fc9e080e1be1c066bf7de26",
-    "name": "JEL",
-    "selectedTokenSets": {
-      "options": "enabled",
-      "jel/doc": "enabled",
-      "jel/accordion": "enabled",
-      "jel/button": "enabled",
-      "jel/card-hero": "enabled",
-      "jel/card-high-density": "enabled",
-      "jel/card-secondary-info": "enabled",
-      "jel/header": "enabled",
-      "jel/interactive": "enabled",
-      "jel/product-details": "enabled",
-      "jel/promo": "enabled",
-      "jel/template": "enabled",
-      "jel/text": "enabled",
-      "jel/thumbnail-product": "enabled",
-      "jel/card-medium-density": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "5ef267e97e3c9c989535ca77c1673f048571661b",
     "name": "LQ",
     "selectedTokenSets": {
@@ -39,8 +17,29 @@
       "lq/template": "enabled",
       "lq/text": "enabled",
       "lq/thumbnail-product": "enabled",
-      "lq/card-medium-density": "enabled",
-      "jel/card-medium-density": "disabled"
+      "lq/card-medium-density": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "ac7acb877a0c3f4c4fc9e080e1be1c066bf7de26",
+    "name": "JEL",
+    "selectedTokenSets": {
+      "options": "enabled",
+      "jel/doc": "enabled",
+      "jel/accordion": "enabled",
+      "jel/button": "enabled",
+      "jel/card-hero": "enabled",
+      "jel/card-high-density": "enabled",
+      "jel/card-secondary-info": "enabled",
+      "jel/header": "enabled",
+      "jel/interactive": "enabled",
+      "jel/product-details": "enabled",
+      "jel/promo": "enabled",
+      "jel/template": "enabled",
+      "jel/text": "enabled",
+      "jel/thumbnail-product": "enabled",
+      "jel/card-medium-density": "enabled"
     },
     "$figmaStyleReferences": {}
   }
