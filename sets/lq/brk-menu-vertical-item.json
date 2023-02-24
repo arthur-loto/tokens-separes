@@ -1,0 +1,27 @@
+{
+  "brk-menu-vertical-item": {
+    "color": { "value": "#000", "type": "color" },
+    "font-family": { "value": "arial", "type": "fontFamilies" },
+    "font-size": { "value": "14px", "type": "fontSizes" },
+    "height": { "value": "40px", "type": "sizing" },
+    "color-hover": { "value": "#f2f3f4", "type": "color" },
+    "primary": { "font-weight": { "value": "bold", "type": "fontWeights" } },
+    "secondary": {
+      "font-weight": { "value": "normal", "type": "fontWeights" }
+    },
+    "icon-height": { "value": "20px", "type": "sizing" },
+    "icon-left": { "value": "25px", "type": "sizing" },
+    "minimized": {
+      "font-size": { "value": "10px", "type": "fontSizes" },
+      "padding-vertical": { "value": "4px", "type": "spacing" }
+    },
+    "padding-left": { "value": "50px", "type": "spacing" },
+    "letter-spacing": { "value": "normal", "type": "letterSpacing" },
+    "line-height": { "value": "100%", "type": "lineHeights" },
+    "text-transform": { "value": "none", "type": "other" },
+    "text-decoration": { "value": "none", "type": "textDecoration" }
+  }
+}
+
+
+
