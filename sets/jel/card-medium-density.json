@@ -18,7 +18,7 @@
         "type": "spacing"
       },
       "subtitle2-margin-top": {
-        "value": "{brk-opt-space.8}",
+        "value": "{brk-opt-space.4}",
         "type": "spacing"
       },
       "body-margin-top": {
@@ -32,7 +32,7 @@
     },
     "standard": {
       "heading-font-color": {
-        "value": "{brk-opt-color-lq-main.500}",
+        "value": "{brk-opt-color-neutral.900}",
         "type": "color"
       },
       "subtitle-font-color": {
@@ -40,15 +40,15 @@
         "type": "color"
       },
       "subtitle2-font-color": {
-        "value": "{brk-opt-color-lq-main.400}",
+        "value": "{brk-opt-color-neutral.675}",
         "type": "color"
       },
       "body-font-color": {
-        "value": "{brk-opt-color-lq-main.728}",
+        "value": "{brk-opt-color-neutral.900}",
         "type": "color"
       },
       "jackpot-background-color": {
-        "value": "{brk-opt-color-lq-main.900}",
+        "value": "{brk-opt-color-neutral.900}",
         "type": "color"
       },
       "background-color": {
@@ -56,37 +56,37 @@
         "type": "color"
       },
       "border-color": {
-        "value": "{brk-opt-color-lq-main.50}",
+        "value": "{brk-opt-color-neutral.100}",
         "type": "color"
       }
     },
     "inverted": {
       "heading-font-color": {
-        "value": "{brk-opt-color-lq-main.50}",
+        "value": "{brk-opt-color-neutral.50}",
         "type": "color"
       },
       "subtitle-font-color": {
-        "value": "{brk-opt-color-lq-main.650}",
+        "value": "{brk-opt-color-neutral.900}",
         "type": "color"
       },
       "subtitle2-font-color": {
-        "value": "{brk-opt-color-lq-main.100}",
+        "value": "{brk-opt-color-neutral.100}",
         "type": "color"
       },
       "body-font-color": {
-        "value": "{brk-opt-color-lq-main.50}",
+        "value": "{brk-opt-color-neutral.50}",
         "type": "color"
       },
       "jackpot-background-color": {
-        "value": "{brk-opt-color-lq-main.100}",
+        "value": "{brk-opt-color-neutral.100}",
         "type": "color"
       },
       "background-color": {
-        "value": "{brk-opt-color-lq-main.900}",
+        "value": "{brk-opt-color-neutral.675}",
         "type": "color"
       },
       "border-color": {
-        "value": "{brk-opt-color-lq-main.100}",
+        "value": "{brk-opt-color-neutral.500}",
         "type": "color"
       }
     },
@@ -108,7 +108,7 @@
         "type": "spacing"
       },
       "heading-margin-top": {
-        "value": "{brk-opt-space.12}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
       "subtitle2-margin-top": {
@@ -155,7 +155,7 @@
       }
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius.4}",
+      "value": "{brk-opt-border-radius.16}",
       "type": "borderRadius"
     }
   },
@@ -191,7 +191,7 @@
   },
   "brk-medium-density": {
     "heading-font-family": {
-      "value": "{brk-opt-font-family.webfont}",
+      "value": "{brk-opt-font-family.brand-main}",
       "type": "fontFamilies"
     },
     "subtitle-font-family": {
