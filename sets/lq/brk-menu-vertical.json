@@ -4,6 +4,7 @@
     "minimized": { "width": { "value": "50px", "type": "sizing" } },
     "icon": {
       "size": { "value": "20px", "type": "sizing" },
+      "height": { "value": "30px", "type": "sizing" },
       "padding-left": { "value": "13px", "type": "spacing" }
     },
     "letter-spacing": { "value": "normal", "type": "letterSpacing" },
