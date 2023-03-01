@@ -304,7 +304,11 @@
     }
   },
   "brk-card-medium-density-list": {
-    "gap": {
+    "gap-horizontal": {
+      "value": "{brk-opt-space.8}",
+      "type": "spacing"
+    },
+    "gap-vertical": {
       "value": "{brk-opt-space.8}",
       "type": "spacing"
     }
