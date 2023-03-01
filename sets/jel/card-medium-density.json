@@ -37,10 +37,6 @@
         "value": "{brk-opt-font-size.16}",
         "type": "fontSizes"
       },
-      "subtitle2-font-size": {
-        "value": "{brk-opt-font-size.16}",
-        "type": "fontSizes"
-      },
       "body-font-size": {
         "value": "{brk-opt-font-size.16}",
         "type": "fontSizes"
@@ -144,10 +140,6 @@
         "type": "fontSizes"
       },
       "subtitle-font-size": {
-        "value": "{brk-opt-font-size.20}",
-        "type": "fontSizes"
-      },
-      "subtitle2-font-size": {
         "value": "{brk-opt-font-size.16}",
         "type": "fontSizes"
       },
@@ -190,10 +182,6 @@
         "type": "fontSizes"
       },
       "subtitle-font-size": {
-        "value": "{brk-opt-font-size.24}",
-        "type": "fontSizes"
-      },
-      "subtitle2-font-size": {
         "value": "{brk-opt-font-size.20}",
         "type": "fontSizes"
       },
@@ -211,10 +199,6 @@
       "type": "fontFamilies"
     },
     "subtitle-font-family": {
-      "value": "{brk-opt-font-family.brand-main}",
-      "type": "fontFamilies"
-    },
-    "subtitle2-font-family": {
       "value": "{brk-opt-font-family.webfont}",
       "type": "fontFamilies"
     },
@@ -227,10 +211,6 @@
       "type": "fontWeights"
     },
     "subtitle-font-weight": {
-      "value": "{brk-opt-font-weight.700}",
-      "type": "fontWeights"
-    },
-    "subtitle2-font-weight": {
       "value": "{brk-opt-font-weight.400}",
       "type": "fontWeights"
     },
@@ -246,10 +226,6 @@
       "value": "{brk-opt-line-height.100%}",
       "type": "lineHeights"
     },
-    "subtitle2-line-height": {
-      "value": "{brk-opt-line-height.100%}",
-      "type": "lineHeights"
-    },
     "body-line-height": {
       "value": "{brk-opt-line-height.100%}",
       "type": "lineHeights"
@@ -259,10 +235,6 @@
       "type": "letterSpacing"
     },
     "subtitle-letter-spacing": {
-      "value": "{brk-opt-letter-spacing.-2%}",
-      "type": "letterSpacing"
-    },
-    "subtitle2-letter-spacing": {
       "value": "{brk-opt-letter-spacing.-2%}",
       "type": "letterSpacing"
     },
@@ -278,10 +250,6 @@
       "value": "{brk-opt-text-transform.none}",
       "type": "textCase"
     },
-    "subtitle2-text-case": {
-      "value": "{brk-opt-text-transform.none}",
-      "type": "textCase"
-    },
     "body-text-case": {
       "value": "{brk-opt-text-transform.none}",
       "type": "textCase"
@@ -294,17 +262,17 @@
       "value": "{brk-opt-text-decoration.none}",
       "type": "textDecoration"
     },
-    "subtitle2-text-decoration": {
-      "value": "{brk-opt-text-decoration.none}",
-      "type": "textDecoration"
-    },
     "body-text-decoration": {
       "value": "{brk-opt-text-decoration.none}",
       "type": "textDecoration"
     }
   },
   "brk-card-medium-density-list": {
-    "gap": {
+    "gap-horizontal": {
+      "value": "{brk-opt-space.8}",
+      "type": "spacing"
+    },
+    "gap-vertical": {
       "value": "{brk-opt-space.8}",
       "type": "spacing"
     }
