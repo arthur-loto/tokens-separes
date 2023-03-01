@@ -460,6 +460,11 @@
       "value": "{brk-opt-color-neutral.0}",
       "type": "color",
       "description": " "
+    },
+    "subtitle-background-color": {
+      "value": "{brk-opt-color-neutral.900}",
+      "type": "color",
+      "description": " "
     }
   },
   "brk-card-secondary-info-text-inverted": {
@@ -484,6 +489,11 @@
     },
     "background-color": {
       "value": "{brk-opt-color-lq-main.900}",
+      "type": "color",
+      "description": " "
+    },
+    "subtitle-background-color": {
+      "value": "{brk-opt-color-lq-main.100}",
       "type": "color",
       "description": " "
     }

@@ -47,16 +47,8 @@
         "value": "{brk-opt-color-lq-main.500}",
         "type": "color"
       },
-      "subtitle-font-color": {
-        "value": "{brk-opt-color-lq-main.400}",
-        "type": "color"
-      },
       "body-font-color": {
         "value": "{brk-opt-color-lq-main.728}",
-        "type": "color"
-      },
-      "jackpot-background-color": {
-        "value": "{brk-opt-color-lq-main.900}",
         "type": "color"
       },
       "background-color": {
@@ -73,16 +65,8 @@
         "value": "{brk-opt-color-lq-main.50}",
         "type": "color"
       },
-      "subtitle-font-color": {
-        "value": "{brk-opt-color-lq-main.100}",
-        "type": "color"
-      },
       "body-font-color": {
         "value": "{brk-opt-color-lq-main.50}",
-        "type": "color"
-      },
-      "jackpot-background-color": {
-        "value": "{brk-opt-color-lq-main.100}",
         "type": "color"
       },
       "background-color": {

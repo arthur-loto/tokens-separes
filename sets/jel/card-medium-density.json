@@ -55,10 +55,6 @@
         "value": "{brk-opt-color-neutral.900}",
         "type": "color"
       },
-      "jackpot-background-color": {
-        "value": "{brk-opt-color-neutral.900}",
-        "type": "color"
-      },
       "background-color": {
         "value": "{brk-opt-color-neutral.0}",
         "type": "color"
@@ -79,10 +75,6 @@
       },
       "body-font-color": {
         "value": "{brk-opt-color-neutral.50}",
-        "type": "color"
-      },
-      "jackpot-background-color": {
-        "value": "{brk-opt-color-neutral.100}",
         "type": "color"
       },
       "background-color": {
