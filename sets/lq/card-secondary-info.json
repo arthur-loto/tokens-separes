@@ -447,6 +447,11 @@
       "type": "color",
       "description": " "
     },
+    "subtitle-font-color": {
+      "value": "{brk-opt-color-neutral.0}",
+      "type": "color",
+      "description": " "
+    },
     "separator-color": {
       "value": "{brk-opt-color-lq-main.100}",
       "type": "color"
@@ -465,6 +470,11 @@
     },
     "body-font-color": {
       "value": "{brk-opt-color-lq-main.100}",
+      "type": "color",
+      "description": " "
+    },
+    "subtitle-font-color": {
+      "value": "{brk-opt-color-lq-main.650}",
       "type": "color",
       "description": " "
     },

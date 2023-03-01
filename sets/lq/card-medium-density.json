@@ -48,10 +48,6 @@
         "type": "color"
       },
       "subtitle-font-color": {
-        "value": "{brk-opt-color-neutral.0}",
-        "type": "color"
-      },
-      "subtitle2-font-color": {
         "value": "{brk-opt-color-lq-main.400}",
         "type": "color"
       },
@@ -78,10 +74,6 @@
         "type": "color"
       },
       "subtitle-font-color": {
-        "value": "{brk-opt-color-lq-main.650}",
-        "type": "color"
-      },
-      "subtitle2-font-color": {
         "value": "{brk-opt-color-lq-main.100}",
         "type": "color"
       },
