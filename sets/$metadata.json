@@ -28,6 +28,8 @@
     "lq/promo",
     "lq/template",
     "lq/text",
-    "lq/thumbnail-product"
+    "lq/thumbnail-product",
+    "lq/brk-menu-vertical",
+    "lq/brk-menu-vertical-item"
   ]
 }

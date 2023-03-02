@@ -329,6 +329,14 @@
       }
     },
     "lg": {
+      "heading-font-size": {
+        "value": "{brk-opt-font-size.28}",
+        "type": "fontSizes"
+      },
+      "body-font-size": {
+        "value": "{brk-opt-font-size.24}",
+        "type": "fontSizes"
+      },
       "padding-horizontal": {
         "value": "{brk-opt-space.32}",
         "type": "spacing",
@@ -337,14 +345,6 @@
       "content-gap": {
         "value": "{brk-opt-space.4}",
         "type": "spacing"
-      },
-      "heading-font-size": {
-        "value": "{brk-opt-font-size.28}",
-        "type": "fontSizes"
-      },
-      "body-font-size": {
-        "value": "{brk-opt-font-size.24}",
-        "type": "fontSizes"
       }
     },
     "heading-font-family": {
@@ -400,6 +400,60 @@
       "type": "borderWidth"
     }
   },
+  "brk-card-secondary-info-line": {
+    "sm": {
+      "padding-horizontal": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": " "
+      },
+      "heading-font-size": {
+        "value": "{brk-opt-font-size.16}",
+        "type": "fontSizes"
+      }
+    },
+    "md": {
+      "padding-horizontal": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": " "
+      },
+      "heading-font-size": {
+        "value": "{brk-opt-font-size.20}",
+        "type": "fontSizes"
+      }
+    },
+    "lg": {
+      "heading-font-size": {
+        "value": "{brk-opt-font-size.24}",
+        "type": "fontSizes"
+      }
+    },
+    "heading-font-family": {
+      "value": "{brk-opt-font-family.brand-main}",
+      "type": "fontFamilies"
+    },
+    "heading-font-weight": {
+      "value": "{brk-opt-font-weight.700}",
+      "type": "fontWeights"
+    },
+    "heading-line-height": {
+      "value": "{brk-opt-line-height.100%}",
+      "type": "lineHeights"
+    },
+    "heading-letter-spacing": {
+      "value": "{brk-opt-letter-spacing.-2%}",
+      "type": "letterSpacing"
+    },
+    "heading-text-case": {
+      "value": "{brk-opt-text-transform.none}",
+      "type": "textCase"
+    },
+    "heading-text-decoration": {
+      "value": "{brk-opt-text-decoration.none}",
+      "type": "textDecoration"
+    }
+  },
   "brk-card-secondary-info-text-standard": {
     "heading-font-color": {
       "value": "{brk-opt-color-lq-main.800}",
@@ -421,6 +475,18 @@
       "description": " "
     }
   },
+  "brk-card-secondary-info-line-standard": {
+    "heading-font-color": {
+      "value": "{brk-opt-color-neutral.0}",
+      "type": "color",
+      "description": " "
+    },
+    "background-color": {
+      "value": "{brk-opt-color-neutral.900}",
+      "type": "color",
+      "description": " "
+    }
+  },
   "brk-card-secondary-info-text-inverted": {
     "heading-font-color": {
       "value": "{brk-opt-color-lq-main.50}",
@@ -438,6 +504,18 @@
     },
     "background-color": {
       "value": "{brk-opt-color-lq-main.900}",
+      "type": "color",
+      "description": " "
+    }
+  },
+  "brk-card-secondary-info-line-inverted": {
+    "heading-font-color": {
+      "value": "{brk-opt-color-lq-main.650}",
+      "type": "color",
+      "description": " "
+    },
+    "background-color": {
+      "value": "{brk-opt-color-lq-main.100}",
       "type": "color",
       "description": " "
     }
