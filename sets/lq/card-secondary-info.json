@@ -400,14 +400,24 @@
       "type": "borderWidth"
     }
   },
-  "brk-card-secondary-info-oneline": {
+  "brk-card-secondary-info-line": {
     "sm": {
+      "padding-horizontal": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": " "
+      },
       "heading-font-size": {
         "value": "{brk-opt-font-size.16}",
         "type": "fontSizes"
       }
     },
     "md": {
+      "padding-horizontal": {
+        "value": "{brk-opt-space.16}",
+        "type": "spacing",
+        "description": " "
+      },
       "heading-font-size": {
         "value": "{brk-opt-font-size.20}",
         "type": "fontSizes"
@@ -455,11 +465,6 @@
       "type": "color",
       "description": " "
     },
-    "subtitle-font-color": {
-      "value": "{brk-opt-color-neutral.0}",
-      "type": "color",
-      "description": " "
-    },
     "separator-color": {
       "value": "{brk-opt-color-lq-main.100}",
       "type": "color"
@@ -468,8 +473,15 @@
       "value": "{brk-opt-color-neutral.0}",
       "type": "color",
       "description": " "
+    }
+  },
+  "brk-card-secondary-info-line-standard": {
+    "heading-font-color": {
+      "value": "{brk-opt-color-neutral.0}",
+      "type": "color",
+      "description": " "
     },
-    "subtitle-background-color": {
+    "background-color": {
       "value": "{brk-opt-color-neutral.900}",
       "type": "color",
       "description": " "
@@ -486,11 +498,6 @@
       "type": "color",
       "description": " "
     },
-    "subtitle-font-color": {
-      "value": "{brk-opt-color-lq-main.650}",
-      "type": "color",
-      "description": " "
-    },
     "separator-color": {
       "value": "{brk-opt-color-lq-main.100}",
       "type": "color"
@@ -499,8 +506,15 @@
       "value": "{brk-opt-color-lq-main.900}",
       "type": "color",
       "description": " "
+    }
+  },
+  "brk-card-secondary-info-line-inverted": {
+    "heading-font-color": {
+      "value": "{brk-opt-color-lq-main.650}",
+      "type": "color",
+      "description": " "
     },
-    "subtitle-background-color": {
+    "background-color": {
       "value": "{brk-opt-color-lq-main.100}",
       "type": "color",
       "description": " "
