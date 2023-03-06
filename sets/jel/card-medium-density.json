@@ -5,10 +5,6 @@
         "value": "{brk-opt-size.96}+2px",
         "type": "sizing"
       },
-      "jackpot-height": {
-        "value": "{brk-opt-size.24}+2px",
-        "type": "sizing"
-      },
       "padding": {
         "value": "{brk-opt-space.16}",
         "type": "spacing"
@@ -17,7 +13,7 @@
         "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
-      "subtitle2-margin-top": {
+      "subtitle-margin-top": {
         "value": "{brk-opt-space.4}",
         "type": "spacing"
       },
@@ -95,10 +91,6 @@
         "value": "{brk-opt-size.120}-4px",
         "type": "sizing"
       },
-      "jackpot-height": {
-        "value": "{brk-opt-size.32}-2px",
-        "type": "sizing"
-      },
       "padding": {
         "value": "{brk-opt-space.16}",
         "type": "spacing"
@@ -107,7 +99,7 @@
         "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
-      "subtitle2-margin-top": {
+      "subtitle-margin-top": {
         "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
@@ -137,10 +129,6 @@
         "value": "{brk-opt-size.8}*19",
         "type": "sizing"
       },
-      "jackpot-height": {
-        "value": "{brk-opt-size.32}+6px",
-        "type": "sizing"
-      },
       "padding": {
         "value": "{brk-opt-space.20}",
         "type": "spacing"
@@ -149,7 +137,7 @@
         "value": "{brk-opt-space.16}",
         "type": "spacing"
       },
-      "subtitle2-margin-top": {
+      "subtitle-margin-top": {
         "value": "{brk-opt-space.12}",
         "type": "spacing"
       },
