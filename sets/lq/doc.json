@@ -1,7 +1,7 @@
 {
   "brk-doc": {
     "standard-background-color": {
-      "value": "{brk-opt-color-neutral.50}",
+      "value": "{brk-opt-color-neutral.25}",
       "type": "color",
       "description": "NOTE: token de documentation - seulement utile pour les designers"
     },

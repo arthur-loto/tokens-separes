@@ -52,6 +52,11 @@
     }
   },
   "brk-opt-color-lq-main": {
+    "25": {
+      "value": "hsl({brk-opt-color-lq-main.hue}, {brk-opt-color-lq-main.saturation}%, 97.5%)",
+      "type": "color",
+      "description": " "
+    },
     "50": {
       "value": "hsl({brk-opt-color-lq-main.hue}, {brk-opt-color-lq-main.saturation}%, 95%)",
       "type": "color",
@@ -443,7 +448,7 @@
       "description": " "
     },
     "56": {
-      "value": "52px",
+      "value": "56px",
       "type": "sizing"
     },
     "64": {
