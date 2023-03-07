@@ -220,8 +220,26 @@
         }
       }
     },
+    "minimized": {
+      "font-family": {
+        "value": "{brk-opt-font-family.webfont}",
+        "type": "fontFamilies"
+      },
+      "font-size": {
+        "value": "{brk-opt-font-size.14}-4px",
+        "type": "fontSizes"
+      },
+      "padding-vertical": {
+        "value": "{brk-opt-space.8}",
+        "type": "spacing"
+      },
+      "font-weight": {
+        "value": "{brk-opt-font-weight.700}",
+        "type": "fontWeights"
+      }
+    },
     "font-size": {
-      "value": "{brk-opt-font-size.14}",
+      "value": "{brk-opt-font-size.16}",
       "type": "fontSizes"
     },
     "height": {
@@ -231,16 +249,6 @@
     "icon-size": {
       "value": "{brk-opt-size.16}",
       "type": "sizing"
-    },
-    "minimized": {
-      "font-size": {
-        "value": "{brk-opt-font-size.14}-4px",
-        "type": "fontSizes"
-      },
-      "padding-vertical": {
-        "value": "{brk-opt-space.8}",
-        "type": "spacing"
-      }
     },
     "padding-left": {
       "value": "50px",
@@ -370,6 +378,16 @@
           "value": "{brk-opt-color-neutral.transparent}",
           "type": "color"
         }
+      },
+      "icon": {
+        "size": {
+          "value": "{brk-opt-size.16}",
+          "type": "sizing"
+        },
+        "padding-left": {
+          "value": "{brk-opt-space.8}",
+          "type": "spacing"
+        }
       }
     },
     "standard": {
@@ -392,16 +410,6 @@
       "width": {
         "value": "{brk-opt-size.56}",
         "type": "sizing"
-      }
-    },
-    "icon": {
-      "size": {
-        "value": "{brk-opt-size.16}",
-        "type": "sizing"
-      },
-      "padding-left": {
-        "value": "{brk-opt-space.8}",
-        "type": "spacing"
       }
     },
     "letter-spacing": {
