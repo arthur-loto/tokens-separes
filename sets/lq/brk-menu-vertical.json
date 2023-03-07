@@ -86,10 +86,6 @@
       "value": "40px",
       "type": "sizing"
     },
-    "color-hover": {
-      "value": "#f2f3f4",
-      "type": "color"
-    },
     "secondary": {
       "font-weight": {
         "value": "normal",
@@ -97,7 +93,7 @@
       },
       "standard": {
         "font-color-default": {
-          "value": "{brk-opt-color-lq-main.600}",
+          "value": "{brk-opt-color-lq-main.900}",
           "type": "color"
         },
         "icon-fill-default": {
@@ -204,6 +200,24 @@
     }
   },
   "brk-menu-vertical": {
+    "btn-toggle-menu": {
+      "font-color-default": {
+        "value": "{brk-opt-color-lq-main.900}",
+        "type": "color"
+      },
+      "icon-fill-default": {
+        "value": "{brk-opt-color-lq-main.728}",
+        "type": "color"
+      },
+      "background-color-default": {
+        "value": "{brk-opt-color-neutral.0}",
+        "type": "color"
+      },
+      "border-color-default": {
+        "value": "{brk-opt-color-neutral.transparent}",
+        "type": "color"
+      }
+    },
     "expanded": {
       "width": {
         "value": "400px",
