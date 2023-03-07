@@ -5,6 +5,10 @@
         "value": "{brk-opt-size.96}+2px",
         "type": "sizing"
       },
+      "jackpot-height": {
+        "value": "{brk-opt-size.24}+2px",
+        "type": "sizing"
+      },
       "padding": {
         "value": "{brk-opt-space.16}",
         "type": "spacing"
@@ -13,7 +17,7 @@
         "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
-      "subtitle-margin-top": {
+      "subtitle2-margin-top": {
         "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
@@ -43,10 +47,6 @@
         "value": "{brk-opt-color-lq-main.500}",
         "type": "color"
       },
-      "subtitle-font-color": {
-        "value": "{brk-opt-color-lq-main.728}",
-        "type": "color"
-      },
       "body-font-color": {
         "value": "{brk-opt-color-lq-main.728}",
         "type": "color"
@@ -62,10 +62,6 @@
     },
     "inverted": {
       "heading-font-color": {
-        "value": "{brk-opt-color-lq-main.50}",
-        "type": "color"
-      },
-      "subtitle-font-color": {
         "value": "{brk-opt-color-lq-main.50}",
         "type": "color"
       },
@@ -91,6 +87,10 @@
         "value": "{brk-opt-size.120}-4px",
         "type": "sizing"
       },
+      "jackpot-height": {
+        "value": "{brk-opt-size.32}-2px",
+        "type": "sizing"
+      },
       "padding": {
         "value": "{brk-opt-space.16}",
         "type": "spacing"
@@ -99,7 +99,7 @@
         "value": "{brk-opt-space.12}",
         "type": "spacing"
       },
-      "subtitle-margin-top": {
+      "subtitle2-margin-top": {
         "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
@@ -129,6 +129,10 @@
         "value": "{brk-opt-size.8}*19",
         "type": "sizing"
       },
+      "jackpot-height": {
+        "value": "{brk-opt-size.32}+6px",
+        "type": "sizing"
+      },
       "padding": {
         "value": "{brk-opt-space.20}",
         "type": "spacing"
@@ -137,7 +141,7 @@
         "value": "{brk-opt-space.16}",
         "type": "spacing"
       },
-      "subtitle-margin-top": {
+      "subtitle2-margin-top": {
         "value": "{brk-opt-space.12}",
         "type": "spacing"
       },

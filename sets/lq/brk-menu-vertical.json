@@ -1,8 +1,42 @@
 {
   "brk-menu-vertical-item": {
-    "color": {
-      "value": "#000",
-      "type": "color"
+    "primary": {
+      "font-color-default": {
+        "value": "{brk-opt-color-lq-main.600}",
+        "type": "color"
+      },
+      "icon-fill-default": {
+        "value": "{brk-opt-color-lq-main.500}",
+        "type": "color"
+      },
+      "background-color-default": {
+        "value": "{brk-opt-color-neutral.0}",
+        "type": "color"
+      },
+      "border-color-default": {
+        "value": "{brk-opt-color-neutral.transparent}",
+        "type": "color"
+      },
+      "font-color-hover": {
+        "value": "{brk-opt-color-lq-main.600}",
+        "type": "color"
+      },
+      "icon-fill-hover": {
+        "value": "{brk-opt-color-lq-main.500}",
+        "type": "color"
+      },
+      "background-color-hover": {
+        "value": "{brk-opt-color-neutral.0}",
+        "type": "color"
+      },
+      "border-color-hover": {
+        "value": "{brk-opt-color-neutral.transparent}",
+        "type": "color"
+      },
+      "font-weight": {
+        "value": "bold",
+        "type": "fontWeights"
+      }
     },
     "font-family": {
       "value": "arial",
@@ -19,12 +53,6 @@
     "color-hover": {
       "value": "#f2f3f4",
       "type": "color"
-    },
-    "primary": {
-      "font-weight": {
-        "value": "bold",
-        "type": "fontWeights"
-      }
     },
     "secondary": {
       "font-weight": {

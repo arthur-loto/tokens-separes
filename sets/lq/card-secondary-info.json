@@ -410,11 +410,6 @@
       "heading-font-size": {
         "value": "{brk-opt-font-size.16}",
         "type": "fontSizes"
-      },
-      "height": {
-        "value": "{brk-opt-size.24}",
-        "type": "sizing",
-        "description": " "
       }
     },
     "md": {
@@ -426,22 +421,12 @@
       "heading-font-size": {
         "value": "{brk-opt-font-size.20}",
         "type": "fontSizes"
-      },
-      "height": {
-        "value": "{brk-opt-size.28}",
-        "type": "sizing",
-        "description": " "
       }
     },
     "lg": {
       "heading-font-size": {
         "value": "{brk-opt-font-size.24}",
         "type": "fontSizes"
-      },
-      "height": {
-        "value": "{brk-opt-size.32}",
-        "type": "sizing",
-        "description": " "
       }
     },
     "heading-font-family": {
