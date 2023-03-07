@@ -51,8 +51,12 @@
           "type": "color"
         }
       },
+      "font-family": {
+        "value": "{brk-opt-font-family.brand-main}",
+        "type": "fontFamilies"
+      },
       "font-weight": {
-        "value": "bold",
+        "value": "{brk-opt-font-weight.700}",
         "type": "fontWeights"
       },
       "inverted": {
@@ -106,21 +110,13 @@
         }
       }
     },
-    "font-family": {
-      "value": "arial",
-      "type": "fontFamilies"
-    },
-    "font-size": {
-      "value": "14px",
-      "type": "fontSizes"
-    },
-    "height": {
-      "value": "{brk-opt-size.32}",
-      "type": "sizing"
-    },
     "secondary": {
+      "font-family": {
+        "value": "{brk-opt-font-family.webfont}",
+        "type": "fontFamilies"
+      },
       "font-weight": {
-        "value": "normal",
+        "value": "{brk-opt-font-weight.400}",
         "type": "fontWeights"
       },
       "standard": {
@@ -224,13 +220,21 @@
         }
       }
     },
+    "font-size": {
+      "value": "{brk-opt-font-size.14}",
+      "type": "fontSizes"
+    },
+    "height": {
+      "value": "{brk-opt-size.32}",
+      "type": "sizing"
+    },
     "icon-size": {
       "value": "{brk-opt-size.16}",
       "type": "sizing"
     },
     "minimized": {
       "font-size": {
-        "value": "10px",
+        "value": "{brk-opt-font-size.14}-4px",
         "type": "fontSizes"
       },
       "padding-vertical": {
@@ -244,25 +248,25 @@
       "description": "??????"
     },
     "letter-spacing": {
-      "value": "normal",
+      "value": "{brk-opt-letter-spacing.0%}",
       "type": "letterSpacing"
     },
     "line-height": {
-      "value": "100%",
+      "value": "{brk-opt-line-height.100%}",
       "type": "lineHeights"
     },
-    "text-transform": {
-      "value": "none",
-      "type": "other"
-    },
     "text-decoration": {
-      "value": "none",
+      "value": "{brk-opt-text-decoration.none}",
       "type": "textDecoration"
     },
     "icon-left": {
       "value": "25px",
       "type": "sizing",
       "description": "À effacer?"
+    },
+    "text-transform": {
+      "value": "{brk-opt-text-transform.none}",
+      "type": "textCase"
     }
   },
   "brk-menu-vertical": {
@@ -401,19 +405,15 @@
       }
     },
     "letter-spacing": {
-      "value": "normal",
+      "value": "{brk-opt-letter-spacing.0%}",
       "type": "letterSpacing"
     },
     "line-height": {
-      "value": "100%",
+      "value": "{brk-opt-line-height.100%}",
       "type": "lineHeights"
     },
-    "text-transform": {
-      "value": "none",
-      "type": "other"
-    },
     "text-decoration": {
-      "value": "none",
+      "value": "{brk-opt-text-decoration.none}",
       "type": "textDecoration"
     },
     "inverted": {
@@ -425,6 +425,10 @@
         "value": "{brk-opt-color-lq-main.600}",
         "type": "color"
       }
+    },
+    "text-transform": {
+      "value": "{brk-opt-text-transform.none}",
+      "type": "textCase"
     }
   }
 }
