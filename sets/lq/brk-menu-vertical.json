@@ -370,6 +370,16 @@
           "value": "{brk-opt-color-neutral.transparent}",
           "type": "color"
         }
+      },
+      "icon": {
+        "size": {
+          "value": "{brk-opt-size.16}",
+          "type": "sizing"
+        },
+        "padding-left": {
+          "value": "{brk-opt-space.8}",
+          "type": "spacing"
+        }
       }
     },
     "standard": {
@@ -392,16 +402,6 @@
       "width": {
         "value": "{brk-opt-size.56}",
         "type": "sizing"
-      }
-    },
-    "icon": {
-      "size": {
-        "value": "{brk-opt-size.16}",
-        "type": "sizing"
-      },
-      "padding-left": {
-        "value": "{brk-opt-space.8}",
-        "type": "spacing"
       }
     },
     "letter-spacing": {
