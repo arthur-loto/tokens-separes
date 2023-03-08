@@ -302,10 +302,6 @@
         "type": "sizing"
       },
       "standard": {
-        "font-color-default": {
-          "value": "{brk-opt-color-lq-main.900}",
-          "type": "color"
-        },
         "icon-fill-default": {
           "value": "{brk-opt-color-lq-main.728}",
           "type": "color"
@@ -318,10 +314,6 @@
           "value": "{brk-opt-color-neutral.transparent}",
           "type": "color"
         },
-        "font-color-hover": {
-          "value": "{brk-opt-color-lq-main.900}",
-          "type": "color"
-        },
         "icon-fill-hover": {
           "value": "{brk-opt-color-lq-main.728}",
           "type": "color"
@@ -332,10 +324,6 @@
         },
         "border-color-hover": {
           "value": "{brk-opt-color-neutral.transparent}",
-          "type": "color"
-        },
-        "font-color-focus": {
-          "value": "{brk-opt-color-lq-main.900}",
           "type": "color"
         },
         "icon-fill-focus": {
@@ -352,44 +340,32 @@
         }
       },
       "inverted": {
-        "font-color-default": {
-          "value": "{brk-opt-color-lq-main.50}",
-          "type": "color"
-        },
         "icon-fill-default": {
-          "value": "{brk-opt-color-lq-main.100}",
+          "value": "{brk-opt-color-neutral.50}",
           "type": "color"
         },
         "background-color-default": {
-          "value": "{brk-opt-color-lq-main.900}",
+          "value": "{brk-opt-color-neutral.900}",
           "type": "color"
         },
         "border-color-default": {
           "value": "{brk-opt-color-neutral.transparent}",
           "type": "color"
         },
-        "font-color-hover": {
-          "value": "{brk-opt-color-lq-main.900}",
-          "type": "color"
-        },
         "icon-fill-hover": {
-          "value": "{brk-opt-color-lq-main.728}",
+          "value": "{brk-opt-color-neutral.50}",
           "type": "color"
         },
         "background-color-hover": {
-          "value": "{brk-opt-color-neutral.0}",
+          "value": "{brk-opt-color-neutral.900}",
           "type": "color"
         },
         "border-color-hover": {
           "value": "{brk-opt-color-neutral.transparent}",
           "type": "color"
         },
-        "font-color-focus": {
-          "value": "{brk-opt-color-lq-main.900}",
-          "type": "color"
-        },
         "icon-fill-focus": {
-          "value": "{brk-opt-color-lq-main.728}",
+          "value": "{brk-opt-color-neutral.50}",
           "type": "color"
         },
         "background-color-focus": {
