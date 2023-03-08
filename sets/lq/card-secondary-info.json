@@ -439,7 +439,7 @@
         "type": "fontSizes"
       },
       "height": {
-        "value": "{brk-opt-size.32}",
+        "value": "{brk-opt-size.32}+4",
         "type": "sizing",
         "description": " "
       }
