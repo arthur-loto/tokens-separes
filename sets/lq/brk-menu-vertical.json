@@ -243,17 +243,16 @@
       "type": "fontSizes"
     },
     "height": {
-      "value": "{brk-opt-size.32}",
+      "value": "{brk-opt-size.40}",
       "type": "sizing"
     },
     "icon-size": {
       "value": "{brk-opt-size.16}",
       "type": "sizing"
     },
-    "padding-left": {
-      "value": "50px",
-      "type": "spacing",
-      "description": "??????"
+    "padding-horizontal": {
+      "value": "{brk-opt-space.8}",
+      "type": "spacing"
     },
     "letter-spacing": {
       "value": "{brk-opt-letter-spacing.0%}",
@@ -266,11 +265,6 @@
     "text-decoration": {
       "value": "{brk-opt-text-decoration.none}",
       "type": "textDecoration"
-    },
-    "icon-left": {
-      "value": "25px",
-      "type": "sizing",
-      "description": "À effacer?"
     },
     "text-transform": {
       "value": "{brk-opt-text-transform.none}",
@@ -408,7 +402,7 @@
     },
     "minimized": {
       "width": {
-        "value": "{brk-opt-size.56}",
+        "value": "{brk-opt-size.72}",
         "type": "sizing"
       }
     },
