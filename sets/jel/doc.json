@@ -6,7 +6,7 @@
       "description": " "
     },
     "inverted-background-color": {
-      "value": "{brk-opt-color-neutral.900}",
+      "value": "{brk-opt-color-neutral.800}",
       "type": "color",
       "description": " "
     },
