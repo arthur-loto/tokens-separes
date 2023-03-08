@@ -341,7 +341,7 @@
         "description": " "
       },
       "height": {
-        "value": "{brk-opt-size.32}",
+        "value": "{brk-opt-size.32}+4px",
         "type": "sizing",
         "description": " "
       }
