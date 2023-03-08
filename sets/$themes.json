@@ -18,8 +18,7 @@
       "lq/text": "enabled",
       "lq/thumbnail-product": "enabled",
       "lq/card-medium-density": "enabled",
-      "lq/brk-menu-vertical": "enabled",
-      "jel/brk-menu-vertical": "disabled"
+      "lq/brk-menu-vertical": "enabled"
     },
     "$figmaStyleReferences": {}
   },
