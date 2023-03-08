@@ -30,6 +30,11 @@
       "type": "color",
       "description": " "
     },
+    "800": {
+      "value": "hsl({brk-opt-color-neutral.hue}, {brk-opt-color-neutral.saturation}%, 20%)",
+      "type": "color",
+      "description": " "
+    },
     "900": {
       "value": "hsl({brk-opt-color-neutral.hue}, {brk-opt-color-neutral.saturation}%, 10%)",
       "type": "color",

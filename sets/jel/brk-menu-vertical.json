@@ -434,7 +434,7 @@
     },
     "inverted": {
       "background-color": {
-        "value": "{brk-opt-color-lq-main.900}",
+        "value": "{brk-opt-color-neutral.900}",
         "type": "color"
       },
       "border-color": {
