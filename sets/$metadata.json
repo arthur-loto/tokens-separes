@@ -29,6 +29,7 @@
     "lq/template",
     "lq/text",
     "lq/thumbnail-product",
-    "lq/brk-menu-vertical"
+    "lq/brk-menu-vertical",
+    "jel/brk-menu-vertical"
   ]
 }

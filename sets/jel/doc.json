@@ -1,12 +1,12 @@
 {
   "brk-doc": {
     "standard-background-color": {
-      "value": "{brk-opt-color-neutral.50}",
+      "value": "{brk-opt-color-neutral.25}",
       "type": "color",
       "description": " "
     },
     "inverted-background-color": {
-      "value": "{brk-opt-color-neutral.900}",
+      "value": "{brk-opt-color-neutral.800}",
       "type": "color",
       "description": " "
     },
