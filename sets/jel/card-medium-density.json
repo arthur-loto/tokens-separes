@@ -30,7 +30,7 @@
         "type": "fontSizes"
       },
       "subtitle-font-size": {
-        "value": "{brk-opt-font-size.16}",
+        "value": "{brk-opt-font-size.14}",
         "type": "fontSizes"
       },
       "body-font-size": {
@@ -195,7 +195,7 @@
       "type": "lineHeights"
     },
     "subtitle-line-height": {
-      "value": "{brk-opt-line-height.100%}",
+      "value": "{brk-opt-line-height.120%}",
       "type": "lineHeights"
     },
     "body-line-height": {
