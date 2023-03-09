@@ -245,7 +245,7 @@
         "value": "{brk-opt-font-size.14}-4px",
         "type": "fontSizes"
       },
-      "content-gap-vertical": {
+      "icon-gap": {
         "value": "{brk-opt-space.2}",
         "type": "spacing",
         "description": "NOTE : séparation entre le libellé et l'icône."
@@ -271,7 +271,7 @@
       "value": "{brk-opt-space.8}",
       "type": "spacing"
     },
-    "content-gap-horizontal": {
+    "icon-gap": {
       "value": "{brk-opt-space.8}",
       "type": "spacing",
       "description": "NOTE : séparation entre le libellé et l'icône."
