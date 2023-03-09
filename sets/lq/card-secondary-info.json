@@ -424,7 +424,7 @@
         "description": " "
       },
       "heading-font-size": {
-        "value": "{brk-opt-font-size.20}",
+        "value": "{brk-opt-font-size.16}",
         "type": "fontSizes"
       },
       "height": {
