@@ -316,7 +316,7 @@
   "brk-card-secondary-info-line": {
     "md": {
       "heading-font-size": {
-        "value": "{brk-opt-font-size.20}",
+        "value": "{brk-opt-font-size.16}",
         "type": "fontSizes"
       },
       "padding-horizontal": {
@@ -332,7 +332,7 @@
     },
     "lg": {
       "heading-font-size": {
-        "value": "{brk-opt-font-size.24}",
+        "value": "{brk-opt-font-size.20}",
         "type": "fontSizes"
       },
       "padding-horizontal": {
@@ -341,7 +341,7 @@
         "description": " "
       },
       "height": {
-        "value": "{brk-opt-size.32}+4px",
+        "value": "{brk-opt-size.32}+6px",
         "type": "sizing",
         "description": " "
       }
@@ -371,7 +371,7 @@
       "type": "fontWeights"
     },
     "heading-line-height": {
-      "value": "{brk-opt-line-height.100%}",
+      "value": "{brk-opt-line-height.120%}",
       "type": "lineHeights"
     },
     "heading-letter-spacing": {
