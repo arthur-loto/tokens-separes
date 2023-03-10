@@ -290,7 +290,7 @@
     },
     "border-width": {
       "value": "{brk-opt-border-width.1}",
-      "type": "border"
+      "type": "borderWidth"
     }
   },
   "brk-menu-vertical": {
