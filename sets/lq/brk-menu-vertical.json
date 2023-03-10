@@ -289,9 +289,7 @@
       "type": "textDecoration"
     },
     "border-width": {
-      "value": {
-        "width": "{brk-opt-border-width.1}"
-      },
+      "value": "{brk-opt-border-width.1}",
       "type": "border"
     }
   },
