@@ -191,7 +191,7 @@
       "type": "fontWeights"
     },
     "heading-line-height": {
-      "value": "{brk-opt-line-height.100%}",
+      "value": "{brk-opt-line-height.120%}",
       "type": "lineHeights"
     },
     "subtitle-line-height": {
