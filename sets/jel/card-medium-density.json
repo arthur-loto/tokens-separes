@@ -138,7 +138,7 @@
         "type": "spacing"
       },
       "subtitle-margin-top": {
-        "value": "{brk-opt-space.12}",
+        "value": "{brk-opt-space.8}",
         "type": "spacing"
       },
       "body-margin-top": {
@@ -191,7 +191,7 @@
       "type": "fontWeights"
     },
     "heading-line-height": {
-      "value": "{brk-opt-line-height.120%}",
+      "value": "{brk-opt-line-height.100%}",
       "type": "lineHeights"
     },
     "subtitle-line-height": {

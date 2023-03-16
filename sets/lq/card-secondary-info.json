@@ -301,7 +301,7 @@
         "type": "spacing"
       },
       "heading-font-size": {
-        "value": "{brk-opt-font-size.20}",
+        "value": "{brk-opt-font-size.16}",
         "type": "fontSizes"
       },
       "body-font-size": {
@@ -439,8 +439,13 @@
         "type": "fontSizes"
       },
       "height": {
-        "value": "{brk-opt-size.32}+6",
+        "value": "{brk-opt-size.32}+6px",
         "type": "sizing",
+        "description": " "
+      },
+      "padding-horizontal": {
+        "value": "{brk-opt-space.20}",
+        "type": "spacing",
         "description": " "
       }
     },
