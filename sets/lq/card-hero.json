@@ -147,7 +147,7 @@
       "description": " "
     },
     "border-radius": {
-      "value": "{brk-opt-border-radius.4}",
+      "value": "{brk-opt-border-radius.24}",
       "type": "borderRadius",
       "description": " "
     },
