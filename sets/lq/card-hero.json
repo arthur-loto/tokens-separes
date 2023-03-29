@@ -237,7 +237,7 @@
       "description": " "
     },
     "background-color": {
-      "value": "{brk-opt-color-neutral.0}",
+      "value": "{brk-opt-color-moj.second}",
       "type": "color",
       "description": " "
     },
